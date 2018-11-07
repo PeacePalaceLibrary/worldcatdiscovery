@@ -1,0 +1,1335 @@
+
+Request:
+POST /oauth2/accessToken?grant_type=client_credentials&authenticatingInstitutionId=57439&contextInstitutionId=57439&scope=WorldCatDiscoveryAPI%20 HTTP/1.1
+Host: authn.sd00.worldcat.org
+Authorization: http://www.worldcat.org/wskey/v2/hmac/v1 clientId="7s3Bny4hZv9tE6XTK7LNYzSgnyIkYgU6WCRqqplgqQDefRIDk0cQDsDPWb2sM9KU9EswqCESZrXu29Xq", timestamp="1541583323", nonce="4663188905aa5e9f", signature="/TX26Z4gd4MogSxT30kCfm4Epf7ugkIn2VyyaBz8dkA="
+
+Response:
+HTTP/1.1 200
+X-OCLC-RequestId: 826c808a-5242-4320-a6a9-09bddafd91b0
+Cache-Control: no-store
+Pragma: no-cache
+Set-Cookie: JSESSIONID=EA5463F409C104BE89E76AE1A9D06015; Path=/; Secure; HttpOnly
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Wed, 07 Nov 2018 09:35:23 GMT
+
+{
+  "access_token": "tk_d2u488kwPUIliaEqvLYdORj0qlzjIzrQ4wI9",
+  "expires_at": "2018-11-07 09:55:23Z",
+  "authenticating_institution_id": "57439",
+  "principalID": "",
+  "context_institution_id": "57439",
+  "token_type": "bearer",
+  "expires_in": 1199,
+  "principalIDNS": ""
+}
+
+
+Request:
+GET /discovery/bib/search?q=economy&dbIds=638 HTTP/1.1
+Host: beta.worldcat.org
+Authorization: Bearer tk_d2u488kwPUIliaEqvLYdORj0qlzjIzrQ4wI9
+Accept: application/json
+Response:
+HTTP/1.1 200 OK
+Date: Wed, 07 Nov 2018 09:36:07 GMT
+X-OCLC-RequestId: ea3a1ed4-b329-477a-9250-d83e2c834821
+X-OCLC-SelfId: 96aac349-6d62-42dc-b566-7f01460b88d5
+Content-Type: application/json; charset=UTF-8
+Content-Location: http://beta.worldcat.org/discovery/bib/search.json?q=economy&dbIds=638
+Vary: Accept-Encoding, User-Agent
+Transfer-Encoding: chunked
+
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "void": "http://rdfs.org/ns/void#",
+    "schema": "http://schema.org/",
+    "discovery": "http://worldcat.org/vocab/discovery/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "library": "http://purl.org/library/",
+    "gr": "http://purl.org/goodrelations/v1#",
+    "umbel": "http://umbel.org/umbel#"
+  },
+  "@graph": [
+    {
+      "@id": "https://beta.worldcat.org/discovery/bib/search?dbIds=638&itemsPerPage=10&q=economy&sortBy=relevance&startIndex=0",
+      "@type": "discovery:SearchResults",
+      "discovery:hasPart": [
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/559332184",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/559332184",
+            "@type": [
+              "schema:Book",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "1"
+            },
+            "library:oclcnum": "559332184",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4202735593#Place/windsor_conn",
+                "@type": "schema:Place",
+                "schema:name": "Windsor Conn."
+              },
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/ctu",
+                "@type": "schema:Place",
+                "dcterms:identifier": "ctu"
+              }
+            ],
+            "schema:bookEdition": "Thirty-fourth ed.",
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:contributor": {
+              "@id": "http://viaf.org/viaf/47589",
+              "@type": "schema:Person",
+              "schema:birthDate": "1704",
+              "schema:deathDate": "1764",
+              "schema:familyName": "Dodsley",
+              "schema:givenName": "Robert",
+              "schema:name": "Robert Dodsley"
+            },
+            "schema:creator": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/4202735593#Person/economy",
+              "@type": "schema:Person",
+              "schema:givenName": "ECONOMY",
+              "schema:name": "ECONOMY."
+            },
+            "schema:datePublished": "1792",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/4202735593"
+            },
+            "schema:inLanguage": "en",
+            "schema:name": {
+              "@language": "en",
+              "@value": "[The economy of human life. In two parts, etc. [pt. 1 by R. Dodsley; pt. 2 by John Hill, M.D.?]]."
+            },
+            "schema:productID": "559332184",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/559332184#PublicationEvent/windsor_conn_1792",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4202735593#Place/windsor_conn"
+              },
+              "schema:startDate": "1792"
+            },
+            "http://www.w3.org/2000/01/rdf-schema#seeAlso": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/4202735593#CreativeWork/economy_of_human_life",
+              "@type": "schema:CreativeWork",
+              "schema:creator": {
+                "@id": "http://viaf.org/viaf/47589"
+              },
+              "schema:name": "Economy of human life."
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/559332184"
+            }
+          },
+          "schema:dateModified": "2018-04-08"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/13122491",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/13122491",
+            "@type": [
+              "schema:Book",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "2"
+            },
+            "library:oclcnum": "13122491",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Place/seoul_korea",
+                "@type": "schema:Place",
+                "schema:name": "Seoul, Korea"
+              },
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/ko",
+                "@type": "schema:Place",
+                "dcterms:identifier": "ko"
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://id.worldcat.org/fast/1206791",
+                "@type": "schema:Place",
+                "schema:name": "Korea (South)"
+              },
+              {
+                "@id": "http://dewey.info/class/330.95195043/e19/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/901974"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Event/1960_1988",
+                "@type": "schema:Event",
+                "schema:name": "1960-1988"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Place/korea_south",
+                "@type": "schema:Place",
+                "schema:name": "Korea (South)"
+              }
+            ],
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:contributor": {
+              "@id": "http://viaf.org/viaf/147941994",
+              "@type": "schema:Organization",
+              "schema:name": "Korean Overseas Information Service."
+            },
+            "schema:datePublished": "1982",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/54791110"
+            },
+            "schema:inLanguage": "en",
+            "schema:isPartOf": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Series/korea_background_series",
+              "@type": "http://bibliograph.net/PublicationSeries",
+              "schema:hasPart": {
+                "@id": "http://www.worldcat.org/oclc/13122491"
+              },
+              "schema:name": "Korea background series ;"
+            },
+            "schema:isSimilarTo": {
+              "@id": "http://www.worldcat.org/oclc/762774682",
+              "@type": "schema:CreativeWork",
+              "schema:description": "Online version:",
+              "schema:isSimilarTo": {
+                "@id": "http://www.worldcat.org/oclc/13122491"
+              },
+              "http://www.w3.org/2000/01/rdf-schema#label": "Economy."
+            },
+            "schema:name": {
+              "@language": "en",
+              "@value": "The Economy."
+            },
+            "schema:productID": "13122491",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/13122491#PublicationEvent/seoul_korea_korean_overseas_information_service_1982",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Place/seoul_korea"
+              },
+              "schema:organizer": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Agent/korean_overseas_information_service",
+                "@type": "http://bibliograph.net/Agent",
+                "schema:name": "Korean Overseas Information Service"
+              },
+              "schema:startDate": "1982"
+            },
+            "schema:publisher": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/54791110#Agent/korean_overseas_information_service"
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/13122491"
+            }
+          },
+          "schema:dateModified": "2018-03-11"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/468692787",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/468692787",
+            "@type": [
+              "schema:CreativeWork",
+              "schema:Book"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "4"
+            },
+            "library:oclcnum": "468692787",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/nju"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1929861#Place/englewood_cliffs_n_j",
+                "@type": "schema:Place",
+                "schema:name": "Englewood Cliffs, N.J."
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://id.worldcat.org/fast/901974"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1929861#Place/united_states",
+                "@type": "schema:Place",
+                "schema:name": "United States"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1929861#Event/since_1961",
+                "@type": "schema:Event",
+                "schema:name": "Since 1961"
+              },
+              {
+                "@id": "http://dewey.info/class/330.9/e18/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/1204155"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1929861#Thing/united_states",
+                "@type": "schema:Thing",
+                "schema:name": "United States"
+              }
+            ],
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:contributor": {
+              "@id": "http://viaf.org/viaf/3714321",
+              "@type": "schema:Person",
+              "schema:familyName": "Schiller",
+              "schema:givenName": "Bradley R.",
+              "schema:name": "Bradley R. Schiller"
+            },
+            "schema:copyrightYear": "1975",
+            "schema:creator": {
+              "@id": "http://viaf.org/viaf/3714321"
+            },
+            "schema:datePublished": "1975",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/1929861"
+            },
+            "schema:inLanguage": "en",
+            "schema:name": "The economy",
+            "schema:productID": "468692787",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/468692787#PublicationEvent/englewood_cliffs_n_j_1975",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1929861#Place/englewood_cliffs_n_j"
+              }
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/468692787"
+            }
+          },
+          "schema:dateModified": "2018-03-10"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/577040476",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/577040476",
+            "@type": [
+              "schema:MediaObject",
+              "schema:CreativeWork",
+              "schema:Book"
+            ],
+            "http://bibliograph.net/translationOfWork": {
+              "@id": "http://www.worldcat.org/title/-/oclc/577040476#CreativeWork/unidentifiedOriginalWork",
+              "@type": "schema:CreativeWork",
+              "schema:inLanguage": "zh"
+            },
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "5"
+            },
+            "library:oclcnum": "577040476",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/cc",
+                "@type": "schema:Place",
+                "dcterms:identifier": "cc"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Place/beijing",
+                "@type": "schema:Place",
+                "schema:name": "Beijing"
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://id.worldcat.org/fast/1206073",
+                "@type": "schema:Place",
+                "schema:name": "China."
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Event/since_1949",
+                "@type": "schema:Event",
+                "schema:name": "Since 1949"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/901974",
+                "@type": "schema:Intangible",
+                "schema:name": [
+                  {
+                    "@language": "en",
+                    "@value": "Economic history"
+                  },
+                  "Economic history"
+                ]
+              },
+              {
+                "@id": "http://dewey.info/class/330.95105/e19/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Place/china",
+                "@type": "schema:Place",
+                "schema:name": "China"
+              }
+            ],
+            "schema:bookEdition": "1st ed.",
+            "schema:bookFormat": {
+              "@id": "schema:EBook"
+            },
+            "schema:contributor": [
+              {
+                "@id": "http://viaf.org/viaf/311326782",
+                "@type": "schema:Person",
+                "schema:familyName": "Liu",
+                "schema:givenName": "Bingwen",
+                "schema:name": "Bingwen Liu"
+              },
+              {
+                "@id": "http://viaf.org/viaf/166276814",
+                "@type": "schema:Person",
+                "schema:familyName": "Zhang",
+                "schema:givenName": "Tingquan",
+                "schema:name": "Tingquan Zhang"
+              },
+              {
+                "@id": "http://viaf.org/viaf/45699420",
+                "@type": "schema:Person",
+                "schema:familyName": "Hu",
+                "schema:givenName": "Gengkang",
+                "schema:name": "Gengkang Hu"
+              },
+              {
+                "@id": "http://viaf.org/viaf/143098778",
+                "@type": "schema:Organization",
+                "schema:name": "\"Zhongguo shou ce\" bian ji wei yuan hui."
+              }
+            ],
+            "schema:datePublished": "1984",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/54688537",
+              "schema:name": {
+                "@language": "en",
+                "@value": "Jing ji."
+              }
+            },
+            "schema:genre": {
+              "@language": "en",
+              "@value": "Handbooks and manuals"
+            },
+            "schema:inLanguage": "en",
+            "schema:isPartOf": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Series/china_handbook_series",
+              "@type": "http://bibliograph.net/PublicationSeries",
+              "schema:hasPart": {
+                "@id": "http://www.worldcat.org/oclc/577040476"
+              },
+              "schema:name": [
+                "China handbook series",
+                "China handbook series."
+              ]
+            },
+            "schema:isSimilarTo": {
+              "@id": "http://www.worldcat.org/oclc/11574668",
+              "@type": "schema:CreativeWork",
+              "schema:description": "Print version:",
+              "schema:isSimilarTo": {
+                "@id": "http://www.worldcat.org/oclc/577040476"
+              },
+              "http://www.w3.org/2000/01/rdf-schema#label": "Economy."
+            },
+            "schema:name": {
+              "@language": "en",
+              "@value": "Economy"
+            },
+            "schema:productID": "577040476",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/577040476#PublicationEvent/beijing_foreign_languages_press_distributed_by_china_publications_centre_1984",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Place/beijing"
+              },
+              "schema:organizer": [
+                {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Agent/foreign_languages_press",
+                  "@type": "http://bibliograph.net/Agent",
+                  "schema:name": "Foreign Languages Press"
+                },
+                {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Agent/distributed_by_china_publications_centre",
+                  "@type": "http://bibliograph.net/Agent",
+                  "schema:name": "Distributed by China Publications Centre"
+                }
+              ],
+              "schema:startDate": "1984"
+            },
+            "schema:publisher": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Agent/foreign_languages_press"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/54688537#Agent/distributed_by_china_publications_centre"
+              }
+            ],
+            "schema:url": [
+              {
+                "@id": "http://books.google.com/books?id=3OZMAAAAMAAJ"
+              },
+              {
+                "@id": "http://books.google.com/books?id=olmwAAAAIAAJ"
+              },
+              {
+                "@id": "http://catalog.hathitrust.org/api/volumes/oclc/11574668.html"
+              }
+            ],
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/577040476"
+            }
+          },
+          "schema:dateModified": "2018-03-10"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/54439207",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/54439207",
+            "@type": [
+              "schema:MediaObject",
+              "schema:WebSite",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "6"
+            },
+            "library:oclcnum": "54439207",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Place/washington_d_c",
+                "@type": "schema:Place",
+                "schema:name": "Washington, D.C."
+              },
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/dcu",
+                "@type": "schema:Place",
+                "dcterms:identifier": "dcu"
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Place/united_states",
+                "@type": "schema:Place",
+                "schema:name": "United States"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Topic/government_publications_united_states",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Government publications--United States"
+                },
+                "http://www.w3.org/2000/01/rdf-schema#seeAlso": {
+                  "@id": "http://id.loc.gov/authorities/subjects/sh2008118327"
+                }
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/945492",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Government publications"
+                }
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/901974"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/1204155",
+                "@type": "schema:Place",
+                "schema:name": [
+                  "United States.",
+                  "United States"
+                ]
+              }
+            ],
+            "schema:alternateName": "Subject bibliography, the economy",
+            "schema:contributor": {
+              "@id": "http://viaf.org/viaf/130186149",
+              "@type": "schema:Organization",
+              "schema:name": "United States. Superintendent of Documents."
+            },
+            "schema:datePublished": "2003/20uu",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/2517203419",
+              "schema:name": {
+                "@language": "en",
+                "@value": "Economy (United States. Superintendent of Documents : Online)"
+              }
+            },
+            "schema:genre": [
+              {
+                "@language": "en",
+                "@value": "Government publication"
+              },
+              {
+                "@language": "en",
+                "@value": "National government publication"
+              },
+              {
+                "@language": "en",
+                "@value": "Bibliographies"
+              },
+              {
+                "@language": "en",
+                "@value": "Catalogs"
+              },
+              {
+                "@language": "en",
+                "@value": "Bibliography"
+              }
+            ],
+            "schema:inLanguage": "en",
+            "schema:isPartOf": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Series/subject_bibliography",
+              "@type": "http://bibliograph.net/PublicationSeries",
+              "schema:creator": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Organization/united_states_superintendent_of_documents",
+                "@type": "schema:Organization",
+                "schema:name": "United States. Superintendent of Documents."
+              },
+              "schema:hasPart": {
+                "@id": "http://www.worldcat.org/oclc/54439207"
+              },
+              "schema:name": "Subject bibliography ;"
+            },
+            "schema:isSimilarTo": {
+              "@id": "http://www.worldcat.org/oclc/31354158",
+              "@type": [
+                "schema:Periodical",
+                "schema:CreativeWork"
+              ],
+              "gr:displayPosition": {
+                "@type": "http://www.w3.org/2001/XMLSchema#integer",
+                "@value": "3"
+              },
+              "library:oclcnum": "31354158",
+              "library:placeOfPublication": [
+                {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Place/washington_dc",
+                  "@type": "schema:Place",
+                  "schema:name": "Washington, DC"
+                },
+                {
+                  "@id": "http://id.loc.gov/vocabulary/countries/dcu"
+                }
+              ],
+              "schema:about": [
+                {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Topic/government_publications_united_states",
+                  "@type": "schema:Intangible",
+                  "schema:name": {
+                    "@language": "en",
+                    "@value": "Government publications--United States"
+                  },
+                  "http://www.w3.org/2000/01/rdf-schema#seeAlso": {
+                    "@id": "http://id.loc.gov/authorities/subjects/sh2008118327"
+                  }
+                },
+                {
+                  "@id": "http://id.loc.gov/authorities/classification/Z719",
+                  "@type": "schema:Intangible"
+                },
+                {
+                  "@id": "http://id.worldcat.org/fast/945492"
+                },
+                {
+                  "@id": "http://id.worldcat.org/fast/1204155"
+                },
+                {
+                  "@id": "http://id.worldcat.org/fast/901974"
+                },
+                {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Place/united_states",
+                  "@type": "schema:Place",
+                  "schema:name": "United States"
+                }
+              ],
+              "schema:alternateName": [
+                "U.S. government publications about-- the economy",
+                "U.S. government information about-- the economy"
+              ],
+              "schema:contributor": {
+                "@id": "http://viaf.org/viaf/130186149"
+              },
+              "schema:datePublished": [
+                "1994/2003",
+                "1994/"
+              ],
+              "schema:exampleOfWork": {
+                "@id": "http://worldcat.org/entity/work/id/55863238",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Economy (United States. Superintendent of Documents)"
+                }
+              },
+              "schema:genre": [
+                {
+                  "@language": "en",
+                  "@value": "Bibliography"
+                },
+                {
+                  "@language": "en",
+                  "@value": "National government publication"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Government publication"
+                }
+              ],
+              "schema:inLanguage": "en",
+              "schema:isPartOf": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Series/subject_bibliography",
+                "@type": "http://bibliograph.net/PublicationSeries",
+                "schema:creator": {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Organization/united_states_superintendent_of_documents",
+                  "@type": "schema:Organization",
+                  "schema:name": "United States. Superintendent of Documents."
+                },
+                "schema:hasPart": {
+                  "@id": "http://www.worldcat.org/oclc/31354158"
+                },
+                "schema:name": "Subject bibliography ;"
+              },
+              "schema:isSimilarTo": {
+                "@id": "http://www.worldcat.org/oclc/54439207"
+              },
+              "schema:name": {
+                "@language": "en",
+                "@value": "The economy."
+              },
+              "schema:productID": "31354158",
+              "schema:publication": {
+                "@id": "http://www.worldcat.org/title/-/oclc/31354158#PublicationEvent/washington_dc_u_s_g_p_o_supt_of_docs_1994",
+                "@type": "schema:PublicationEvent",
+                "schema:location": {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Place/washington_dc"
+                },
+                "schema:organizer": {
+                  "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Agent/u_s_g_p_o_supt_of_docs",
+                  "@type": "http://bibliograph.net/Agent",
+                  "schema:name": "U.S. G.P.O., Supt. of Docs."
+                },
+                "schema:startDate": "1994-"
+              },
+              "schema:publisher": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/55863238#Agent/u_s_g_p_o_supt_of_docs"
+              },
+              "schema:url": {
+                "@id": "http://purl.access.gpo.gov/GPO/LPS4676",
+                "http://www.w3.org/2000/01/rdf-schema#comment": "No longer available"
+              },
+              "http://www.w3.org/2000/01/rdf-schema#label": "Economy (United States. Superintendent of Documents)",
+              "http://www.w3.org/2007/05/powder-s#describedby": {
+                "@id": "http://www.worldcat.org/title/-/oclc/31354158",
+                "@type": [
+                  "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+                  "http://www.w3.org/2006/gen/ont#InformationResource"
+                ],
+                "void:inDataset": {
+                  "@id": "http://purl.oclc.org/dataset/WorldCat"
+                },
+                "schema:about": {
+                  "@id": "http://www.worldcat.org/oclc/31354158"
+                },
+                "schema:dateModified": "2018-03-11"
+              }
+            },
+            "schema:name": {
+              "@language": "en",
+              "@value": "The economy."
+            },
+            "schema:productID": "54439207",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/54439207#PublicationEvent/washington_d_c_u_s_g_p_o_supt_of_docs",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Place/washington_d_c"
+              },
+              "schema:organizer": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Agent/u_s_g_p_o_supt_of_docs",
+                "@type": "http://bibliograph.net/Agent",
+                "schema:name": "U.S. G.P.O., Supt. of Docs."
+              }
+            },
+            "schema:publisher": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/2517203419#Agent/u_s_g_p_o_supt_of_docs"
+            },
+            "schema:url": {
+              "@id": "http://purl.access.gpo.gov/GPO/LPS4676"
+            },
+            "http://www.w3.org/2000/01/rdf-schema#comment": "Unknown 'gen' value: upw",
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/54439207"
+            }
+          },
+          "schema:dateModified": "2018-07-13"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/54345723",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/54345723",
+            "@type": [
+              "schema:CreativeWork",
+              "schema:Book"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "7"
+            },
+            "library:oclcnum": "54345723",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://dbpedia.org/resource/London",
+                "@type": "schema:Place",
+                "schema:name": "London"
+              },
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/enk",
+                "@type": "schema:Place",
+                "dcterms:identifier": "enk"
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://dewey.info/class/338.941/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/1204623",
+                "@type": "schema:Place",
+                "schema:name": "Great Britain."
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1494968#Place/great_britain",
+                "@type": "schema:Place",
+                "schema:name": "Great Britain"
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/902025",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Economic policy"
+                }
+              },
+              {
+                "@id": "http://id.worldcat.org/fast/1122738",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Social policy"
+                }
+              }
+            ],
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:creator": {
+              "@id": "http://viaf.org/viaf/251170689",
+              "@type": "schema:Organization",
+              "schema:name": "Labour Party (Great Britain)"
+            },
+            "schema:datePublished": "1978",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/1494968"
+            },
+            "schema:inLanguage": "en",
+            "schema:name": {
+              "@language": "en",
+              "@value": "The economy."
+            },
+            "schema:productID": "54345723",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/54345723#PublicationEvent/london_labour_party_1978",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://dbpedia.org/resource/London"
+              },
+              "schema:organizer": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1494968#Agent/labour_party",
+                "@type": "http://bibliograph.net/Agent",
+                "schema:name": "Labour Party"
+              },
+              "schema:startDate": "1978"
+            },
+            "schema:publisher": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/1494968#Agent/labour_party"
+            },
+            "schema:workExample": {
+              "@id": "http://worldcat.org/isbn/9780861170241",
+              "@type": "schema:ProductModel",
+              "schema:isbn": [
+                "9780861170241",
+                "0861170245"
+              ]
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/54345723"
+            }
+          },
+          "schema:dateModified": "2018-03-11"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/962216460",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/962216460",
+            "@type": [
+              "schema:Book",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "8"
+            },
+            "library:oclcnum": "962216460",
+            "library:placeOfPublication": [
+              {
+                "@id": "http://dbpedia.org/resource/New_York_City",
+                "@type": "schema:Place",
+                "schema:name": "New York"
+              },
+              {
+                "@id": "http://id.loc.gov/vocabulary/countries/nyu",
+                "@type": "schema:Place",
+                "dcterms:identifier": "nyu"
+              }
+            ],
+            "schema:about": [
+              {
+                "@id": "http://dewey.info/class/J/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://dewey.info/class/330/e22/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Topic/dk_books",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "DK books"
+                }
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Topic/economics",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Economics"
+                }
+              },
+              {
+                "@id": "http://dewey.info/class/330/a14/",
+                "@type": "schema:Intangible"
+              }
+            ],
+            "schema:audience": {
+              "@id": "http://www.worldcat.org/title/-/oclc/962216460#Audience",
+              "@type": "schema:PeopleAudience",
+              "schema:audienceType": {
+                "@language": "en",
+                "@value": "Juvenile"
+              }
+            },
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:creator": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Person/acton_johnny",
+              "@type": "schema:Person",
+              "schema:familyName": "Acton",
+              "schema:givenName": "Johnny",
+              "schema:name": "Johnny Acton"
+            },
+            "schema:datePublished": "2010",
+            "schema:description": [
+              {
+                "@language": "en",
+                "@value": "What is the economy? -- Economic goals -- Who decides? -- Making choices -- Owning things -- Division of labor -- Trade -- The birth of money -- Markets and prices -- Banking -- Savings and investments -- Currencies and exchange rates -- Companies and corporations -- The workforce -- Shares and bonds -- Speculation -- Booms and busts -- Credit crunch -- The role of governments -- Measuring the economy -- Tax -- Inflation -- The shadow economy -- Unemployment -- Globalization -- Rich and poor -- Can aid work? -- Future challenges -- The economy and you -- World in numbers."
+              },
+              {
+                "@language": "en",
+                "@value": "Offers an introduction to the economy, and explains such topics as division of labor, currencies and exchange rates, inflation, and unemployment."
+              }
+            ],
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/4455401546"
+            },
+            "schema:genre": [
+              {
+                "@language": "en",
+                "@value": "Juvenile works"
+              },
+              {
+                "@language": "en",
+                "@value": "Children's nonfiction"
+              },
+              {
+                "@language": "en",
+                "@value": "CD-ROMs"
+              },
+              {
+                "@language": "en",
+                "@value": "Digital images"
+              }
+            ],
+            "schema:inLanguage": "en",
+            "schema:isPartOf": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Series/eyewitness_dorling_kindersley_limited",
+                "@type": "http://bibliograph.net/PublicationSeries",
+                "schema:hasPart": {
+                  "@id": "http://www.worldcat.org/oclc/962216460"
+                },
+                "schema:name": "Eyewitness (Dorling Kindersley Limited)"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Series/eyewitness",
+                "@type": "http://bibliograph.net/PublicationSeries",
+                "schema:hasPart": {
+                  "@id": "http://www.worldcat.org/oclc/962216460"
+                },
+                "schema:name": [
+                  "Eyewitness",
+                  "Eyewitness."
+                ]
+              }
+            ],
+            "schema:name": {
+              "@language": "en",
+              "@value": "Economy"
+            },
+            "schema:productID": "962216460",
+            "schema:publication": {
+              "@id": "http://www.worldcat.org/title/-/oclc/962216460#PublicationEvent/new_york_dk_pub_2010",
+              "@type": "schema:PublicationEvent",
+              "schema:location": {
+                "@id": "http://dbpedia.org/resource/New_York_City"
+              },
+              "schema:organizer": {
+                "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Agent/dk_pub",
+                "@type": "http://bibliograph.net/Agent",
+                "schema:name": "DK Pub."
+              },
+              "schema:startDate": "2010"
+            },
+            "schema:publisher": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/4455401546#Agent/dk_pub"
+            },
+            "schema:workExample": [
+              {
+                "@id": "http://worldcat.org/isbn/9780756658274",
+                "@type": "schema:ProductModel",
+                "schema:isbn": [
+                  "9780756658274",
+                  "0756658276"
+                ]
+              },
+              {
+                "@id": "http://worldcat.org/isbn/9780756658267",
+                "@type": "schema:ProductModel",
+                "schema:isbn": [
+                  "9780756658267",
+                  "0756658268"
+                ]
+              },
+              {
+                "@id": "http://worldcat.org/isbn/9781405345361",
+                "@type": "schema:ProductModel",
+                "schema:isbn": [
+                  "9781405345361",
+                  "1405345365"
+                ]
+              }
+            ],
+            "umbel:isLike": {
+              "@id": "http://bnb.data.bl.uk/id/resource/GBA9C5422"
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/962216460"
+            }
+          },
+          "schema:dateModified": "2018-07-05"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/1003193286",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/1003193286",
+            "@type": [
+              "schema:Book",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "9"
+            },
+            "library:oclcnum": "1003193286",
+            "library:placeOfPublication": {
+              "@id": "http://id.loc.gov/vocabulary/countries/nju",
+              "@type": "schema:Place",
+              "dcterms:identifier": "nju"
+            },
+            "schema:about": [
+              {
+                "@id": "http://dewey.info/class/658.15/e23/",
+                "@type": "schema:Intangible"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2067730460#Topic/engineering_economy",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Engineering economy"
+                }
+              }
+            ],
+            "schema:author": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2067730460#Person/wicks_elin_m",
+                "@type": "schema:Person",
+                "schema:familyName": "Wicks",
+                "schema:givenName": "Elin M.",
+                "schema:name": "Elin M. Wicks"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2067730460#Person/koelling_c_patrick_1953",
+                "@type": "schema:Person",
+                "schema:birthDate": "1953",
+                "schema:familyName": "Koelling",
+                "schema:givenName": "C. Patrick",
+                "schema:name": "C. Patrick Koelling"
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/2067730460#Person/sullivan_william_g_1942",
+                "@type": "schema:Person",
+                "schema:birthDate": "1942",
+                "schema:familyName": "Sullivan",
+                "schema:givenName": "William G.",
+                "schema:name": "William G. Sullivan"
+              }
+            ],
+            "schema:bookEdition": "Seventeenth edition.",
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:datePublished": "2019",
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/2067730460"
+            },
+            "schema:inLanguage": "en",
+            "schema:name": {
+              "@language": "en",
+              "@value": "Engineering economy"
+            },
+            "schema:productID": "1003193286",
+            "schema:workExample": {
+              "@id": "http://worldcat.org/isbn/9780134870069",
+              "@type": "schema:ProductModel",
+              "schema:isbn": [
+                "9780134870069",
+                "0134870069"
+              ]
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/1003193286"
+            }
+          },
+          "schema:dateModified": "2018-04-16"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/883625031",
+          "@type": [
+            "http://www.w3.org/2006/gen/ont#ContentTypeGenericResource",
+            "http://www.w3.org/2006/gen/ont#InformationResource"
+          ],
+          "void:inDataset": {
+            "@id": "http://purl.oclc.org/dataset/WorldCat"
+          },
+          "schema:about": {
+            "@id": "http://www.worldcat.org/oclc/883625031",
+            "@type": [
+              "schema:Book",
+              "schema:CreativeWork"
+            ],
+            "gr:displayPosition": {
+              "@type": "http://www.w3.org/2001/XMLSchema#integer",
+              "@value": "10"
+            },
+            "library:oclcnum": "883625031",
+            "library:placeOfPublication": {
+              "@id": "http://id.loc.gov/vocabulary/countries/scu",
+              "@type": "schema:Place",
+              "dcterms:identifier": "scu"
+            },
+            "schema:about": [
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1256066#Topic/machinery",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Machinery"
+                }
+              },
+              {
+                "@id": "http://experiment.worldcat.org/entity/work/data/1256066#Topic/manufactures",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                  "@language": "en",
+                  "@value": "Manufactures"
+                }
+              }
+            ],
+            "schema:alternateName": "Economy of machinery and manufactures",
+            "schema:author": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/1256066#Person/babbage_charles_1791_1871",
+              "@type": "schema:Person",
+              "schema:birthDate": "1791",
+              "schema:deathDate": "1871,",
+              "schema:familyName": "Babbage",
+              "schema:givenName": "Charles",
+              "schema:name": "Charles Babbage"
+            },
+            "schema:bookEdition": "Fourth edition, enlarged, Primary source edition.",
+            "schema:bookFormat": {
+              "@id": "http://bibliograph.net/PrintBook"
+            },
+            "schema:datePublished": "2014",
+            "schema:description": {
+              "@language": "en",
+              "@value": "Statement of the object and plan of the work -- Accumulating power -- Regulating power -- Increase and dimunition of velocity -- Extending the time of access of forces -- Saving time in natural operations -- Exerting forces too great for human power, and executing operations too delicate for human touch -- Registering operations -- Economy of materials employed -- Of the identity of the work when it is of the same kind, and of its accuracy when of different kinds -- Of copying -- On the method of observing manufactories -- On the difference between making and manufacturing -- Of money as a medium of exchange -- On the influence of verification of price -- On the influence of durability on price -- On price, as measured by money -- Of raw materials -- On the division of labour -- On the division of mental labour -- On the cost of each separate process in manufacture -- On the causes and consequences of large factories -- On the position of large factories -- On over-manufacturing -- Inquiries previous to commencing any manufactory -- On a new system of manufacturing -- On contriving machinery -- Proper circumstances for the application of machinery -- On the duration of machinery -- On combinations amongst masters or workmen against each other -- On combinations of masters against the public -- On the effect of machinery in reducing the demand -- On the effect of taxes and of legal restrictions upon manufactures -- On the exportation of machinery -- On the future prospects of manufactures, as connected with science."
+            },
+            "schema:exampleOfWork": {
+              "@id": "http://worldcat.org/entity/work/id/1256066"
+            },
+            "schema:inLanguage": "en",
+            "schema:isPartOf": {
+              "@id": "http://experiment.worldcat.org/entity/work/data/1256066#Series/nabu_public_domain_reprints",
+              "@type": "http://bibliograph.net/PublicationSeries",
+              "schema:hasPart": {
+                "@id": "http://www.worldcat.org/oclc/883625031"
+              },
+              "schema:name": [
+                "Nabu public domain reprints",
+                "Nabu public domain reprints."
+              ]
+            },
+            "schema:name": {
+              "@language": "en",
+              "@value": "On the economy of machinery and manufactures"
+            },
+            "schema:productID": "883625031",
+            "schema:workExample": {
+              "@id": "http://worldcat.org/isbn/9781289902100",
+              "@type": "schema:ProductModel",
+              "schema:isbn": [
+                "9781289902100",
+                "1289902100"
+              ]
+            },
+            "http://www.w3.org/2007/05/powder-s#describedby": {
+              "@id": "http://www.worldcat.org/title/-/oclc/883625031"
+            }
+          },
+          "schema:dateModified": "2018-03-09"
+        },
+        {
+          "@id": "http://www.worldcat.org/title/-/oclc/31354158"
+        }
+      ],
+      "discovery:itemsPerPage": {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "10"
+      },
+      "discovery:startIndex": {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "0"
+      },
+      "discovery:totalResults": {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "2311309"
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,18 @@
+{
+	"name": "NLVRD",
+	"institution": "57439",
+	"defaultBranch": "262638",
+
+	"datacenter": "sd02",
+	"wskey": "7s3Bny4hZv9tE6XTK7LNYzSgnyIkYgU6WCRqqplgqQDefRIDk0cQDsDPWb2sM9KU9EswqCESZrXu29Xq",
+	"secret": "qPgD53k5G1dF3dKJrPC8AWrUhnjaFPgw",
+	"ppid_namespace": "urn:oclc:platform:57439", 
+	"ppid":"3ad48a9e-0ee7-4eec-b303-189a8f4af886",
+	"auth_url": "http://www.worldcat.org/wskey/v2/hmac/v1",
+	"auth_headers": [],
+	"scope": "WorldCatDiscoveryAPI",
+
+	"url": "",
+	"headers": []
+}
+
