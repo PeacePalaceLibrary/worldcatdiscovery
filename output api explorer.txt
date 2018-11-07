@@ -2,8 +2,12 @@
 Request:
 POST /oauth2/accessToken?grant_type=client_credentials&authenticatingInstitutionId=57439&contextInstitutionId=57439&scope=WorldCatDiscoveryAPI%20 HTTP/1.1
 Host: authn.sd00.worldcat.org
-Authorization: http://www.worldcat.org/wskey/v2/hmac/v1 clientId="7s3Bny4hZv9tE6XTK7LNYzSgnyIkYgU6WCRqqplgqQDefRIDk0cQDsDPWb2sM9KU9EswqCESZrXu29Xq", timestamp="1541583323", nonce="4663188905aa5e9f", signature="/TX26Z4gd4MogSxT30kCfm4Epf7ugkIn2VyyaBz8dkA="
-
+Authorization: http://www.worldcat.org/wskey/v2/hmac/v1 
+                    clientId="7s3Bny4hZv9tE6XTK7LNYzSgnyIkYgU6WCRqqplgqQDefRIDk0cQDsDPWb2sM9KU9EswqCESZrXu29Xq", 
+                    timestamp="1541583323", 
+                    nonce="4663188905aa5e9f", 
+                    signature="/TX26Z4gd4MogSxT30kCfm4Epf7ugkIn2VyyaBz8dkA="
+        
 Response:
 HTTP/1.1 200
 X-OCLC-RequestId: 826c808a-5242-4320-a6a9-09bddafd91b0

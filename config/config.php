@@ -13,21 +13,24 @@ $config = [
     //patron id is niet nodig in deze API
     //'ppid_namespace' => "urn:oclc:platform:57439", 
     //'ppid' =>"3ad48a9e-0ee7-4eec-b303-189a8f4af886",
-    'hmac_url' =>   "http://www.worldcat.org/wskey/v2/hmac/v1",
-
-    'auth_url' => "https://authn.sd00.worldcat.org/oauth2/accessToken?",
-    'auth_method' => 'POST',
-    'auth_params' => ['grant_type' => 'client_credentials',
+    
+    'token_url' => "https://authn.sd00.worldcat.org/oauth2/accessToken",
+    'token_method' => 'POST',
+    'token_params' => ['grant_type' => 'client_credentials',
                       'authenticatingInstitutionId' => '57439',
                       'contextInstitutionId' => '57439',
                       'scope' => "WorldCatDiscoveryAPI"
                       ],
-    'auth_headers' => ['application/json'],
+    'token_headers' => ["Accept: application/json"],
    
 
 
-    'url' => "",
-    'headers' => []
+    'url' => "http://beta.worldcat.org/discovery/bib/search",
+    'params' => ['q' => 'Vredespaleis',
+                 'dbIds' => '638'
+                 ],
+    'method' => 'GET',
+    'headers' => ["Accept: application/json"]
 	];
 ?>
 
