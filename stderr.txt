@@ -17,12 +17,12 @@
 > GET /discovery/bib/search?q=Vredespaleis&dbIds=239 HTTP/1.1
 Host: beta.worldcat.org
 Accept: application/json
-Authorization: Bearer tk_Pg2F6m2Iek3cRqvg8WzczCLzLKJVXNSluSZt
+Authorization: Bearer tk_fUk3vTjFLmwDKII2hKwamT2pxOju2vkbUtGO
 
 < HTTP/1.1 403 Forbidden
-< Date: Thu, 08 Nov 2018 08:39:36 GMT
-< X-OCLC-RequestId: 98411d5e-a53a-4361-8c67-ab2d6ee3382e
-< X-OCLC-SelfId: 8ba2f0a6-7957-400d-b455-bcfa9305daf2
+< Date: Thu, 08 Nov 2018 08:42:51 GMT
+< X-OCLC-RequestId: 7ec9495f-a6aa-4ce0-9ddb-756afbb4d1da
+< X-OCLC-SelfId: f01c2825-a740-4576-8c6c-8c89a9ee6bd6
 < Content-Type: application/json; charset=UTF-8
 < Content-Location: http://beta.worldcat.org/discovery/bib/search.json?q=Vredespaleis&dbIds=239
 < Transfer-Encoding: chunked

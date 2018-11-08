@@ -59,21 +59,24 @@ function API_request($config) {
 	curl_setopt($curl, CURLOPT_URL, $config['url'].'?'.http_build_query($config['params']));
 	curl_setopt($curl, CURLOPT_HTTPHEADER, $config['headers']);
 	curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+	
+	/*
 	curl_setopt($curl, CURLOPT_VERBOSE, true);
 	$verbose = fopen('stderr.txt', 'w+');
-  curl_setopt($curl, CURLOPT_STDERR, $verbose);
+	*/
 	//curl_setopt($curl, CURLOPT_, );
 	//curl_setopt($curl, CURLOPT_, );
 
 	$result = curl_exec($curl);
-	echo 'Result: '.$result;
+	//echo 'Result: '.$result;
 	$error_number = curl_errno($curl);
-    echo "Error: ".$error_number." - ".curl_error($curl);
+  //echo "Error: ".$error_number." - ".curl_error($curl);
 	
 	if ($error_number) {
 		$result = "Error: ".$error_number.": ".curl_error($curl)."\n".$result;
 	}
 	curl_close($curl);
+	$result = json_decode($result,TRUE);
 	return $result;
 }
 
@@ -95,7 +98,7 @@ $config = get_auth_header($config);
 		</p>
 <?php $result = API_request($config); ?>
 		<p>Search:
-			<pre><?php echo $result;?></pre>
+			<pre><?php echo json_encode($result, JSON_PRETTY_PRINT);?></pre>
 		</p>
 	</body>
 	

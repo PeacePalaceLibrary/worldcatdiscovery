@@ -27,7 +27,7 @@ $config = [
 
     'url' => "https://beta.worldcat.org/discovery/bib/search",
     'params' => ['q' => 'Vredespaleis',
-                 'dbIds' => '239'
+                 'dbIds' => '638'
                  ],
     'method' => 'GET',
     'headers' => ["Accept: application/json"]
