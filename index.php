@@ -59,6 +59,9 @@ function API_request($config) {
 	curl_setopt($curl, CURLOPT_URL, $config['url'].'?'.http_build_query($config['params']));
 	curl_setopt($curl, CURLOPT_HTTPHEADER, $config['headers']);
 	curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($curl, CURLOPT_VERBOSE, true);
+	$verbose = fopen('stderr.txt', 'w+');
+  curl_setopt($curl, CURLOPT_STDERR, $verbose);
 	//curl_setopt($curl, CURLOPT_, );
 	//curl_setopt($curl, CURLOPT_, );
 
