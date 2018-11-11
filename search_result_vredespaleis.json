@@ -1,0 +1,947 @@
+{
+    "@context": {
+        "rdf": "http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#",
+        "owl": "http:\/\/www.w3.org\/2002\/07\/owl#",
+        "void": "http:\/\/rdfs.org\/ns\/void#",
+        "schema": "http:\/\/schema.org\/",
+        "discovery": "http:\/\/worldcat.org\/vocab\/discovery\/",
+        "dcterms": "http:\/\/purl.org\/dc\/terms\/",
+        "library": "http:\/\/purl.org\/library\/",
+        "gr": "http:\/\/purl.org\/goodrelations\/v1#",
+        "umbel": "http:\/\/umbel.org\/umbel#"
+    },
+    "@graph": [
+        {
+            "@id": "https:\/\/beta.worldcat.org\/discovery\/bib\/search?dbIds=638&itemsPerPage=10&q=Vredespaleis&sortBy=relevance&startIndex=0",
+            "@type": "discovery:SearchResults",
+            "discovery:hasPart": [
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/902501779",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/902501779",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Book"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "1"
+                        },
+                        "library:oclcnum": "902501779",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Place\/s_gravenhage",
+                                "@type": "schema:Place",
+                                "schema:name": "'s-Gravenhage"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            }
+                        ],
+                        "schema:about": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Place\/netherlands_hague",
+                                "@type": "schema:Place",
+                                "schema:name": "Netherlands--Hague."
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/authorities\/classification\/NA4185",
+                                "@type": "schema:Intangible"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Place\/hague_netherlands",
+                                "@type": "schema:Place",
+                                "schema:name": "Hague (Netherlands)"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Topic\/buildings",
+                                "@type": "schema:Intangible",
+                                "schema:name": {
+                                    "@language": "nl",
+                                    "@value": "Buildings"
+                                }
+                            }
+                        ],
+                        "schema:author": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Person\/kok_j_jurriaan",
+                            "@type": "schema:Person",
+                            "schema:familyName": "Kok",
+                            "schema:givenName": "J. Jurriaan",
+                            "schema:name": "J Jurriaan Kok"
+                        },
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:datePublished": "1909",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/475219965"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:name": {
+                            "@language": "nl",
+                            "@value": "Het Vredespaleis"
+                        },
+                        "schema:productID": "902501779",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/902501779#PublicationEvent\/s_gravenhage_nijhoff_1909",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Place\/s_gravenhage"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Agent\/nijhoff",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Nijhoff"
+                            },
+                            "schema:startDate": "1909"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/475219965#Agent\/nijhoff"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/902501779"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-09"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64198327",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/64198327",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Book"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "2"
+                        },
+                        "library:oclcnum": "64198327",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48190214#Place\/delft",
+                                "@type": "schema:Place",
+                                "schema:name": "Delft"
+                            }
+                        ],
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:contributor": {
+                            "@id": "http:\/\/viaf.org\/viaf\/286036181",
+                            "@type": "schema:Person",
+                            "schema:familyName": "Geervliet",
+                            "schema:givenName": "Marius",
+                            "schema:name": "Marius Geervliet"
+                        },
+                        "schema:creator": {
+                            "@id": "http:\/\/viaf.org\/viaf\/286236211",
+                            "@type": "schema:Person",
+                            "schema:familyName": "Hoeve",
+                            "schema:givenName": "Bram van",
+                            "schema:name": "Bram van Hoeve"
+                        },
+                        "schema:datePublished": "1981",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/48190214"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:name": {
+                            "@language": "nl",
+                            "@value": "Vredespaleis"
+                        },
+                        "schema:numberOfPages": "73",
+                        "schema:productID": "64198327",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64198327#PublicationEvent\/delft_technische_hogeschool_delft_afd_bouwkunde_1981",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48190214#Place\/delft"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48190214#Agent\/technische_hogeschool_delft_afd_bouwkunde",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Technische Hogeschool Delft, Afd. Bouwkunde"
+                            },
+                            "schema:startDate": "1981"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48190214#Agent\/technische_hogeschool_delft_afd_bouwkunde"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64198327"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-11"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/905809015",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/905809015",
+                        "@type": [
+                            "schema:MediaObject",
+                            "schema:Photograph",
+                            "http:\/\/bibliograph.net\/Photograph",
+                            "schema:CreativeWork",
+                            "http:\/\/bibliograph.net\/Image",
+                            "library:VisualMaterial"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "3"
+                        },
+                        "library:oclcnum": "905809015",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2481741406#Person\/berssenbrugge_henri_1873_1959",
+                            "@type": "schema:Person",
+                            "schema:birthDate": "1873",
+                            "schema:deathDate": "1959",
+                            "schema:familyName": "Berssenbrugge",
+                            "schema:givenName": "Henri",
+                            "schema:name": "Henri Berssenbrugge"
+                        },
+                        "schema:description": "Hek met daarachter het Vredespaleis, Den Haag.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/2481741406"
+                        },
+                        "schema:inLanguage": "zxx",
+                        "schema:isSimilarTo": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/data\/2481741406#CreativeWork\/vredespaleis",
+                            "@type": "schema:CreativeWork",
+                            "schema:isSimilarTo": {
+                                "@id": "http:\/\/www.worldcat.org\/oclc\/905809015"
+                            },
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Vredespaleis"
+                        },
+                        "schema:name": "Vredespaleis",
+                        "schema:productID": "905809015",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/905809015#PublicationEvent\/between_2000_and_2013",
+                            "@type": "schema:PublicationEvent",
+                            "schema:startDate": ""
+                        },
+                        "schema:url": {
+                            "@id": "https:\/\/disc.leidenuniv.nl\/webclient\/DeliveryManager?custom_att_2=simple_viewer&pid=834291"
+                        },
+                        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Unknown 'gen' value: cig",
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/905809015"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-09"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/884830562",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/884830562",
+                        "@type": [
+                            "schema:Photograph",
+                            "schema:CreativeWork",
+                            "http:\/\/bibliograph.net\/Image",
+                            "http:\/\/bibliograph.net\/Photograph"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "4"
+                        },
+                        "library:oclcnum": "884830562",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2037139603#Person\/berssenbrugge_henri_bernard_heinrich_wilhelm_1873_1959",
+                            "@type": "schema:Person",
+                            "schema:birthDate": "1873",
+                            "schema:deathDate": "1959",
+                            "schema:familyName": "Berssenbrugge",
+                            "schema:givenName": [
+                                "Henri",
+                                "Bernard Heinrich Wilhelm"
+                            ],
+                            "schema:name": "Bernard Heinrich Wilhelm Berssenbrugge"
+                        },
+                        "schema:datePublished": "1930\/1935",
+                        "schema:description": "Hek met daarachter het Vredespaleis, Den Haag.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/2037139603"
+                        },
+                        "schema:isSimilarTo": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/data\/2037139603#CreativeWork\/vredespaleis",
+                            "@type": "schema:CreativeWork",
+                            "schema:isSimilarTo": {
+                                "@id": "http:\/\/www.worldcat.org\/oclc\/884830562"
+                            },
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Vredespaleis"
+                        },
+                        "schema:name": "Vredespaleis",
+                        "schema:productID": "884830562",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/884830562#PublicationEvent\/1930_1935",
+                            "@type": "schema:PublicationEvent",
+                            "schema:startDate": "1930-1935"
+                        },
+                        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Unknown 'gen' value: crd",
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/884830562"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-09"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/500182032",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/500182032",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "5"
+                        },
+                        "library:oclcnum": "500182032",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/373626434#Place\/hague",
+                                "@type": "schema:Place",
+                                "schema:name": "Hague"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            }
+                        ],
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/373626434#Organization\/vredespaleis_bibliotheek_hague_netherlands",
+                            "@type": "schema:Organization",
+                            "schema:name": "Vredespaleis. Bibliotheek (Hague, Netherlands)"
+                        },
+                        "schema:datePublished": [
+                            "1995\/",
+                            "1995\/9999"
+                        ],
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/373626434"
+                        },
+                        "schema:inLanguage": "en",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Acquisitions."
+                        },
+                        "schema:productID": "500182032",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/500182032#PublicationEvent\/hague_peace_palace_library_1995",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/373626434#Place\/hague"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/373626434#Agent\/peace_palace_library",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Peace Palace Library"
+                            },
+                            "schema:startDate": "1995-"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/373626434#Agent\/peace_palace_library"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/500182032"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-10"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/767774938",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/767774938",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "6"
+                        },
+                        "library:oclcnum": "767774938",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Place\/berlijn",
+                                "@type": "schema:Place",
+                                "schema:name": "Berlijn"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Place\/s_gravenhage",
+                                "@type": "schema:Place",
+                                "schema:name": "'s-Gravenhage"
+                            }
+                        ],
+                        "schema:about": {
+                            "@id": "http:\/\/id.worldcat.org\/fast\/1055758",
+                            "@type": "schema:Intangible",
+                            "schema:name": "Peace"
+                        },
+                        "schema:bookFormat": {
+                            "@id": "schema:EBook"
+                        },
+                        "schema:datePublished": "1913",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/48347069",
+                            "schema:name": "Vrede door recht."
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:isSimilarTo": {
+                            "@id": "http:\/\/www.worldcat.org\/oclc\/426228380",
+                            "@type": "schema:CreativeWork",
+                            "schema:description": "Print version:",
+                            "schema:isSimilarTo": {
+                                "@id": "http:\/\/www.worldcat.org\/oclc\/767774938"
+                            },
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Vredespaleis."
+                        },
+                        "schema:name": "Het Vredespaleis gedenkboek uitgegeven door de redactie van \"Vrede door recht\" ten dage van de plechtige opening op 28 augustus 1913.",
+                        "schema:productID": "767774938",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/767774938#PublicationEvent\/s_gravenhage_gebr_belinfante_berlijn_puttkammer_und_muhlbrecht_1913",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": [
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Place\/s_gravenhage"
+                                },
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Place\/berlijn"
+                                }
+                            ],
+                            "schema:organizer": [
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Agent\/gebr_belinfante",
+                                    "@type": "http:\/\/bibliograph.net\/Agent",
+                                    "schema:name": "Gebr. Belinfante"
+                                },
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Agent\/puttkammer_und_muhlbrecht",
+                                    "@type": "http:\/\/bibliograph.net\/Agent",
+                                    "schema:name": "Puttkammer und M\u00fchlbrecht;"
+                                }
+                            ],
+                            "schema:startDate": ""
+                        },
+                        "schema:publisher": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Agent\/gebr_belinfante"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/48347069#Agent\/puttkammer_und_muhlbrecht"
+                            }
+                        ],
+                        "schema:url": [
+                            {
+                                "@id": "http:\/\/books.google.com\/books?id=ccIsAQAAMAAJ"
+                            },
+                            {
+                                "@id": "http:\/\/catalog.hathitrust.org\/api\/volumes\/oclc\/426228380.html"
+                            }
+                        ],
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/767774938"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-10"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/66095588",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/66095588",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork"
+                        ],
+                        "http:\/\/bibliograph.net\/translationOfWork": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/66095588#CreativeWork\/unidentifiedOriginalWork",
+                            "@type": "schema:CreativeWork",
+                            "schema:inLanguage": "fr"
+                        },
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "7"
+                        },
+                        "library:oclcnum": "66095588",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/146655445#Place\/s_gravenhage",
+                                "@type": "schema:Place",
+                                "schema:name": "'s-Gravenhage"
+                            }
+                        ],
+                        "schema:alternateName": "R\u00e8glement de la biblioth\u00e8que du Palais de la Paix",
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:datePublished": "1925",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/146655445"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:name": {
+                            "@language": "nl",
+                            "@value": "Reglement op het gebruik van de bibliotheek van het Vredespaleis = R\u00e8glement de la biblioth\u00e8que du Palais de la Paix."
+                        },
+                        "schema:numberOfPages": "11",
+                        "schema:productID": "66095588",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/66095588#PublicationEvent\/s_gravenhage_s_n_1925",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/146655445#Place\/s_gravenhage"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/146655445#Agent\/s_n",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "s.n.]"
+                            },
+                            "schema:startDate": "1925"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/146655445#Agent\/s_n"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/66095588"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-10"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/2409415",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/2409415",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "8"
+                        },
+                        "library:oclcnum": "2409415",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4874563#Place\/amsterdam",
+                                "@type": "schema:Place",
+                                "schema:name": "Amsterdam"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            }
+                        ],
+                        "schema:about": [
+                            {
+                                "@id": "http:\/\/id.loc.gov\/authorities\/subjects\/sh85006616",
+                                "@type": "schema:Intangible",
+                                "schema:name": "Architecture--Competitions"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4874563#Organization\/vredespaleis_hague_netherlands",
+                                "@type": "schema:Organization",
+                                "schema:name": "Vredespaleis (Hague, Netherlands)"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/authorities\/classification\/NA4185"
+                            },
+                            {
+                                "@id": "http:\/\/id.worldcat.org\/fast\/813366",
+                                "@type": "schema:Intangible",
+                                "schema:name": "Architecture--Competitions"
+                            },
+                            {
+                                "@id": "http:\/\/viaf.org\/viaf\/316594976",
+                                "@type": "schema:Organization",
+                                "schema:name": "Vredespaleis (Hague, Netherlands)"
+                            }
+                        ],
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:contributor": {
+                            "@id": "http:\/\/viaf.org\/viaf\/153702964",
+                            "@type": "schema:Organization",
+                            "schema:name": "Koninklijke Maatschappij tot Bevordering der Bouwkunst Bond van Nederlandse Architekten BNA."
+                        },
+                        "schema:datePublished": "1906",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4874563"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:name": "Internationale prijsvraag der Carnegie-Stichting. Het Vredespaleis te 's Gravenhage; de zes bekroonde, benevens veertig andere ontwerpen, uitgekozen door en gereproduceerd onder toezicht van de Maatschappij tot Bevordering der Bouwkunst.",
+                        "schema:productID": "2409415",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/2409415#PublicationEvent\/amsterdam_elsevier_1906",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4874563#Place\/amsterdam"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4874563#Agent\/elsevier",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Elsevier"
+                            },
+                            "schema:startDate": "1906"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4874563#Agent\/elsevier"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/2409415"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-10"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/247695007",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/247695007",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "9"
+                        },
+                        "library:oclcnum": "247695007",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Place\/haarlem",
+                                "@type": "schema:Place",
+                                "schema:name": "Haarlem"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne",
+                                "@type": "schema:Place",
+                                "dcterms:identifier": "ne"
+                            }
+                        ],
+                        "schema:about": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Topic\/european_federation_congresses",
+                                "@type": "schema:Intangible",
+                                "schema:name": "European federation--Congresses"
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Topic\/european_economic_community_congresses",
+                                "@type": "schema:Intangible",
+                                "schema:name": "European Economic Community--Congresses"
+                            },
+                            {
+                                "@id": "http:\/\/dewey.info\/class\/341.242\/",
+                                "@type": "schema:Intangible"
+                            }
+                        ],
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:contributor": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Meeting\/landelijk_congres_van_juridische_studenten_1962_vredespaleis",
+                                "@type": [
+                                    "schema:Event",
+                                    "http:\/\/bibliograph.net\/Meeting"
+                                ],
+                                "schema:location": {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Place\/vredespaleis",
+                                    "@type": "schema:Place",
+                                    "schema:name": "Vredespaleis)"
+                                },
+                                "schema:name": "Landelijk Congres van Juridische Studenten (1962 Vredespaleis)"
+                            },
+                            {
+                                "@id": "http:\/\/viaf.org\/viaf\/147753824",
+                                "@type": "schema:Organization",
+                                "schema:name": "Juridische Faculteit der Amsterdamsche Studenten. Commissie Buitenland"
+                            },
+                            {
+                                "@id": "http:\/\/viaf.org\/viaf\/108819836",
+                                "@type": "schema:Person",
+                                "schema:birthDate": "1901",
+                                "schema:familyName": "Hallstein",
+                                "schema:givenName": "Walter",
+                                "schema:name": "Walter Hallstein"
+                            }
+                        ],
+                        "schema:datePublished": "1963",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/144579396"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:name": "De Europese eenwording als realiteit : vier lezingen gehouden op het Landelijk Congres van Juridische Studenten op 2. 3, en 4 april 1962 in het Vredespaleis te Den Haag",
+                        "schema:productID": "247695007",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/247695007#PublicationEvent\/haarlemtjeenk_willink1963",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Place\/haarlem"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Agent\/tjeenk_willink",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Tjeenk Willink"
+                            },
+                            "schema:startDate": "1963"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/144579396#Agent\/tjeenk_willink"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/247695007"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-11"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64944429",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/64944429",
+                        "@type": [
+                            "schema:Book",
+                            "schema:CreativeWork"
+                        ],
+                        "http:\/\/bibliograph.net\/translationOfWork": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64944429#CreativeWork\/unidentifiedOriginalWork",
+                            "@type": "schema:CreativeWork",
+                            "schema:inLanguage": "en"
+                        },
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "10"
+                        },
+                        "library:oclcnum": "64944429",
+                        "library:placeOfPublication": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Place\/amsterdam",
+                                "@type": "schema:Place",
+                                "schema:name": "Amsterdam"
+                            },
+                            {
+                                "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne"
+                            }
+                        ],
+                        "schema:about": [
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Topic\/pacifisme",
+                                "@type": "schema:Intangible",
+                                "schema:name": {
+                                    "@language": "nl",
+                                    "@value": "Pacifisme"
+                                }
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Topic\/gebouwen",
+                                "@type": "schema:Intangible",
+                                "schema:name": {
+                                    "@language": "nl",
+                                    "@value": "Gebouwen"
+                                }
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Place\/den_haag",
+                                "@type": "schema:Place",
+                                "schema:name": "Den Haag."
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Topic\/internationaal_recht",
+                                "@type": "schema:Intangible",
+                                "schema:name": {
+                                    "@language": "nl",
+                                    "@value": "Internationaal recht"
+                                }
+                            },
+                            {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Topic\/vredespaleis",
+                                "@type": "schema:Intangible",
+                                "schema:name": {
+                                    "@language": "nl",
+                                    "@value": "Vredespaleis"
+                                }
+                            }
+                        ],
+                        "schema:alternateName": "Vredespaleis, 1913-1988",
+                        "schema:bookFormat": {
+                            "@id": "http:\/\/bibliograph.net\/PrintBook"
+                        },
+                        "schema:copyrightYear": "op.",
+                        "schema:creator": {
+                            "@id": "http:\/\/viaf.org\/viaf\/51705776",
+                            "@type": "schema:Person",
+                            "schema:birthDate": "1947",
+                            "schema:familyName": "Eyffinger",
+                            "schema:givenName": [
+                                "Arthur",
+                                "Arthur Clement Guillaume Marie"
+                            ],
+                            "schema:name": "Arthur Clement Guillaume Marie Eyffinger"
+                        },
+                        "schema:datePublished": "1988",
+                        "schema:description": {
+                            "@language": "nl",
+                            "@value": "Ge\u00efllustreerde geschiedenis van het gebouw en zijn functies"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/2497965256"
+                        },
+                        "schema:genre": [
+                            {
+                                "@language": "nl",
+                                "@value": "Gelegenheidsuitgaven (vorm)"
+                            },
+                            {
+                                "@language": "nl",
+                                "@value": "Geschiedenis (vorm)"
+                            }
+                        ],
+                        "schema:illustrator": {
+                            "@id": "http:\/\/viaf.org\/viaf\/165239960",
+                            "@type": "schema:Person",
+                            "schema:birthDate": "1934",
+                            "schema:familyName": "Hengst",
+                            "schema:givenName": "Jan den",
+                            "schema:name": "Jan den Hengst"
+                        },
+                        "schema:inLanguage": "nl",
+                        "schema:isSimilarTo": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/data\/2497965256#CreativeWork\/het_vredespaleis",
+                            "@type": "schema:CreativeWork",
+                            "schema:isSimilarTo": {
+                                "@id": "http:\/\/www.worldcat.org\/oclc\/64944429"
+                            },
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Het Vredespaleis"
+                        },
+                        "schema:name": {
+                            "@language": "nl",
+                            "@value": "Het Vredespaleis"
+                        },
+                        "schema:numberOfPages": "192",
+                        "schema:productID": "64944429",
+                        "schema:publication": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64944429#PublicationEvent\/amsterdam_sijthoff_cop_1988",
+                            "@type": "schema:PublicationEvent",
+                            "schema:location": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Place\/amsterdam"
+                            },
+                            "schema:organizer": {
+                                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Agent\/sijthoff",
+                                "@type": "http:\/\/bibliograph.net\/Agent",
+                                "schema:name": "Sijthoff"
+                            },
+                            "schema:startDate": "co. 1988"
+                        },
+                        "schema:publisher": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2497965256#Agent\/sijthoff"
+                        },
+                        "schema:workExample": {
+                            "@id": "http:\/\/worldcat.org\/isbn\/9789021803012",
+                            "@type": "schema:ProductModel",
+                            "schema:isbn": [
+                                "9789021803012",
+                                "9021803011"
+                            ]
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/64944429"
+                        }
+                    },
+                    "schema:dateModified": "2018-03-11"
+                }
+            ],
+            "discovery:itemsPerPage": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "10"
+            },
+            "discovery:startIndex": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "0"
+            },
+            "discovery:totalResults": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "1681"
+            }
+        }
+    ]
+}
