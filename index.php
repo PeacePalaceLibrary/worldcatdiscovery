@@ -1,8 +1,8 @@
 <?php
 
 require './config/config.php';
-require '../circulation/OCLC/Auth/WSKey.php';
-require '../circulation/OCLC/User.php';
+require './OCLC/Auth/WSKey.php';
+require './OCLC/User.php';
 
 //TODO functions in een apart bestand
 

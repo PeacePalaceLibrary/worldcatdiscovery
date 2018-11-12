@@ -484,9 +484,9 @@ class WSKey
      * @return string
      */
     private static function AddAuthParams($user, $authParams)
-    {
+    {                   
         $authValuePairs = null;
-        if (count($authParams) > 0 || ! empty($user)) {
+        if ( !(empty($authParams) && empty($user))) {   //if (count($authParams) > 0 || ! empty($user)) { 
             if (empty($authParams)) {
                 $authParams = array();
             }

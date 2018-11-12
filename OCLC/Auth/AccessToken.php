@@ -17,8 +17,6 @@
  * @license http://www.opensource.org/licenses/Apache-2.0
  * @author Karen A. Coombs <coombsk@oclc.org>
 */
-
-/* no namespaces in PPL implementation
 namespace OCLC\Auth;
 
 use GuzzleHttp\HandlerStack,
@@ -30,7 +28,6 @@ use GuzzleHttp\HandlerStack,
     GuzzleHttp\Psr7;
 use OCLC\Auth\WSKey;
 use OCLC\User;
-*/
 
 /**
  * A class that represents a client's OCLC Access Token.
@@ -391,17 +388,11 @@ class AccessToken
     public function create($wskey, $user = null)
     {
         // if you've got an unexpired refresh token use it
-        /*if (! is_a($wskey, 'OCLC\Auth\WSKey')) { 
+        if (! is_a($wskey, 'OCLC\Auth\WSKey')) {
             throw new \LogicException('You must pass a valid OCLC\Auth\WSKey object to create an Access Token');
         } elseif (isset($user) && ! is_a($user, 'OCLC\User')) {
             throw new \LogicException('You must pass a valid User object');
         }
-        
-        if (! is_a($wskey, 'WSKey')) { 
-            throw new \LogicException('You must pass a valid WSKey object to create an Access Token');
-        } elseif (isset($user) && ! is_a($user, 'User')) {
-            throw new \LogicException('You must pass a valid User object');
-        }*/
         $this->wskey = $wskey;
         
         $options = array();
@@ -409,7 +400,7 @@ class AccessToken
             $this->user = $user;
             $options['user'] = $this->user;
         }
-        $authorization = $wskey->getHMACSignature('GET', $this->accessTokenUrl, $options);
+        $authorization = $wskey->getHMACSignature('POST', $this->accessTokenUrl, $options);
         self::requestAccessToken($authorization, $this->accessTokenUrl, $this->logger, $this->logFormat);
     }
 
@@ -438,46 +429,8 @@ class AccessToken
      * @param string $url
      * @param string $logger
      */
+
     private function requestAccessToken($authorization, $url, $logger = null, $log_format = null)
-    {   
-
-        $guzzleOptions = array(
-            'headers' => array(
-                'Authorization' => $authorization,
-                'Accept' => 'application/json',
-                'User-Agent' => static::$userAgent
-            ),
-            'allow_redirects' => array(
-        	   'strict' => true
-            ),
-            'timeout' => 60
-        );
-
-        $curl = curl_init();
-        curl_setopt($curl, CURLOPT_URL, $url);
-        curl_setopt($curl, CURLOPT_HTTPHEADER, $guzzleOptions['headers']);
-		curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt($curl, CURLOPT_POST, true);
-		//curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
-		//curl_setopt($curl, CURLOPT_CUSTOMREQUEST, "POST");
-		//curl_setopt($curl, CURLOPT_, );
-        
-		$response = curl_exec($curl);
-        echo "<pre>URL: $url\n";
-        echo "Headers:\n".json_encode($guzzleOptions['headers'], JSON_PRETTY_PRINT)."\n";
-        echo "Response: $response\n</pre>";
-
-		self::parseTokenResponse($response);
-		$error_number = curl_errno($curl);
-		//echo $error_number;
-		if ($error_number) {
-			$result = "Error: ".$error_number.": ".curl_error($curl)."\n".$result;
-		}
-		curl_close($curl);
-
-    }
-    
-/*    private function requestAccessToken($authorization, $url, $logger = null, $log_format = null)
     {   
         $guzzleOptions = array(
             'headers' => array(
@@ -536,8 +489,7 @@ class AccessToken
             }
             Throw new \Exception($errorCode . ' ' . $errorMessage);
         }
-    }*/
-    
+    }
 
     /**
      * Build the URL to retrieve the Access Token
