@@ -82,7 +82,6 @@ function wcds_search_request($config) {
 	$result = curl_exec($curl);
 	//echo 'Result: '.$result;
 	$error_number = curl_errno($curl);
-  //echo "Error: ".$error_number." - ".curl_error($curl);
 	
 	if ($error_number) {
 		$result = "Error: ".$error_number.": ".curl_error($curl)."\n".$result;
