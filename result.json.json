@@ -1,0 +1,3085 @@
+{
+    "@context": {
+        "rdf": "http:\/\/www.w3.org\/1999\/02\/22-rdf-syntax-ns#",
+        "owl": "http:\/\/www.w3.org\/2002\/07\/owl#",
+        "void": "http:\/\/rdfs.org\/ns\/void#",
+        "schema": "http:\/\/schema.org\/",
+        "discovery": "http:\/\/worldcat.org\/vocab\/discovery\/",
+        "dcterms": "http:\/\/purl.org\/dc\/terms\/",
+        "library": "http:\/\/purl.org\/library\/",
+        "gr": "http:\/\/purl.org\/goodrelations\/v1#",
+        "umbel": "http:\/\/umbel.org\/umbel#"
+    },
+    "@graph": [
+        {
+            "@id": "https:\/\/beta.worldcat.org\/discovery\/bib\/search?dbIds=638&heldBy=NLVRD&itemSubType=digital&itemsPerPage=50&q=International law&sortBy=date&startIndex=0",
+            "@type": "discovery:SearchResults",
+            "discovery:hasPart": [
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897901205",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897901205",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "1"
+                        },
+                        "library:oclcnum": "7897901205",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521226112#Person\/index",
+                            "@type": "schema:Person",
+                            "schema:name": "Index"
+                        },
+                        "schema:description": "index",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5521226112"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0008-7254#10_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0008-7254#10",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0008-7254"
+                                },
+                                "schema:volumeNumber": "10"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Index, Volume 10",
+                        "schema:productID": "7897901205",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82333844",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897901205"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-28"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310671188",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310671188",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "2"
+                        },
+                        "library:oclcnum": "7310671188",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5544033408#Person\/maria_aurora_fe_candelaria",
+                            "@type": "schema:Person",
+                            "schema:name": "Maria Aurora Fe Candelaria"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5544033408"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#31_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#31",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824"
+                                },
+                                "schema:volumeNumber": "31"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "The Angkor Sites of Cambodia: The Conflicting Values of Sustainable Tourism and State Sovereignty",
+                        "schema:productID": "7310671188",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83551644",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310671188"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-19"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897710664",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897710664",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "3"
+                        },
+                        "library:oclcnum": "7897710664",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/77213615#Person\/ruth_wedgwood",
+                            "@type": "schema:Person",
+                            "schema:name": "Ruth Wedgwood"
+                        },
+                        "schema:description": "The legal structure of warfare is a dramatic example of a changing regime, even while its fundamental principles remain constant. Conflict management asks that international actors devise and follow rules to prevent the reckless escalation and widening of conflicts-often requiring deterrence as well as defense-and to promote the termination of violence and the rebuilding of post-war confidence. Principles of humanity ask that conflicts be conducted in a way that minimizes the needless suffering of soldiers and protects noncombatant civilians. The application of these principles may not look the same in each era, with changes in technology, the character of conflicts, and the personality of the actors.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/77213615"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#24_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#24",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0889-7743",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/131996336#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058544043#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/245449183#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/78112198#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/77213615#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755238440#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755336043#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/189802450#Agent\/yale_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Yale Law School"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Yale Journal of International Law"
+                                },
+                                "schema:volumeNumber": "24"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Responding to Terrorism: The Strikes Against bin Laden",
+                        "schema:productID": "7897710664",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83147323",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897710664"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-26"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897912501",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897912501",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "4"
+                        },
+                        "library:oclcnum": "7897912501",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058430861#Person\/nicole_m_skalla",
+                            "@type": "schema:Person",
+                            "schema:name": "Nicole M. Skalla"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058430861"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#30_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#30"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "China's One-Child Policy: Illegal Children and the Family Planning Law",
+                        "schema:productID": "7897912501",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83397778",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897912501"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-19"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310155100",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310155100",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "5"
+                        },
+                        "library:oclcnum": "7310155100",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/122168107#Person\/lori_j_pennay",
+                            "@type": "schema:Person",
+                            "schema:name": "Lori J. Pennay"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/122168107"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1086-7872#21_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1086-7872#21",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1086-7872"
+                                },
+                                "schema:volumeNumber": "21"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "The Disproportionate Effect of the Asian Economic Crisis on Women: The Filipina Experience",
+                        "schema:productID": "7310155100",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84738756",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310155100"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310178669",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310178669",
+                        "@type": [
+                            "schema:Article",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "6"
+                        },
+                        "library:oclcnum": "7310178669",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755336043"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#40_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#40",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "40"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Recent Developments",
+                        "schema:productID": "7310178669",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83113119",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310178669"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-24"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897947785",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897947785",
+                        "@type": [
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "7"
+                        },
+                        "library:oclcnum": "7897947785",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/125331064#Person\/antonio_cassese",
+                            "@type": "schema:Person",
+                            "schema:name": "Antonio Cassese"
+                        },
+                        "schema:description": "With the help of a research team, the author spoke to the people most responsible for using-or ignoring-international law today: present and former foreign ministers and their chief legal advisers, hereafter referred to as LAs. From them, he hoped to get direct and first-hand evidence on the role played by international law in today's political arena. By sounding them out as thoroughly as the author and team of researchers did, it is now possible to shed some light on the role played by law and lawyers in foreign affairs. Part I of this essay will describe the role Legal Advisers",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/125331064"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1052-2867#14_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1052-2867#14",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1052-2867"
+                                },
+                                "schema:volumeNumber": "14"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "The Role of Legal Advisers in Ensuring that Foreign Policy Conforms to International Legal Standards",
+                        "schema:productID": "7897947785",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84612509",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897947785"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-26"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897966540",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897966540",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "8"
+                        },
+                        "library:oclcnum": "7897966540",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058500408#Person\/fred_l_morrison",
+                            "@type": "schema:Person",
+                            "schema:name": "Fred L. Morrison"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058500408"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0009-3599#80_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0009-3599#80",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0009-3599",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0009-3599",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058500408#Agent\/chicago_kent_college_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Chicago-Kent College of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4100764647#Agent\/chicago_kent_college_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Chicago-Kent College of Law"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Chicago-Kent Law Review"
+                                },
+                                "schema:volumeNumber": "80"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Between a Rock and a Hard Place: Sovereignty and International Protection",
+                        "schema:productID": "7897966540",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82822763",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897966540"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-27"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897900049",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897900049",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "9"
+                        },
+                        "library:oclcnum": "7897900049",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521168073#Person\/stanley_l_levine",
+                            "@type": "schema:Person",
+                            "schema:name": "Stanley L. Levine"
+                        },
+                        "schema:description": "By Stanley L. Levine, Published on 01\/01\/71",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5521168073"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0886-3210#2_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0886-3210#2",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0886-3210"
+                                },
+                                "schema:volumeNumber": "2"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "United Nations Foreign Arbitral Awards Convention: United States Accession",
+                        "schema:productID": "7897900049",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82346206",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897900049"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310707123",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310707123",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "10"
+                        },
+                        "library:oclcnum": "7310707123",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755865097#Person\/colleen_hanycz",
+                            "@type": "schema:Person",
+                            "schema:name": "Colleen Hanycz"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755865097"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0030-6185#43_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0030-6185#43",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0030-6185"
+                                },
+                                "schema:volumeNumber": "43"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Book Review: International Dispute Resolution in Aboriginal Contexts, by Catherine Bell and David Kahane (eds)",
+                        "schema:productID": "7310707123",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84852329",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310707123"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897773889",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897773889",
+                        "@type": [
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "11"
+                        },
+                        "library:oclcnum": "7897773889",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058233963#Person\/derek_e_bambauer",
+                            "@type": "schema:Person",
+                            "schema:name": "Derek E. Bambauer"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058233963"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1086-7872#31_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1086-7872#31",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1086-7872"
+                                },
+                                "schema:volumeNumber": "31"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Filtering in Oz: Australia's Foray into Internet Censorship",
+                        "schema:productID": "7897773889",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84851684",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897773889"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-27"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310684535",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310684535",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "12"
+                        },
+                        "library:oclcnum": "7310684535",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/308982187#Person\/rushmi_ramakrishna",
+                            "@type": "schema:Person",
+                            "schema:name": "Rushmi Ramakrishna"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/308982187"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1086-7872#30_4",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1086-7872#30"
+                            },
+                            "schema:issueNumber": "4"
+                        },
+                        "schema:name": "Universal Rights, Non-Universal Process: Confronting Culturally Grounded Human Rights Abuses",
+                        "schema:productID": "7310684535",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84802729",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310684535"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-26"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897606289",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897606289",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "13"
+                        },
+                        "library:oclcnum": "7897606289",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4107436651#Person\/gabriel_m_wilner",
+                            "@type": "schema:Person",
+                            "schema:name": "Gabriel M. Wilner"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4107436651"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#20_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#20",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "20"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Panel I--The Process of and Obstacles to United States Ratification of International Human Rights Instruments",
+                        "schema:productID": "7897606289",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81831998",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897606289"
+                        }
+                    },
+                    "schema:dateModified": "2018-12-01"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897909970",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897909970",
+                        "@type": [
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "14"
+                        },
+                        "library:oclcnum": "7897909970",
+                        "schema:contributor": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058544043#Person\/joel_p_trachtman",
+                            "@type": "schema:Person",
+                            "schema:name": "Joel P. Trachtman"
+                        },
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058544043#Person\/jeffrey_l_dunoff",
+                            "@type": "schema:Person",
+                            "schema:name": "Jeffrey L. Dunoff"
+                        },
+                        "schema:description": "In this Article, Professors Dunoff and Trachtman explore the potential utility and limitations of economic analysis of international law. To date, the law and economics revolution has largely bypassed international law. The Article identifies the three reasons why international lawyers have not extensively used economic analysis and explains why none of these reasons is persuasive. Second, the Article provides a reason to believe that economic analysis will enrich our understanding of international law by detailing an analogy between the market of international relations and traditional markets for goods. Subsequent parts explore the applicability of economic analysis to three important international law topics: the allocation of prescriptive jurisdiction, the law of treaties, and the competences of international organizations. In each of these parts, the authors analogize the international legal issue to a domestic legal issue, and then explore whether the economic methodologies that have been used domestically can be used on the international plane. They further identify certain methodologies, such as the new institutional economics and public choice theory, as having much greater promise in international legal analysis than other economic approaches, including price theory (when employed without reference to transaction costs and strategic considerations). Next, the Article outlines some of the conceptual and practical difficulties associated with economic analysis of international law. Finally, the Article outlines a progressive research program in the economic analysis of international law. The Article's larger purpose is to stimulate inquiry into the utility of applying various forms of economic analysis to international legal issues and, in so doing, to enrich international legal discourse and scholarship.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058544043"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#24_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#24"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Economic Analysis of International Law",
+                        "schema:productID": "7897909970",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83150690",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897909970"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-30"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310044172",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310044172",
+                        "@type": [
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "15"
+                        },
+                        "library:oclcnum": "7310044172",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/250989837#Person\/angelo_forte",
+                            "@type": "schema:Person",
+                            "schema:name": "Angelo Forte"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/250989837"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0091-5440#26_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0091-5440#26",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0091-5440"
+                                },
+                                "schema:volumeNumber": "26"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "The United Nations Convention on Contracts for the International Sale of Goods: Reason and Unreason in the United Kingdom",
+                        "schema:productID": "7310044172",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81531666",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310044172"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-13"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310066792",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310066792",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "16"
+                        },
+                        "library:oclcnum": "7310066792",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058427260#Person\/patrick_fitzmaurice",
+                            "@type": "schema:Person",
+                            "schema:name": "Patrick Fitzmaurice"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058427260"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#26_4",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#26",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824"
+                                },
+                                "schema:volumeNumber": "26"
+                            },
+                            "schema:issueNumber": "4"
+                        },
+                        "schema:name": "Attorney General v. X: A Lost Opportunity to Examine the Limits of European Integration",
+                        "schema:productID": "7310066792",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83452184",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310066792"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-15"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310088733",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310088733",
+                        "@type": [
+                            "schema:MediaObject",
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "17"
+                        },
+                        "library:oclcnum": "7310088733",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058430908#Person\/monique_marie_gallien",
+                            "@type": "schema:Person",
+                            "schema:name": "Monique Marie Gallien"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058430908"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#30_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#30",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824"
+                                },
+                                "schema:volumeNumber": "30"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "\"\"\"No Existira la Pena de Muerte\"\": Does the United States Violate Regional Customary Law by Imposing the Death Penalty on Citizens of Puerto Rico\"",
+                        "schema:productID": "7310088733",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83365658",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310088733"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897621112",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897621112",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "18"
+                        },
+                        "library:oclcnum": "7897621112",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520887036#Person\/phillip_c_jessup",
+                            "@type": "schema:Person",
+                            "schema:name": "Phillip C Jessup"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5520887036"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#3_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#3",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "3"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Silence Gives Consent",
+                        "schema:productID": "7897621112",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82089378",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897621112"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-07"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897895360",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897895360",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "19"
+                        },
+                        "library:oclcnum": "7897895360",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521164284#Person\/william_r_clontz",
+                            "@type": "schema:Person",
+                            "schema:name": "William R Clontz"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5521164284"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#26_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#26"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Panel I: United States Attitudes on the Role of the United Nations Regarding the Maintenance and the Restoration of Peace",
+                        "schema:productID": "7897895360",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81806345",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897895360"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310049570",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310049570",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "20"
+                        },
+                        "library:oclcnum": "7310049570",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/234705823#Person\/paul_l_hoffman",
+                            "@type": "schema:Person",
+                            "schema:name": "Paul L. Hoffman"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/234705823"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#25_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#25",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0046-578X",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520935259#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/234705823#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058325962#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4107436651#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521164284#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4106047656#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1356568202#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1927987039#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520887036#Agent\/university_of_georgia_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Georgia School of Law"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Georgia Journal of International & Comparative Law"
+                                },
+                                "schema:volumeNumber": "25"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "\"The \"\"Blank Stare Phenomenon\"\": Proving Customary International Law in U.S. Courts\"",
+                        "schema:productID": "7310049570",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81821630",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310049570"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-13"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310291021",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310291021",
+                        "@type": [
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "21"
+                        },
+                        "library:oclcnum": "7310291021",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1927987039#Person\/tina_cheng",
+                            "@type": "schema:Person",
+                            "schema:name": "Tina Cheng"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1927987039"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#41_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#41",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "41"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "A Cloudy Forecast: Divergence in the Cloud Computing Laws of the United States, European Union, and China",
+                        "schema:productID": "7310291021",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81937658",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310291021"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-13"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310090130",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310090130",
+                        "@type": [
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "22"
+                        },
+                        "library:oclcnum": "7310090130",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/189802450#Person\/molly_beutz_land",
+                            "@type": "schema:Person",
+                            "schema:name": "Molly Beutz Land"
+                        },
+                        "schema:description": "\"The access to knowledge or \"\"A2K\"\" movement, a set of alliances demanding more equitable distribution of and greater access to knowledge for the world's populace, has gained enormous traction in recent years. Collaboration between A2K advocates and the human rights movement, another global movement concerned with distribution of and access to materials necessary to protect human health and welfare, has had a significant impact in areas such as the fight for access to medicines. Despite their shared goals, however, the A2K and human rights movements have historically focused on different issues with respect to online content. Human rights advocates have focused on abuses of state authority such as censorship, while those in the A2K movement have emphasized the risks of limits on state authority as a result of strengthened intellectual property protection worldwide.\"",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/189802450"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#34_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#34",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "34"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Protecting Rights Online",
+                        "schema:productID": "7310090130",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83118303",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310090130"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-24"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897744540",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897744540",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "23"
+                        },
+                        "library:oclcnum": "7897744540",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5429155039#Person\/russell_l_weaver",
+                            "@type": "schema:Person",
+                            "schema:name": "Russell L. Weaver"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5429155039"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0026-6604#42_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0026-6604#42",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0026-6604",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0026-6604",
+                                    "schema:publisher": {
+                                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5429155039#Agent\/university_of_missouri_school_of_law",
+                                        "@type": "http:\/\/bibliograph.net\/Agent",
+                                        "schema:name": "University of Missouri School of Law"
+                                    },
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Missouri Law Review"
+                                },
+                                "schema:volumeNumber": "42"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Civil Procedure-Jurisdiction-Quasi in Rem Jurisdiction and the International Shoe Minimum Contacts Doctrine",
+                        "schema:productID": "7897744540",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83745061",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897744540"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-28"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897896158",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897896158",
+                        "@type": [
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "24"
+                        },
+                        "library:oclcnum": "7897896158",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/88957091#Person\/kwang_taeck_woo",
+                            "@type": "schema:Person",
+                            "schema:name": "Kwang-Taeck Woo"
+                        },
+                        "schema:description": "By Kwang-Taeck Woo, Published on 04\/01\/97",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/88957091"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#22_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#22",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824"
+                                },
+                                "schema:volumeNumber": "22"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "The Comparison of Court-Connected Mediation in Florida and Korea",
+                        "schema:productID": "7897896158",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83562279",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897896158"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-30"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310056676",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310056676",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:CreativeWork",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "25"
+                        },
+                        "library:oclcnum": "7310056676",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4691664462#Person\/lilian_miles",
+                            "@type": "schema:Person",
+                            "schema:name": "Lilian Miles"
+                        },
+                        "schema:description": "The Anglo American economic model, together with its corporate governance practices, is frequently regarded as the optimal instrument for achieving competitiveness and enhancing investor confidence, even by countries which do not share the culture and tradition from which it originated. Its corporate governance structures, shareholder friendly laws and liquid capital markets with high levels of disclosure are regarded as mechanisms which can enable \u2018global\u2019 standards of efficiency, transparency and accountability to be achieved. Many countries outside of the US and UK are encouraged by the international financial community to attract foreign business and investment by emulating this model. But to what extent is this model suitable for countries outside of those in which it was developed? This article examines this issue in relation to South Korea, an economy traditionally based on a state-led developmental model, but which has since the 1990s, experimented with the Anglo American model. Whilst many academics support the implementation of the Anglo American economic system on the basis that it will enable its economy to be competitive, others have counted the significant costs post implementation and have proposed alternative paths to economic growth. Some have gone so far as to suggest that the government should reject the Anglo American system altogether and instead, modernise the traditional state-guided growth model. This article argues that Korean policy makers need not adopt the Anglo American model wholesale, but can create an optimal environment for growth by combining the strengths of its traditional economic model with those under the Anglo American system.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4691664462"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1033-4505#20_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1033-4505#20",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1033-4505"
+                                },
+                                "schema:volumeNumber": "20"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Transferring the Anglo American System to South Korea: At What Cost, and Are There Alternatives?",
+                        "schema:productID": "7310056676",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82085782",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310056676"
+                        }
+                    },
+                    "schema:dateModified": "2018-06-07"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310094157",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310094157",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "26"
+                        },
+                        "library:oclcnum": "7310094157",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755245031#Person\/martha_salper",
+                            "@type": "schema:Person",
+                            "schema:name": "Martha Salper"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755245031"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#2_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#2",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0740-4824",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058427260#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755245031#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058430908#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058430861#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5544033408#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/88957091#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/224940080#Agent\/brooklyn_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Brooklyn Law School"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Brooklyn Journal of International Law"
+                                },
+                                "schema:volumeNumber": "2"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "CASE COMMENT: United States v. Alaska",
+                        "schema:productID": "7310094157",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83574197",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310094157"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-26"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897683494",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897683494",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "27"
+                        },
+                        "library:oclcnum": "7897683494",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4100764647#Person\/gopal_sreenivasan",
+                            "@type": "schema:Person",
+                            "schema:name": "Gopal Sreenivasan"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4100764647"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0009-3599#81_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0009-3599#81",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0009-3599"
+                                },
+                                "schema:volumeNumber": "81"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Does Today's International Trade Agreement Bind Tomorrow's Citizen",
+                        "schema:productID": "7897683494",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82606207",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897683494"
+                        }
+                    },
+                    "schema:dateModified": "2018-12-05"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310143844",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310143844",
+                        "@type": [
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "28"
+                        },
+                        "library:oclcnum": "7310143844",
+                        "schema:contributor": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/121858262#Person\/eric_k_weingarten",
+                            "@type": "schema:Person",
+                            "schema:name": "Eric K. Weingarten"
+                        },
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/121858262#Person\/john_t_soma",
+                            "@type": "schema:Person",
+                            "schema:name": "John T. Soma"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/121858262"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1086-7872#21_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1086-7872#21"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Multinational Economic Network Effects and the Need for an International Antitrust Response from the World Trade Organization: A Case Study in Broadcast-Media and News Corporation",
+                        "schema:productID": "7310143844",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84770876",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310143844"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-13"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897998230",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897998230",
+                        "@type": [
+                            "schema:Article",
+                            "schema:MediaObject",
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "29"
+                        },
+                        "library:oclcnum": "7897998230",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/224940080#Person\/blanche_sousi",
+                            "@type": "schema:Person",
+                            "schema:name": "Blanche Sousi"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/224940080"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0740-4824#19_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0740-4824#19",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0740-4824"
+                                },
+                                "schema:volumeNumber": "19"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "French Banking Regulations: Can You Resist the Universal Banking Temptation?",
+                        "schema:productID": "7897998230",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/85581900",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897998230"
+                        }
+                    },
+                    "schema:dateModified": "2018-12-01"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310666604",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310666604",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "30"
+                        },
+                        "library:oclcnum": "7310666604",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/131996336#Person\/matthew_bloom",
+                            "@type": "schema:Person",
+                            "schema:name": "Matthew Bloom"
+                        },
+                        "schema:description": "\"Since the late 1970s, China has undertaken a process of opening up to the world and engaging in economic reform. This process has brought increased opportunities for Western nations to cooperate with China. Predictably, efforts to cooperate also have given rise to new challenges, as Chinese and Western cultures and systems often conflict. Extradition, which is an important component of transnational criminal law enforcement, presents one area in which cooperation with the Chinese was not previously available, but now can provide important benefits. The United States and its allies are dedicated to combating international terrorism, and they are negotiating mutual legal assistance and extradition treaties \"\"at an increasingly vigorous pace\"",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/131996336"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#33_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#33",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "33"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "A Comparative Analysis of the United States's Response to Extradition Requests from China",
+                        "schema:productID": "7310666604",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83108202",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310666604"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-24"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897622152",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897622152",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "31"
+                        },
+                        "library:oclcnum": "7897622152",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4992295813#Person\/cwru_journal_of_international_law",
+                            "@type": "schema:Person",
+                            "schema:name": "CWRU Journal of International Law"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4992295813"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0008-7254#46_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0008-7254#46",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0008-7254"
+                                },
+                                "schema:volumeNumber": "46"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Volume 46 Issue 3",
+                        "schema:productID": "7897622152",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/85389426",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897622152"
+                        }
+                    },
+                    "schema:dateModified": "2018-12-04"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897696585",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897696585",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "32"
+                        },
+                        "library:oclcnum": "7897696585",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2569874621#Person\/max_l_rettig",
+                            "@type": "schema:Person",
+                            "schema:name": "Max L. Rettig"
+                        },
+                        "schema:description": "More than a decade after the landmark trial of two Rwandan nuns for their role in the 1994 genocide, important lessons from the proceedings have yet to be fully explored. While scholars have vigorously debated the merits of international tribunals, hybrid courts, and local justice, comparatively little attention has focused on transnational trials\u2014when national courts, typically in Europe and North America, exercise jurisdiction over foreign persons for crimes allegedly committed in foreign countries. Drawing on evidence collected in Belgium and Rwanda, including interviews, trial transcripts, and public opinion data, this Article uses the trial of the two Rwandan nuns to evaluate the strengths and weaknesses of transnational trials. The story of Srs. Gertrude and Kizito provides an example of how Belgium\u2019s exercise of jurisdiction prevented two accused g\u00e9nocidaires from escaping the law\u2019s reach. But their story also reveals the challenges associated with conducting a highly sensitive trial in a culturally and geographically distant land. Defense attorneys for the nuns argue that Belgian jurors were ill-equipped to sort truth from fiction because of their lack of familiarity with Rwandan culture. The Belgian government\u2019s reluctance to grant a key witness a visa to testify at trial deprived the jury of the opportunity to hear and assess his testimony. Furthermore, public opinion data reveals that the trial failed to capture the attention of the Rwandan people, perhaps detracting from the trial\u2019s capacity to promote norm penetration and reconciliation. The trial also implicitly privileged Belgian legal values, like due process and relatively light sentences, over Rwanda\u2019s preference for harsher punishments. Before fully embracing universal jurisdiction and transnational trials, policymakers must carefully consider the goals they aim to achieve by prosecuting foreign citizens for crimes committed abroad.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/2569874621"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1546-6981#11_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1546-6981#11",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1546-6981",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "1546-6981",
+                                    "schema:publisher": {
+                                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/2569874621#Agent\/washington_university_in_st_louis",
+                                        "@type": "http:\/\/bibliograph.net\/Agent",
+                                        "schema:name": "Washington University in St. Louis"
+                                    },
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Washington University Global Studies Law Review"
+                                },
+                                "schema:volumeNumber": "11"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Transnational Trials as Transitional Justice: Lessons from the Trial of Two Rwandan Nuns in Belgium",
+                        "schema:productID": "7897696585",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82887232",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897696585"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-30"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897710875",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897710875",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "33"
+                        },
+                        "library:oclcnum": "7897710875",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/245449183#Person\/david_f_klein",
+                            "@type": "schema:Person",
+                            "schema:name": "David F Klein"
+                        },
+                        "schema:description": "The emergence of an international law of human rights has substantially complicated the application of international law by U.S. courts. In the past, when international rules were thought only to affect relations between sovereigns, domestic courts could limit their application to situations involving one nation's infringement of another's rights. Such sovereign rights were well-established by practice, conventions, treaties, and scholarly writings. The recognition, following the genocides of this century, of human rights as a subject of international law has made the protection of international law available to numerous non-sovereign parties that did not enjoy it before. At the same time, however, it has complicated the task of discovering and applying international law in domestic settings. The utopian promise of a global law protecting all peoples has been brought within reach, but a cohesive theoretical framework for its application by domestic courts is still lacking. This Comment attempts to provide the outlines of such a framework.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/245449183"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#13_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#13",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "13"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "A Theory for the Application of the Customary International Law of Human Rights by Domestic Courts",
+                        "schema:productID": "7897710875",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83233849",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897710875"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-24"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310041673",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310041673",
+                        "@type": [
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "34"
+                        },
+                        "library:oclcnum": "7310041673",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755194147#Person\/frank_a_decosta",
+                            "@type": "schema:Person",
+                            "schema:name": "Frank A. DeCosta"
+                        },
+                        "schema:description": "\"In an effort to help the balance-of-payments deficit, the Revenue Act of 1971 included provisions authorizing creation of Domestic International Sales Corporations. Designed to discourage the continued use of foreign incorporated sales subsidiaries by domestic companies, election of DISC status permits an exporter to take maximum advantage of certain tax deferral provisions. However, the decision to \"\"bring home\"",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755194147"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0091-5440#3_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0091-5440#3",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0091-5440",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0091-5440",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/250989837#Agent\/university_of_baltimore_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Baltimore Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755194147#Agent\/university_of_baltimore_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Baltimore Law"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "University of Baltimore Law Review"
+                                },
+                                "schema:volumeNumber": "3"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Utilizing the Disc in Some Corporate Repatriations under Section 367",
+                        "schema:productID": "7310041673",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81610442",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310041673"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310651513",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310651513",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "35"
+                        },
+                        "library:oclcnum": "7310651513",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/402889332#Person\/gregory_s_mcneal",
+                            "@type": "schema:Person",
+                            "schema:name": "Gregory S. McNeal"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/402889332"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0008-7254#42_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0008-7254#42",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0008-7254",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0008-7254",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521226112#Agent\/case_western_reserve_university_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Case Western Reserve University School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4992295813#Agent\/case_western_reserve_university_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Case Western Reserve University School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/402889332#Agent\/case_western_reserve_university_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Case Western Reserve University School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755807528#Agent\/case_western_reserve_university_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Case Western Reserve University School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/245372904#Agent\/case_western_reserve_university_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Case Western Reserve University School of Law"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Case Western Reserve Journal of International Law"
+                                },
+                                "schema:volumeNumber": "42"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Organizational Culture, Professional Ethics and Guantanamo",
+                        "schema:productID": "7310651513",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82323958",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310651513"
+                        }
+                    },
+                    "schema:dateModified": "2018-06-08"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310064862",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310064862",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "36"
+                        },
+                        "library:oclcnum": "7310064862",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058322173#Person\/david_sho_chao_hung",
+                            "@type": "schema:Person",
+                            "schema:name": "David Sho-Chao Hung"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058322173"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1535-1785#4_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1535-1785#4",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1535-1785",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "1535-1785",
+                                    "schema:publisher": {
+                                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058322173#Agent\/chicago_kent_college_of_law",
+                                        "@type": "http:\/\/bibliograph.net\/Agent",
+                                        "schema:name": "Chicago-Kent College of Law"
+                                    },
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Chicago-Kent Journal of International and Comparative Law"
+                                },
+                                "schema:volumeNumber": "4"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Abortion Rights in the United States and Taiwan",
+                        "schema:productID": "7310064862",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82786319",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310064862"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-15"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310080716",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310080716",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "37"
+                        },
+                        "library:oclcnum": "7310080716",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755238440#Person\/harold_hongju_koh",
+                            "@type": "schema:Person",
+                            "schema:name": "Harold Hongju Koh"
+                        },
+                        "schema:description": "\"Professor Lobel premises his review on a flattering, but ultimately ill-chosen, comparison between my book and John Hart Ely's Democracy and Distrust: A Theory of Judicial Review. Both books, in his view, erroneously develop a \"\"process-based theory of the Constitution,\"\" and must therefore answer the same, familiar objection: that \"\"it is theoretically impossible to divide process from substance.\"\" Perhaps both books could be called \"\"process-based\"\" in the broad sense that each offers proposals to protect and improve the decision making processes of American governmental institutions. But there fruitful comparison largely ends. As its subtitle makes clear, Professor Ely's book sought to address Alexander Bickel's \"\"counter-majoritarian difficulty\"\" by endorsing a constitutional theory of judicial review that would limit courts to policing the processes of representative government. My book addresses a wholly different problem - the decline of our constitutional system of checks and balances in foreign affairs - and proposes an entirely different solution: legislative reform, through enactment of a framework statute (a \"\"national security charter\"\") to promote the balanced participation of all three branches of government in national security decision making.\"",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755238440"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#15_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#15",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "15"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Reply",
+                        "schema:productID": "7310080716",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83128938",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310080716"
+                        }
+                    },
+                    "schema:dateModified": "2018-09-07"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310649654",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310649654",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "38"
+                        },
+                        "library:oclcnum": "7310649654",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755807528#Person\/ellin_e_rosenthal",
+                            "@type": "schema:Person",
+                            "schema:name": "Ellin E. Rosenthal"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4755807528"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0008-7254#16_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0008-7254#16",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0008-7254"
+                                },
+                                "schema:volumeNumber": "16"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Book Review",
+                        "schema:productID": "7310649654",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82385899",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310649654"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897679984",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897679984",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "39"
+                        },
+                        "library:oclcnum": "7897679984",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520942508#Person\/sharon_d_fitch",
+                            "@type": "schema:Person",
+                            "schema:name": "Sharon D. Fitch"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5520942508"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0886-3210#22_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0886-3210#22",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0886-3210",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0886-3210",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5521168073#Agent\/california_western_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "California Western School of Law"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520942508#Agent\/california_western_school_of_law",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "California Western School of Law"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "California Western International Law Journal"
+                                },
+                                "schema:volumeNumber": "22"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Dispute Settlement Under the North American Free Trade Agreement: Will the Political, Cultural and Legal Differences Between the United States and Mexico Inhibit the Establishment of Fair Dispute Settlement Procedures?",
+                        "schema:productID": "7897679984",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82462768",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897679984"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897988459",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897988459",
+                        "@type": [
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "40"
+                        },
+                        "library:oclcnum": "7897988459",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4390529452#Person\/lan_cao",
+                            "@type": "schema:Person",
+                            "schema:name": "Lan Cao"
+                        },
+                        "schema:description": "This Article examines how and why the dollar is being challenged. Part I provides a brief history of the U.S. dollar, showing how it has evolved from something with intrinsic value to something that has no intrinsic value, except via government fiat. Part I traces the evolution of money in the United States, from its original foundation in commodities and gold and silver coins, to the creation of money via Federal Reserve notes which function as money substitutes, that is, paper instruments that represent gold and silver and presumably can be converted into real money. The aim of Part I is to show that money was originally rooted in something of value and that over time, its value was debased and became more attenuated and symbolic rather than intrinsic. Part II examines U.S. power after World War II and the rise of the dollar as the preferred currency of the international economic system. It will focus on the dominance of the dollar-centered global economy and discuss the \u201cexorbitant privilege\u201d the system has given the United States. For example, to protect this system and the privilege it bestows on the United States, the United States pressured its allies, particularly Germany, to refrain from demanding that dollars be exchanged for gold.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4390529452"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1052-2867#38_1"
+                        },
+                        "schema:name": "Currency Wars and the Erosion of Dollar Hegemony",
+                        "schema:productID": "7897988459",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84626726",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897988459"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-25"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897869128",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897869128",
+                        "@type": [
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "41"
+                        },
+                        "library:oclcnum": "7897869128",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4251956571#Person\/damjan_kukovec",
+                            "@type": "schema:Person",
+                            "schema:name": "Damjan Kukovec"
+                        },
+                        "schema:description": "This Article has several aims. First, the aim is to show the continuing importance and relevance of antitrust and international trade lawyers in countering the concentration of power in the hands of the few or in some geographic areas of the world, if some of the assumptions of antitrust and trade are adjusted. Second, the goal is to articulate a particular analysis from the perspective of the (European) periphery. As the recent Euro crises and the near exit of Greece from the Union show, the European prospect of development for all has not arrived. This Article will articulate the privilege of the corporations in a structurally privileged position of the European center to harm the industry of the periphery and offer one analysis and explanation for the reproduction of hierarchies and concentration of wealth in the center of the European Union. The doctrine developed on this basis is called \u201cdumping practices of the center.\u201d Third, the aim is to challenge the sensibility that economic thinking is the main culprit in the concentration of power and economic impoverishment of some parts or sections of the world. Rather, what needs to be challenged is the existing social understanding of injury, in economic thinking just as much as in thinking about equity or fairness. In arguing for a reversal of social understanding of harm, economic analysis can be used as an important tool for social transformation.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4251956571"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1052-2867#38_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1052-2867#38",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1052-2867",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "1052-2867",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/125331064#Agent\/university_of_michigan_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Michigan Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4390529452#Agent\/university_of_michigan_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Michigan Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4251956571#Agent\/university_of_michigan_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Michigan Law School"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Michigan Journal of International Law"
+                                },
+                                "schema:volumeNumber": "38"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Economic Law, Inequality, and Hidden Hierarchies on the EU Internal Market",
+                        "schema:productID": "7897869128",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84597973",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897869128"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-26"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897669985",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897669985",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "42"
+                        },
+                        "library:oclcnum": "7897669985",
+                        "schema:contributor": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520935259#Person\/toby_b_prodgers",
+                            "@type": "schema:Person",
+                            "schema:name": "Toby B Prodgers"
+                        },
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520935259#Person\/john_j_fitzpatrick_jr",
+                            "@type": "schema:Person",
+                            "schema:name": "John J Fitzpatrick Jr."
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5520935259"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#3_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#3"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "COMMENT: Blocked Assets and Private Claims: The Initial Barriers to Trade Negotiations Between the United States and China",
+                        "schema:productID": "7897669985",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82111397",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897669985"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310179987",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310179987",
+                        "@type": [
+                            "schema:MediaObject",
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "43"
+                        },
+                        "library:oclcnum": "7310179987",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/78112198#Person\/george_e_edwards",
+                            "@type": "schema:Person",
+                            "schema:name": "George E. Edwards"
+                        },
+                        "schema:description": "Late in the evening of Friday, July 17, 1998, at a United Nations facility in Rome, Italy, after five weeks of indefatigable, strained negotiations, 120 nations endorsed a treaty to establish a permanent International Criminal Court (ICC) to sit in the Hague, Netherlands with jurisdiction to try perpetrators of genocide, crimes against humanity, war crimes, and aggression. The Court will be established after sixty states have adhered to the Rome Statute, and will function fully after the Assembly of States Parties adopts collateral documents, including the ICC Rules of Procedure and Evidence and the ICC Elements of Crimes, finalized drafts of which were approved at the conclusion of the fifth session of the Preparatory Commission for the Establishment of an International Criminal Court.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/78112198"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0889-7743#26_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0889-7743#26",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0889-7743"
+                                },
+                                "schema:volumeNumber": "26"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "International Human Rights Law Challenges to the New International Criminal Court: The Search and Seizure Right to Privacy",
+                        "schema:productID": "7310179987",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/83243683",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310179987"
+                        }
+                    },
+                    "schema:dateModified": "2018-12-01"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310644026",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310644026",
+                        "@type": [
+                            "schema:Article",
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "44"
+                        },
+                        "library:oclcnum": "7310644026",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058325962#Person\/brian_s_tatum",
+                            "@type": "schema:Person",
+                            "schema:name": "Brian S Tatum"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058325962"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#26_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#26",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "26"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "Exclusivity of the Warsaw Convention's Cause of Action: The U.S. Supreme Court Removes Some of the Expansive Views Foundations in Zicherman v. Korean Air Lines Co. Ltd.",
+                        "schema:productID": "7310644026",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81917990",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310644026"
+                        }
+                    },
+                    "schema:dateModified": "2018-06-10"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897996266",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897996266",
+                        "@type": [
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "45"
+                        },
+                        "library:oclcnum": "7897996266",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058402570#Person\/sophie_smyth",
+                            "@type": "schema:Person",
+                            "schema:name": "Sophie Smyth"
+                        },
+                        "schema:description": "By Sophie Smyth, Published on 12\/01\/08",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1058402570"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1086-7872#30_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1086-7872#30",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1086-7872",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "1086-7872",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/122168107#Agent\/university_of_pennsylvania_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Pennsylvania Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058233963#Agent\/university_of_pennsylvania_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Pennsylvania Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/308982187#Agent\/university_of_pennsylvania_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Pennsylvania Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/121858262#Agent\/university_of_pennsylvania_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Pennsylvania Law School"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1058402570#Agent\/university_of_pennsylvania_law_school",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "University of Pennsylvania Law School"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "University of Pennsylvania Journal of International Law"
+                                },
+                                "schema:volumeNumber": "30"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "World Bank Grants in a Changed World Order: How Do We Referee This New Paradigm",
+                        "schema:productID": "7897996266",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84902456",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897996266"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-28"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310024673",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310024673",
+                        "@type": [
+                            "schema:MediaObject",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:CreativeWork"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "46"
+                        },
+                        "library:oclcnum": "7310024673",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/1356568202#Person\/caroline_gray_mcglamry",
+                            "@type": "schema:Person",
+                            "schema:name": "Caroline Gray McGlamry"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/1356568202"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#40_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#40",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "40"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Kidnappers Without Borders: An Epidemic in Need of Global Solutions",
+                        "schema:productID": "7310024673",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/81952943",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310024673"
+                        }
+                    },
+                    "schema:dateModified": "2018-06-09"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310055690",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310055690",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "47"
+                        },
+                        "library:oclcnum": "7310055690",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4694517433#Person\/alexandra_merrett",
+                            "@type": "schema:Person",
+                            "schema:name": "Alexandra Merrett"
+                        },
+                        "schema:description": "This paper analyses the intersection between international trade and competition policy, using the proposed free trade agreement between Australia and the United States as a basis for examining key issues. The paper discusses rules of the international trading system relating to competition policy and market distortion, before considering the limitations of the multilateral system. The paper then considers free trade agreements as a means to overcome some of these limitations, before turning to the proposed Australian-American free trade agreement specifically, whereupon selected issues relating to competition policy and market distortion are closely examined.",
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4694517433"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/1033-4505#15_2",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/1033-4505#15",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/1033-4505",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "1033-4505",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4691664462#Agent\/bond_university",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Bond University"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4694517433#Agent\/bond_university",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Bond University"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Bond Law Review"
+                                },
+                                "schema:volumeNumber": "15"
+                            },
+                            "schema:issueNumber": "2"
+                        },
+                        "schema:name": "The Intersection Between International Trade and Competition Policy: As Illustrated by an Australian \/ American Free Trade Agreement",
+                        "schema:productID": "7310055690",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82285503",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310055690"
+                        }
+                    },
+                    "schema:dateModified": "2018-06-08"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897606865",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897606865",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "schema:MediaObject",
+                            "schema:Article",
+                            "http:\/\/www.productontology.org\/id\/Web_document"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "48"
+                        },
+                        "library:oclcnum": "7897606865",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4106047656#Person\/elizabeth_verner",
+                            "@type": "schema:Person",
+                            "schema:name": "Elizabeth Verner"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/4106047656"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0046-578X#43_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0046-578X#43",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0046-578X"
+                                },
+                                "schema:volumeNumber": "43"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Child Marriage in Yemen: A Violation of International Law",
+                        "schema:productID": "7897606865",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82011999",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897606865"
+                        }
+                    },
+                    "schema:dateModified": "2018-11-27"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897614656",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7897614656",
+                        "@type": [
+                            "schema:CreativeWork",
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:Article",
+                            "schema:MediaObject"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "49"
+                        },
+                        "library:oclcnum": "7897614656",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520880680#Person\/nancy_claridge",
+                            "@type": "schema:Person",
+                            "schema:name": "Nancy Claridge"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5520880680"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0030-6185#42_3",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0030-6185#42",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0030-6185",
+                                    "@type": "schema:Periodical",
+                                    "schema:issn": "0030-6185",
+                                    "schema:publisher": [
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/4755865097#Agent\/osgoode_hall_law_school_of_york_university",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Osgoode Hall Law School of York University"
+                                        },
+                                        {
+                                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5520880680#Agent\/osgoode_hall_law_school_of_york_university",
+                                            "@type": "http:\/\/bibliograph.net\/Agent",
+                                            "schema:name": "Osgoode Hall Law School of York University"
+                                        }
+                                    ],
+                                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Osgoode Hall Law Journal"
+                                },
+                                "schema:volumeNumber": "42"
+                            },
+                            "schema:issueNumber": "3"
+                        },
+                        "schema:name": "Book Notes: From Nuremberg to the Hague: The Future of International Criminal Justice, by Philippe Sands (ed)",
+                        "schema:productID": "7897614656",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/84691729",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7897614656"
+                        }
+                    },
+                    "schema:dateModified": "2019-01-14"
+                },
+                {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310646768",
+                    "@type": [
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+                    ],
+                    "void:inDataset": {
+                        "@id": "http:\/\/purl.oclc.org\/dataset\/paperity"
+                    },
+                    "schema:about": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/7310646768",
+                        "@type": [
+                            "http:\/\/www.productontology.org\/id\/Web_document",
+                            "schema:MediaObject",
+                            "schema:CreativeWork",
+                            "schema:Article"
+                        ],
+                        "gr:displayPosition": {
+                            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                            "@value": "50"
+                        },
+                        "library:oclcnum": "7310646768",
+                        "schema:creator": {
+                            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/245372904#Person\/benjamin_p_fishburne_iii",
+                            "@type": "schema:Person",
+                            "schema:name": "Benjamin P. Fishburne III"
+                        },
+                        "schema:exampleOfWork": {
+                            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/245372904"
+                        },
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0008-7254#20_1",
+                            "@type": "schema:PublicationIssue",
+                            "schema:isPartOf": {
+                                "@id": "http:\/\/worldcat.org\/issn\/0008-7254#20",
+                                "@type": "schema:PublicationVolume",
+                                "schema:isPartOf": {
+                                    "@id": "http:\/\/worldcat.org\/issn\/0008-7254"
+                                },
+                                "schema:volumeNumber": "20"
+                            },
+                            "schema:issueNumber": "1"
+                        },
+                        "schema:name": "Hong Kong 1997: Practical Aspects",
+                        "schema:productID": "7310646768",
+                        "schema:url": {
+                            "@id": "http:\/\/paperity.org\/p\/82333310",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Paperity"
+                        },
+                        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7310646768"
+                        }
+                    },
+                    "schema:dateModified": "2018-05-14"
+                }
+            ],
+            "discovery:itemsPerPage": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "50"
+            },
+            "discovery:startIndex": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "0"
+            },
+            "discovery:totalResults": {
+                "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                "@value": "13927"
+            }
+        }
+    ]
+}

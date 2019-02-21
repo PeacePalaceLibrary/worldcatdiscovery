@@ -29,8 +29,12 @@ $config = [
 
     //searches section
     'search_url' => "https://beta.worldcat.org/discovery/bib/search",
-    'search_params' => ['q' => 'Vredespaleis',
-                 'dbIds' => '638'
+    'search_params' => ['q' => 'International law',
+                 'dbIds' => '638',
+                 'heldBy' => 'NLVRD',
+                 'sortBy' => 'date',
+                 'itemsPerPage' => 50,
+                 'itemSubType' => 'digital'
                  ],
     'search_method' => 'GET',
     'search_headers' => ["Accept: application/ld+json"],

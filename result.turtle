@@ -1,0 +1,2461 @@
+@prefix gr:    <http://purl.org/goodrelations/v1#> .
+
+<http://www.worldcat.org/oclc/7310291021>
+        a                              <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             21 ;
+        <http://purl.org/library/oclcnum>
+                "7310291021" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1927987039#Person/tina_cheng> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1927987039> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#41_2> ;
+        <http://schema.org/name>       "A Cloudy Forecast: Divergence in the Cloud Computing Laws of the United States, European Union, and China" ;
+        <http://schema.org/productID>  "7310291021" ;
+        <http://schema.org/url>        <http://paperity.org/p/81937658> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310291021> .
+
+<http://www.worldcat.org/title/-/oclc/7310291021>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310291021> ;
+        <http://schema.org/dateModified>
+                "2018-05-13" .
+
+<http://worldcat.org/issn/0091-5440#3_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0091-5440#3> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/5520935259#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://www.worldcat.org/oclc/7310143844>
+        a                              <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             28 ;
+        <http://purl.org/library/oclcnum>
+                "7310143844" ;
+        <http://schema.org/contributor>
+                <http://experiment.worldcat.org/entity/work/data/121858262#Person/eric_k_weingarten> ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/121858262#Person/john_t_soma> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/121858262> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1086-7872#21_1> ;
+        <http://schema.org/name>       "Multinational Economic Network Effects and the Need for an International Antitrust Response from the World Trade Organization: A Case Study in Broadcast-Media and News Corporation" ;
+        <http://schema.org/productID>  "7310143844" ;
+        <http://schema.org/url>        <http://paperity.org/p/84770876> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310143844> .
+
+<http://worldcat.org/issn/1086-7872#30_4>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872#30> ;
+        <http://schema.org/issueNumber>
+                "4" .
+
+<http://www.worldcat.org/title/-/oclc/7310143844>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310143844> ;
+        <http://schema.org/dateModified>
+                "2018-05-13" .
+
+<http://experiment.worldcat.org/entity/work/data/121858262#Person/eric_k_weingarten>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Eric K. Weingarten" .
+
+<http://worldcat.org/issn/0889-7743#13>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "13" .
+
+<http://www.worldcat.org/oclc/7310646768>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> , <http://schema.org/Article> ;
+        gr:displayPosition             50 ;
+        <http://purl.org/library/oclcnum>
+                "7310646768" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/245372904#Person/benjamin_p_fishburne_iii> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/245372904> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0008-7254#20_1> ;
+        <http://schema.org/name>       "Hong Kong 1997: Practical Aspects" ;
+        <http://schema.org/productID>  "7310646768" ;
+        <http://schema.org/url>        <http://paperity.org/p/82333310> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310646768> .
+
+<http://experiment.worldcat.org/entity/work/data/78112198#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://www.worldcat.org/title/-/oclc/7310646768>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310646768> ;
+        <http://schema.org/dateModified>
+                "2018-05-14" .
+
+<http://www.worldcat.org/title/-/oclc/7310179987>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310179987> ;
+        <http://schema.org/dateModified>
+                "2018-12-01" .
+
+<http://worldcat.org/issn/1052-2867#38_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1052-2867#38> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/84626726>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/1033-4505#15_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1033-4505#15> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/0740-4824#22_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#22> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://experiment.worldcat.org/entity/work/data/1058544043#Person/joel_p_trachtman>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Joel P. Trachtman" .
+
+<http://experiment.worldcat.org/entity/work/data/2569874621#Agent/washington_university_in_st_louis>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Washington University in St. Louis" .
+
+<http://paperity.org/p/83128938>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0046-578X#26_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#26> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/1546-6981#11_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1546-6981#11> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/1058427260#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/245449183#Person/david_f_klein>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "David F Klein" .
+
+<http://paperity.org/p/82111397>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/title/-/oclc/7897683494>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897683494> ;
+        <http://schema.org/dateModified>
+                "2018-12-05" .
+
+<http://paperity.org/p/83118303>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/title/-/oclc/7897773889>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897773889> ;
+        <http://schema.org/dateModified>
+                "2018-11-27" .
+
+<http://www.worldcat.org/oclc/7897901205>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> ;
+        gr:displayPosition             1 ;
+        <http://purl.org/library/oclcnum>
+                "7897901205" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5521226112#Person/index> ;
+        <http://schema.org/description>
+                "index" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5521226112> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0008-7254#10_3> ;
+        <http://schema.org/name>       "Index, Volume 10" ;
+        <http://schema.org/productID>  "7897901205" ;
+        <http://schema.org/url>        <http://paperity.org/p/82333844> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897901205> .
+
+<http://worldcat.org/issn/0886-3210>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "California Western International Law Journal" ;
+        <http://schema.org/issn>       "0886-3210" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/5521168073#Agent/california_western_school_of_law> , <http://experiment.worldcat.org/entity/work/data/5520942508#Agent/california_western_school_of_law> .
+
+<http://worldcat.org/issn/0886-3210#2_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0886-3210#2> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://worldcat.org/issn/1052-2867#14_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1052-2867#14> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/81531666>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/1033-4505#15>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1033-4505> ;
+        <http://schema.org/volumeNumber>
+                "15" .
+
+<https://beta.worldcat.org/discovery/bib/search?dbIds=638&heldBy=NLVRD&itemSubType=digital&itemsPerPage=50&q=International law&sortBy=date&startIndex=0>
+        a       <http://worldcat.org/vocab/discovery/SearchResults> ;
+        <http://worldcat.org/vocab/discovery/hasPart>
+                <http://www.worldcat.org/title/-/oclc/7897710664> , <http://www.worldcat.org/title/-/oclc/7897679984> , <http://www.worldcat.org/title/-/oclc/7310179987> , <http://www.worldcat.org/title/-/oclc/7310041673> , <http://www.worldcat.org/title/-/oclc/7310651513> , <http://www.worldcat.org/title/-/oclc/7310080716> , <http://www.worldcat.org/title/-/oclc/7310178669> , <http://www.worldcat.org/title/-/oclc/7310666604> , <http://www.worldcat.org/title/-/oclc/7310049570> , <http://www.worldcat.org/title/-/oclc/7310094157> , <http://www.worldcat.org/title/-/oclc/7310644026> , <http://www.worldcat.org/title/-/oclc/7310291021> , <http://www.worldcat.org/title/-/oclc/7897622152> , <http://www.worldcat.org/title/-/oclc/7897614656> , <http://www.worldcat.org/title/-/oclc/7310064862> , <http://www.worldcat.org/title/-/oclc/7897996266> , <http://www.worldcat.org/title/-/oclc/7897869128> , <http://www.worldcat.org/title/-/oclc/7310155100> , <http://www.worldcat.org/title/-/oclc/7897998230> , <http://www.worldcat.org/title/-/oclc/7310066792> , <http://www.worldcat.org/title/-/oclc/7897947785> , <http://www.worldcat.org/title/-/oclc/7897621112> , <http://www.worldcat.org/title/-/oclc/7897909970> , <http://www.worldcat.org/title/-/oclc/7897669985> , <http://www.worldcat.org/title/-/oclc/7310088733> , <http://www.worldcat.org/title/-/oclc/7310684535> , <http://www.worldcat.org/title/-/oclc/7897966540> , <http://www.worldcat.org/title/-/oclc/7897606289> , <http://www.worldcat.org/title/-/oclc/7897895360> , <http://www.worldcat.org/title/-/oclc/7897683494> , <http://www.worldcat.org/title/-/oclc/7897744540> , <http://www.worldcat.org/title/-/oclc/7897900049> , <http://www.worldcat.org/title/-/oclc/7897901205> , <http://www.worldcat.org/title/-/oclc/7897696585> , <http://www.worldcat.org/title/-/oclc/7897988459> , <http://www.worldcat.org/title/-/oclc/7310646768> , <http://www.worldcat.org/title/-/oclc/7310044172> , <http://www.worldcat.org/title/-/oclc/7310055690> , <http://www.worldcat.org/title/-/oclc/7897912501> , <http://www.worldcat.org/title/-/oclc/7310649654> , <http://www.worldcat.org/title/-/oclc/7310056676> , <http://www.worldcat.org/title/-/oclc/7310090130> , <http://www.worldcat.org/title/-/oclc/7310707123> , <http://www.worldcat.org/title/-/oclc/7897773889> , <http://www.worldcat.org/title/-/oclc/7897606865> , <http://www.worldcat.org/title/-/oclc/7310024673> , <http://www.worldcat.org/title/-/oclc/7897710875> , <http://www.worldcat.org/title/-/oclc/7310671188> , <http://www.worldcat.org/title/-/oclc/7310143844> , <http://www.worldcat.org/title/-/oclc/7897896158> ;
+        <http://worldcat.org/vocab/discovery/itemsPerPage>
+                50 ;
+        <http://worldcat.org/vocab/discovery/startIndex>
+                0 ;
+        <http://worldcat.org/vocab/discovery/totalResults>
+                13926 .
+
+<http://experiment.worldcat.org/entity/work/data/5521168073#Agent/california_western_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "California Western School of Law" .
+
+<http://www.worldcat.org/title/-/oclc/7310644026>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310644026> ;
+        <http://schema.org/dateModified>
+                "2018-06-10" .
+
+<http://www.worldcat.org/title/-/oclc/7897947785>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897947785> ;
+        <http://schema.org/dateModified>
+                "2018-11-26" .
+
+<http://www.worldcat.org/oclc/7310155100>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             5 ;
+        <http://purl.org/library/oclcnum>
+                "7310155100" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/122168107#Person/lori_j_pennay> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/122168107> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1086-7872#21_2> ;
+        <http://schema.org/name>       "The Disproportionate Effect of the Asian Economic Crisis on Women: The Filipina Experience" ;
+        <http://schema.org/productID>  "7310155100" ;
+        <http://schema.org/url>        <http://paperity.org/p/84738756> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310155100> .
+
+<http://www.worldcat.org/title/-/oclc/7310155100>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310155100> ;
+        <http://schema.org/dateModified>
+                "2018-05-14" .
+
+<http://www.worldcat.org/title/-/oclc/7897988459>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897988459> ;
+        <http://schema.org/dateModified>
+                "2018-11-25" .
+
+<http://www.worldcat.org/title/-/oclc/7897896158>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897896158> ;
+        <http://schema.org/dateModified>
+                "2018-11-30" .
+
+<http://www.worldcat.org/oclc/7897622152>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             31 ;
+        <http://purl.org/library/oclcnum>
+                "7897622152" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4992295813#Person/cwru_journal_of_international_law> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4992295813> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0008-7254#46_3> ;
+        <http://schema.org/name>       "Volume 46 Issue 3" ;
+        <http://schema.org/productID>  "7897622152" ;
+        <http://schema.org/url>        <http://paperity.org/p/85389426> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897622152> .
+
+<http://experiment.worldcat.org/entity/work/data/4755807528#Agent/case_western_reserve_university_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Case Western Reserve University School of Law" .
+
+<http://experiment.worldcat.org/entity/work/data/224940080#Person/blanche_sousi>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Blanche Sousi" .
+
+<http://worldcat.org/issn/0008-7254#46_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254#46> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://paperity.org/p/83452184>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/5521164284#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://worldcat.org/issn/0740-4824#19>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "19" .
+
+<http://worldcat.org/issn/0046-578X#43_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#43> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://www.worldcat.org/oclc/7310671188>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             2 ;
+        <http://purl.org/library/oclcnum>
+                "7310671188" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5544033408#Person/maria_aurora_fe_candelaria> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5544033408> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#31_1> ;
+        <http://schema.org/name>       "The Angkor Sites of Cambodia: The Conflicting Values of Sustainable Tourism and State Sovereignty" ;
+        <http://schema.org/productID>  "7310671188" ;
+        <http://schema.org/url>        <http://paperity.org/p/83551644> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310671188> .
+
+<http://experiment.worldcat.org/entity/work/data/5520880680#Person/nancy_claridge>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Nancy Claridge" .
+
+<http://paperity.org/p/83233849>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/5520935259#Person/toby_b_prodgers>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Toby B Prodgers" .
+
+<http://worldcat.org/issn/0030-6185#42_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0030-6185#42> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://www.worldcat.org/oclc/7897669985>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             42 ;
+        <http://purl.org/library/oclcnum>
+                "7897669985" ;
+        <http://schema.org/contributor>
+                <http://experiment.worldcat.org/entity/work/data/5520935259#Person/toby_b_prodgers> ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5520935259#Person/john_j_fitzpatrick_jr> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5520935259> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#3_2> ;
+        <http://schema.org/name>       "COMMENT: Blocked Assets and Private Claims: The Initial Barriers to Trade Negotiations Between the United States and China" ;
+        <http://schema.org/productID>  "7897669985" ;
+        <http://schema.org/url>        <http://paperity.org/p/82111397> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897669985> .
+
+<http://worldcat.org/issn/1535-1785#4>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1535-1785> ;
+        <http://schema.org/volumeNumber>
+                "4" .
+
+<http://www.worldcat.org/oclc/7310651513>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> ;
+        gr:displayPosition             35 ;
+        <http://purl.org/library/oclcnum>
+                "7310651513" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/402889332#Person/gregory_s_mcneal> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/402889332> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0008-7254#42_1> ;
+        <http://schema.org/name>       "Organizational Culture, Professional Ethics and Guantanamo" ;
+        <http://schema.org/productID>  "7310651513" ;
+        <http://schema.org/url>        <http://paperity.org/p/82323958> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310651513> .
+
+<http://www.worldcat.org/title/-/oclc/7310651513>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310651513> ;
+        <http://schema.org/dateModified>
+                "2018-06-08" .
+
+<http://experiment.worldcat.org/entity/work/data/189802450#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://worldcat.org/issn/0046-578X#41>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "41" .
+
+<http://worldcat.org/issn/0889-7743#13_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#13> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/0046-578X#3_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#3> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/245372904#Person/benjamin_p_fishburne_iii>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Benjamin P. Fishburne III" .
+
+<http://experiment.worldcat.org/entity/work/data/122168107#Person/lori_j_pennay>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Lori J. Pennay" .
+
+<http://experiment.worldcat.org/entity/work/data/1058325962#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://experiment.worldcat.org/entity/work/data/88957091#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://worldcat.org/issn/0740-4824>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Brooklyn Journal of International Law" ;
+        <http://schema.org/issn>       "0740-4824" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/1058427260#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/4755245031#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/1058430908#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/1058430861#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/5544033408#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/88957091#Agent/brooklyn_law_school> , <http://experiment.worldcat.org/entity/work/data/224940080#Agent/brooklyn_law_school> .
+
+<http://experiment.worldcat.org/entity/work/data/5521226112#Person/index>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Index" .
+
+<http://www.worldcat.org/oclc/7310064862>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             36 ;
+        <http://purl.org/library/oclcnum>
+                "7310064862" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058322173#Person/david_sho_chao_hung> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058322173> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1535-1785#4_1> ;
+        <http://schema.org/name>       "Abortion Rights in the United States and Taiwan" ;
+        <http://schema.org/productID>  "7310064862" ;
+        <http://schema.org/url>        <http://paperity.org/p/82786319> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310064862> .
+
+<http://experiment.worldcat.org/entity/work/data/4992295813#Agent/case_western_reserve_university_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Case Western Reserve University School of Law" .
+
+<http://www.worldcat.org/title/-/oclc/7310064862>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310064862> ;
+        <http://schema.org/dateModified>
+                "2018-05-15" .
+
+<http://paperity.org/p/82333310>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/121858262#Person/john_t_soma>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "John T. Soma" .
+
+<http://www.worldcat.org/oclc/7310666604>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             30 ;
+        <http://purl.org/library/oclcnum>
+                "7310666604" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/131996336#Person/matthew_bloom> ;
+        <http://schema.org/description>
+                "\"Since the late 1970s, China has undertaken a process of opening up to the world and engaging in economic reform. This process has brought increased opportunities for Western nations to cooperate with China. Predictably, efforts to cooperate also have given rise to new challenges, as Chinese and Western cultures and systems often conflict. Extradition, which is an important component of transnational criminal law enforcement, presents one area in which cooperation with the Chinese was not previously available, but now can provide important benefits. The United States and its allies are dedicated to combating international terrorism, and they are negotiating mutual legal assistance and extradition treaties \"\"at an increasingly vigorous pace\"" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/131996336> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#33_1> ;
+        <http://schema.org/name>       "A Comparative Analysis of the United States's Response to Extradition Requests from China" ;
+        <http://schema.org/productID>  "7310666604" ;
+        <http://schema.org/url>        <http://paperity.org/p/83108202> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310666604> .
+
+<http://www.worldcat.org/title/-/oclc/7310666604>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310666604> ;
+        <http://schema.org/dateModified>
+                "2018-11-24" .
+
+<http://worldcat.org/issn/0889-7743#34_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#34> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/245372904#Agent/case_western_reserve_university_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Case Western Reserve University School of Law" .
+
+<http://worldcat.org/issn/1535-1785>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chicago-Kent Journal of International and Comparative Law" ;
+        <http://schema.org/issn>       "1535-1785" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/1058322173#Agent/chicago_kent_college_of_law> .
+
+<http://experiment.worldcat.org/entity/work/data/1058427260#Person/patrick_fitzmaurice>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Patrick Fitzmaurice" .
+
+<http://experiment.worldcat.org/entity/work/data/1058233963#Agent/university_of_pennsylvania_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Pennsylvania Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/5520942508#Agent/california_western_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "California Western School of Law" .
+
+<http://worldcat.org/issn/0008-7254#10_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254#10> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://experiment.worldcat.org/entity/work/data/4755865097#Person/colleen_hanycz>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Colleen Hanycz" .
+
+<http://www.worldcat.org/title/-/oclc/7310056676>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310056676> ;
+        <http://schema.org/dateModified>
+                "2018-06-07" .
+
+<http://worldcat.org/issn/1546-6981#11>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1546-6981> ;
+        <http://schema.org/volumeNumber>
+                "11" .
+
+<http://worldcat.org/issn/1086-7872#21_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872#21> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://worldcat.org/issn/1086-7872#31_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872#31> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://www.worldcat.org/title/-/oclc/7310080716>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310080716> ;
+        <http://schema.org/dateModified>
+                "2018-09-07" .
+
+<http://paperity.org/p/81952943>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0889-7743#26>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "26" .
+
+<http://experiment.worldcat.org/entity/work/data/4107436651#Person/gabriel_m_wilner>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Gabriel M. Wilner" .
+
+<http://experiment.worldcat.org/entity/work/data/234705823#Person/paul_l_hoffman>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Paul L. Hoffman" .
+
+<http://worldcat.org/issn/0740-4824#26>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "26" .
+
+<http://worldcat.org/issn/1086-7872>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "University of Pennsylvania Journal of International Law" ;
+        <http://schema.org/issn>       "1086-7872" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/122168107#Agent/university_of_pennsylvania_law_school> , <http://experiment.worldcat.org/entity/work/data/1058233963#Agent/university_of_pennsylvania_law_school> , <http://experiment.worldcat.org/entity/work/data/308982187#Agent/university_of_pennsylvania_law_school> , <http://experiment.worldcat.org/entity/work/data/121858262#Agent/university_of_pennsylvania_law_school> , <http://experiment.worldcat.org/entity/work/data/1058402570#Agent/university_of_pennsylvania_law_school> .
+
+<http://www.worldcat.org/title/-/oclc/7897900049>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897900049> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://www.worldcat.org/oclc/7310066792>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             16 ;
+        <http://purl.org/library/oclcnum>
+                "7310066792" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058427260#Person/patrick_fitzmaurice> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058427260> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#26_4> ;
+        <http://schema.org/name>       "Attorney General v. X: A Lost Opportunity to Examine the Limits of European Integration" ;
+        <http://schema.org/productID>  "7310066792" ;
+        <http://schema.org/url>        <http://paperity.org/p/83452184> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310066792> .
+
+<http://www.worldcat.org/title/-/oclc/7310066792>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310066792> ;
+        <http://schema.org/dateModified>
+                "2018-05-15" .
+
+<http://www.worldcat.org/title/-/oclc/7897869128>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897869128> ;
+        <http://schema.org/dateModified>
+                "2018-11-26" .
+
+<http://worldcat.org/issn/0008-7254#10>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254> ;
+        <http://schema.org/volumeNumber>
+                "10" .
+
+<http://worldcat.org/issn/0009-3599#80_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0009-3599#80> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/4100764647#Agent/chicago_kent_college_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Chicago-Kent College of Law" .
+
+<http://www.worldcat.org/oclc/7310179987>
+        a                              <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> ;
+        gr:displayPosition             43 ;
+        <http://purl.org/library/oclcnum>
+                "7310179987" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/78112198#Person/george_e_edwards> ;
+        <http://schema.org/description>
+                "Late in the evening of Friday, July 17, 1998, at a United Nations facility in Rome, Italy, after five weeks of indefatigable, strained negotiations, 120 nations endorsed a treaty to establish a permanent International Criminal Court (ICC) to sit in the Hague, Netherlands with jurisdiction to try perpetrators of genocide, crimes against humanity, war crimes, and aggression. The Court will be established after sixty states have adhered to the Rome Statute, and will function fully after the Assembly of States Parties adopts collateral documents, including the ICC Rules of Procedure and Evidence and the ICC Elements of Crimes, finalized drafts of which were approved at the conclusion of the fifth session of the Preparatory Commission for the Establishment of an International Criminal Court." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/78112198> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#26_2> ;
+        <http://schema.org/name>       "International Human Rights Law Challenges to the New International Criminal Court: The Search and Seizure Right to Privacy" ;
+        <http://schema.org/productID>  "7310179987" ;
+        <http://schema.org/url>        <http://paperity.org/p/83243683> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310179987> .
+
+<http://www.worldcat.org/oclc/7897966540>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             8 ;
+        <http://purl.org/library/oclcnum>
+                "7897966540" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058500408#Person/fred_l_morrison> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058500408> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0009-3599#80_1> ;
+        <http://schema.org/name>       "Between a Rock and a Hard Place: Sovereignty and International Protection" ;
+        <http://schema.org/productID>  "7897966540" ;
+        <http://schema.org/url>        <http://paperity.org/p/82822763> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897966540> .
+
+<http://www.worldcat.org/title/-/oclc/7897966540>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897966540> ;
+        <http://schema.org/dateModified>
+                "2018-11-27" .
+
+<http://worldcat.org/issn/0046-578X#25_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#25> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://www.worldcat.org/oclc/7897996266>
+        a                              <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             45 ;
+        <http://purl.org/library/oclcnum>
+                "7897996266" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058402570#Person/sophie_smyth> ;
+        <http://schema.org/description>
+                "By Sophie Smyth, Published on 12/01/08" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058402570> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1086-7872#30_2> ;
+        <http://schema.org/name>       "World Bank Grants in a Changed World Order: How Do We Referee This New Paradigm" ;
+        <http://schema.org/productID>  "7897996266" ;
+        <http://schema.org/url>        <http://paperity.org/p/84902456> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897996266> .
+
+<http://www.worldcat.org/title/-/oclc/7897996266>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897996266> ;
+        <http://schema.org/dateModified>
+                "2018-11-28" .
+
+<http://experiment.worldcat.org/entity/work/data/5520942508#Person/sharon_d_fitch>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Sharon D. Fitch" .
+
+<http://experiment.worldcat.org/entity/work/data/308982187#Person/rushmi_ramakrishna>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Rushmi Ramakrishna" .
+
+<http://www.worldcat.org/oclc/7897683494>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             27 ;
+        <http://purl.org/library/oclcnum>
+                "7897683494" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4100764647#Person/gopal_sreenivasan> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4100764647> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0009-3599#81_1> ;
+        <http://schema.org/name>       "Does Today's International Trade Agreement Bind Tomorrow's Citizen" ;
+        <http://schema.org/productID>  "7897683494" ;
+        <http://schema.org/url>        <http://paperity.org/p/82606207> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897683494> .
+
+<http://experiment.worldcat.org/entity/work/data/1058322173#Agent/chicago_kent_college_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Chicago-Kent College of Law" .
+
+<http://worldcat.org/issn/1086-7872#21>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872> ;
+        <http://schema.org/volumeNumber>
+                "21" .
+
+<http://paperity.org/p/81806345>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7897773889>
+        a                              <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             11 ;
+        <http://purl.org/library/oclcnum>
+                "7897773889" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058233963#Person/derek_e_bambauer> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058233963> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1086-7872#31_2> ;
+        <http://schema.org/name>       "Filtering in Oz: Australia's Foray into Internet Censorship" ;
+        <http://schema.org/productID>  "7897773889" ;
+        <http://schema.org/url>        <http://paperity.org/p/84851684> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897773889> .
+
+<http://worldcat.org/issn/0889-7743#15_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#15> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/0091-5440#3>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0091-5440> ;
+        <http://schema.org/volumeNumber>
+                "3" .
+
+<http://experiment.worldcat.org/entity/work/data/4755245031#Person/martha_salper>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Martha Salper" .
+
+<http://worldcat.org/issn/0740-4824#30_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#30> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/83113119>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0008-7254>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Case Western Reserve Journal of International Law" ;
+        <http://schema.org/issn>       "0008-7254" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/5521226112#Agent/case_western_reserve_university_school_of_law> , <http://experiment.worldcat.org/entity/work/data/4992295813#Agent/case_western_reserve_university_school_of_law> , <http://experiment.worldcat.org/entity/work/data/402889332#Agent/case_western_reserve_university_school_of_law> , <http://experiment.worldcat.org/entity/work/data/4755807528#Agent/case_western_reserve_university_school_of_law> , <http://experiment.worldcat.org/entity/work/data/245372904#Agent/case_western_reserve_university_school_of_law> .
+
+<http://worldcat.org/issn/0026-6604#42>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0026-6604> ;
+        <http://schema.org/volumeNumber>
+                "42" .
+
+<http://www.worldcat.org/oclc/7310644026>
+        a                              <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             44 ;
+        <http://purl.org/library/oclcnum>
+                "7310644026" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058325962#Person/brian_s_tatum> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058325962> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#26_2> ;
+        <http://schema.org/name>       "Exclusivity of the Warsaw Convention's Cause of Action: The U.S. Supreme Court Removes Some of the Expansive Views Foundations in Zicherman v. Korean Air Lines Co. Ltd." ;
+        <http://schema.org/productID>  "7310644026" ;
+        <http://schema.org/url>        <http://paperity.org/p/81917990> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310644026> .
+
+<http://www.worldcat.org/oclc/7897947785>
+        a                              <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             7 ;
+        <http://purl.org/library/oclcnum>
+                "7897947785" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/125331064#Person/antonio_cassese> ;
+        <http://schema.org/description>
+                "With the help of a research team, the author spoke to the people most responsible for using-or ignoring-international law today: present and former foreign ministers and their chief legal advisers, hereafter referred to as LAs. From them, he hoped to get direct and first-hand evidence on the role played by international law in today's political arena. By sounding them out as thoroughly as the author and team of researchers did, it is now possible to shed some light on the role played by law and lawyers in foreign affairs. Part I of this essay will describe the role Legal Advisers" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/125331064> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1052-2867#14_1> ;
+        <http://schema.org/name>       "The Role of Legal Advisers in Ensuring that Foreign Policy Conforms to International Legal Standards" ;
+        <http://schema.org/productID>  "7897947785" ;
+        <http://schema.org/url>        <http://paperity.org/p/84612509> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897947785> .
+
+<http://worldcat.org/issn/0886-3210#22>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0886-3210> ;
+        <http://schema.org/volumeNumber>
+                "22" .
+
+<http://worldcat.org/issn/0008-7254#46>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254> ;
+        <http://schema.org/volumeNumber>
+                "46" .
+
+<http://experiment.worldcat.org/entity/work/data/1058233963#Person/derek_e_bambauer>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Derek E. Bambauer" .
+
+<http://experiment.worldcat.org/entity/work/data/5521168073#Person/stanley_l_levine>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Stanley L. Levine" .
+
+<http://worldcat.org/issn/0889-7743#33>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "33" .
+
+<http://www.worldcat.org/oclc/7897988459>
+        a                              <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             40 ;
+        <http://purl.org/library/oclcnum>
+                "7897988459" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4390529452#Person/lan_cao> ;
+        <http://schema.org/description>
+                "This Article examines how and why the dollar is being challenged. Part I provides a brief history of the U.S. dollar, showing how it has evolved from something with intrinsic value to something that has no intrinsic value, except via government fiat. Part I traces the evolution of money in the United States, from its original foundation in commodities and gold and silver coins, to the creation of money via Federal Reserve notes which function as money substitutes, that is, paper instruments that represent gold and silver and presumably can be converted into real money. The aim of Part I is to show that money was originally rooted in something of value and that over time, its value was debased and became more attenuated and symbolic rather than intrinsic. Part II examines U.S. power after World War II and the rise of the dollar as the preferred currency of the international economic system. It will focus on the dominance of the dollar-centered global economy and discuss the “exorbitant privilege” the system has given the United States. For example, to protect this system and the privilege it bestows on the United States, the United States pressured its allies, particularly Germany, to refrain from demanding that dollars be exchanged for gold." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4390529452> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1052-2867#38_1> ;
+        <http://schema.org/name>       "Currency Wars and the Erosion of Dollar Hegemony" ;
+        <http://schema.org/productID>  "7897988459" ;
+        <http://schema.org/url>        <http://paperity.org/p/84626726> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897988459> .
+
+<http://www.worldcat.org/oclc/7897896158>
+        a                              <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/Article> ;
+        gr:displayPosition             24 ;
+        <http://purl.org/library/oclcnum>
+                "7897896158" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/88957091#Person/kwang_taeck_woo> ;
+        <http://schema.org/description>
+                "By Kwang-Taeck Woo, Published on 04/01/97" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/88957091> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#22_3> ;
+        <http://schema.org/name>       "The Comparison of Court-Connected Mediation in Florida and Korea" ;
+        <http://schema.org/productID>  "7897896158" ;
+        <http://schema.org/url>        <http://paperity.org/p/83562279> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897896158> .
+
+<http://experiment.worldcat.org/entity/work/data/402889332#Person/gregory_s_mcneal>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Gregory S. McNeal" .
+
+<http://worldcat.org/issn/0008-7254#16>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254> ;
+        <http://schema.org/volumeNumber>
+                "16" .
+
+<http://experiment.worldcat.org/entity/work/data/5520935259#Person/john_j_fitzpatrick_jr>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "John J Fitzpatrick Jr." .
+
+<http://experiment.worldcat.org/entity/work/data/4390529452#Person/lan_cao>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Lan Cao" .
+
+<http://paperity.org/p/82346206>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/5521226112#Agent/case_western_reserve_university_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Case Western Reserve University School of Law" .
+
+<http://www.worldcat.org/oclc/7310044172>
+        a                              <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             15 ;
+        <http://purl.org/library/oclcnum>
+                "7310044172" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/250989837#Person/angelo_forte> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/250989837> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0091-5440#26_3> ;
+        <http://schema.org/name>       "The United Nations Convention on Contracts for the International Sale of Goods: Reason and Unreason in the United Kingdom" ;
+        <http://schema.org/productID>  "7310044172" ;
+        <http://schema.org/url>        <http://paperity.org/p/81531666> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310044172> .
+
+<http://www.worldcat.org/title/-/oclc/7310044172>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310044172> ;
+        <http://schema.org/dateModified>
+                "2018-05-13" .
+
+<http://www.worldcat.org/oclc/7897909970>
+        a                              <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             14 ;
+        <http://purl.org/library/oclcnum>
+                "7897909970" ;
+        <http://schema.org/contributor>
+                <http://experiment.worldcat.org/entity/work/data/1058544043#Person/joel_p_trachtman> ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058544043#Person/jeffrey_l_dunoff> ;
+        <http://schema.org/description>
+                "In this Article, Professors Dunoff and Trachtman explore the potential utility and limitations of economic analysis of international law. To date, the law and economics revolution has largely bypassed international law. The Article identifies the three reasons why international lawyers have not extensively used economic analysis and explains why none of these reasons is persuasive. Second, the Article provides a reason to believe that economic analysis will enrich our understanding of international law by detailing an analogy between the market of international relations and traditional markets for goods. Subsequent parts explore the applicability of economic analysis to three important international law topics: the allocation of prescriptive jurisdiction, the law of treaties, and the competences of international organizations. In each of these parts, the authors analogize the international legal issue to a domestic legal issue, and then explore whether the economic methodologies that have been used domestically can be used on the international plane. They further identify certain methodologies, such as the new institutional economics and public choice theory, as having much greater promise in international legal analysis than other economic approaches, including price theory (when employed without reference to transaction costs and strategic considerations). Next, the Article outlines some of the conceptual and practical difficulties associated with economic analysis of international law. Finally, the Article outlines a progressive research program in the economic analysis of international law. The Article's larger purpose is to stimulate inquiry into the utility of applying various forms of economic analysis to international legal issues and, in so doing, to enrich international legal discourse and scholarship." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058544043> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#24_1> ;
+        <http://schema.org/name>       "Economic Analysis of International Law" ;
+        <http://schema.org/productID>  "7897909970" ;
+        <http://schema.org/url>        <http://paperity.org/p/83150690> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897909970> .
+
+<http://www.worldcat.org/title/-/oclc/7897909970>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897909970> ;
+        <http://schema.org/dateModified>
+                "2018-11-30" .
+
+<http://worldcat.org/issn/0889-7743#15>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "15" .
+
+<http://experiment.worldcat.org/entity/work/data/88957091#Person/kwang_taeck_woo>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Kwang-Taeck Woo" .
+
+<http://worldcat.org/issn/0889-7743#24_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#24> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/4251956571#Person/damjan_kukovec>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Damjan Kukovec" .
+
+<http://experiment.worldcat.org/entity/work/data/5520887036#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://www.worldcat.org/title/-/oclc/7897621112>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897621112> ;
+        <http://schema.org/dateModified>
+                "2019-01-07" .
+
+<http://experiment.worldcat.org/entity/work/data/1058544043#Person/jeffrey_l_dunoff>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Jeffrey L. Dunoff" .
+
+<http://www.worldcat.org/oclc/7310049570>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             20 ;
+        <http://purl.org/library/oclcnum>
+                "7310049570" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/234705823#Person/paul_l_hoffman> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/234705823> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#25_1> ;
+        <http://schema.org/name>       "\"The \"\"Blank Stare Phenomenon\"\": Proving Customary International Law in U.S. Courts\"" ;
+        <http://schema.org/productID>  "7310049570" ;
+        <http://schema.org/url>        <http://paperity.org/p/81821630> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310049570> .
+
+<http://www.worldcat.org/title/-/oclc/7310049570>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310049570> ;
+        <http://schema.org/dateModified>
+                "2018-05-13" .
+
+<http://paperity.org/p/83243683>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0046-578X#40_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#40> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://worldcat.org/issn/1086-7872#21_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872#21> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/250989837#Person/angelo_forte>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Angelo Forte" .
+
+<http://experiment.worldcat.org/entity/work/data/4992295813#Person/cwru_journal_of_international_law>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "CWRU Journal of International Law" .
+
+<http://worldcat.org/issn/0046-578X#3>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "3" .
+
+<http://experiment.worldcat.org/entity/work/data/5544033408#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/131996336#Person/matthew_bloom>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Matthew Bloom" .
+
+<http://experiment.worldcat.org/entity/work/data/5429155039#Agent/university_of_missouri_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Missouri School of Law" .
+
+<http://experiment.worldcat.org/entity/work/data/4106047656#Person/elizabeth_verner>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Elizabeth Verner" .
+
+<http://worldcat.org/issn/1052-2867>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Michigan Journal of International Law" ;
+        <http://schema.org/issn>       "1052-2867" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/125331064#Agent/university_of_michigan_law_school> , <http://experiment.worldcat.org/entity/work/data/4390529452#Agent/university_of_michigan_law_school> , <http://experiment.worldcat.org/entity/work/data/4251956571#Agent/university_of_michigan_law_school> .
+
+<http://experiment.worldcat.org/entity/work/data/1356568202#Person/caroline_gray_mcglamry>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Caroline Gray McGlamry" .
+
+<http://worldcat.org/issn/0009-3599>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chicago-Kent Law Review" ;
+        <http://schema.org/issn>       "0009-3599" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/1058500408#Agent/chicago_kent_college_of_law> , <http://experiment.worldcat.org/entity/work/data/4100764647#Agent/chicago_kent_college_of_law> .
+
+<http://worldcat.org/issn/0030-6185#42>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0030-6185> ;
+        <http://schema.org/volumeNumber>
+                "42" .
+
+<http://experiment.worldcat.org/entity/work/data/4100764647#Person/gopal_sreenivasan>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Gopal Sreenivasan" .
+
+<http://paperity.org/p/82887232>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/82385899>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0889-7743>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Yale Journal of International Law" ;
+        <http://schema.org/issn>       "0889-7743" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/131996336#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/1058544043#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/245449183#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/78112198#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/77213615#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/4755238440#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/4755336043#Agent/yale_law_school> , <http://experiment.worldcat.org/entity/work/data/189802450#Agent/yale_law_school> .
+
+<http://worldcat.org/issn/0008-7254#42_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254#42> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/83108202>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0889-7743#40>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "40" .
+
+<http://worldcat.org/issn/0091-5440#26_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0091-5440#26> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://www.worldcat.org/oclc/7310056676>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> , <http://schema.org/Article> ;
+        gr:displayPosition             25 ;
+        <http://purl.org/library/oclcnum>
+                "7310056676" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4691664462#Person/lilian_miles> ;
+        <http://schema.org/description>
+                "The Anglo American economic model, together with its corporate governance practices, is frequently regarded as the optimal instrument for achieving competitiveness and enhancing investor confidence, even by countries which do not share the culture and tradition from which it originated. Its corporate governance structures, shareholder friendly laws and liquid capital markets with high levels of disclosure are regarded as mechanisms which can enable ‘global’ standards of efficiency, transparency and accountability to be achieved. Many countries outside of the US and UK are encouraged by the international financial community to attract foreign business and investment by emulating this model. But to what extent is this model suitable for countries outside of those in which it was developed? This article examines this issue in relation to South Korea, an economy traditionally based on a state-led developmental model, but which has since the 1990s, experimented with the Anglo American model. Whilst many academics support the implementation of the Anglo American economic system on the basis that it will enable its economy to be competitive, others have counted the significant costs post implementation and have proposed alternative paths to economic growth. Some have gone so far as to suggest that the government should reject the Anglo American system altogether and instead, modernise the traditional state-guided growth model. This article argues that Korean policy makers need not adopt the Anglo American model wholesale, but can create an optimal environment for growth by combining the strengths of its traditional economic model with those under the Anglo American system." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4691664462> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1033-4505#20_2> ;
+        <http://schema.org/name>       "Transferring the Anglo American System to South Korea: At What Cost, and Are There Alternatives?" ;
+        <http://schema.org/productID>  "7310056676" ;
+        <http://schema.org/url>        <http://paperity.org/p/82085782> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310056676> .
+
+<http://www.worldcat.org/title/-/oclc/7897696585>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897696585> ;
+        <http://schema.org/dateModified>
+                "2018-11-30" .
+
+<http://worldcat.org/issn/0886-3210#2>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0886-3210> ;
+        <http://schema.org/volumeNumber>
+                "2" .
+
+<http://www.worldcat.org/oclc/7310080716>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             37 ;
+        <http://purl.org/library/oclcnum>
+                "7310080716" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4755238440#Person/harold_hongju_koh> ;
+        <http://schema.org/description>
+                "\"Professor Lobel premises his review on a flattering, but ultimately ill-chosen, comparison between my book and John Hart Ely's Democracy and Distrust: A Theory of Judicial Review. Both books, in his view, erroneously develop a \"\"process-based theory of the Constitution,\"\" and must therefore answer the same, familiar objection: that \"\"it is theoretically impossible to divide process from substance.\"\" Perhaps both books could be called \"\"process-based\"\" in the broad sense that each offers proposals to protect and improve the decision making processes of American governmental institutions. But there fruitful comparison largely ends. As its subtitle makes clear, Professor Ely's book sought to address Alexander Bickel's \"\"counter-majoritarian difficulty\"\" by endorsing a constitutional theory of judicial review that would limit courts to policing the processes of representative government. My book addresses a wholly different problem - the decline of our constitutional system of checks and balances in foreign affairs - and proposes an entirely different solution: legislative reform, through enactment of a framework statute (a \"\"national security charter\"\") to promote the balanced participation of all three branches of government in national security decision making.\"" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755238440> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#15_2> ;
+        <http://schema.org/name>       "Reply" ;
+        <http://schema.org/productID>  "7310080716" ;
+        <http://schema.org/url>        <http://paperity.org/p/83128938> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310080716> .
+
+<http://experiment.worldcat.org/entity/work/data/4694517433#Person/alexandra_merrett>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Alexandra Merrett" .
+
+<http://worldcat.org/issn/0008-7254#16_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254#16> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://paperity.org/p/82085782>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7897900049>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             9 ;
+        <http://purl.org/library/oclcnum>
+                "7897900049" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5521168073#Person/stanley_l_levine> ;
+        <http://schema.org/description>
+                "By Stanley L. Levine, Published on 01/01/71" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5521168073> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0886-3210#2_1> ;
+        <http://schema.org/name>       "United Nations Foreign Arbitral Awards Convention: United States Accession" ;
+        <http://schema.org/productID>  "7897900049" ;
+        <http://schema.org/url>        <http://paperity.org/p/82346206> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897900049> .
+
+<http://www.worldcat.org/title/-/oclc/7897912501>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897912501> ;
+        <http://schema.org/dateModified>
+                "2018-11-19" .
+
+<http://www.worldcat.org/oclc/7897614656>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             49 ;
+        <http://purl.org/library/oclcnum>
+                "7897614656" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5520880680#Person/nancy_claridge> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5520880680> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0030-6185#42_3> ;
+        <http://schema.org/name>       "Book Notes: From Nuremberg to the Hague: The Future of International Criminal Justice, by Philippe Sands (ed)" ;
+        <http://schema.org/productID>  "7897614656" ;
+        <http://schema.org/url>        <http://paperity.org/p/84691729> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897614656> .
+
+<http://www.worldcat.org/oclc/7897912501>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             4 ;
+        <http://purl.org/library/oclcnum>
+                "7897912501" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058430861#Person/nicole_m_skalla> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058430861> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#30_1> ;
+        <http://schema.org/name>       "China's One-Child Policy: Illegal Children and the Family Planning Law" ;
+        <http://schema.org/productID>  "7897912501" ;
+        <http://schema.org/url>        <http://paperity.org/p/83397778> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897912501> .
+
+<http://www.worldcat.org/title/-/oclc/7897614656>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897614656> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://www.worldcat.org/oclc/7897869128>
+        a                              <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             41 ;
+        <http://purl.org/library/oclcnum>
+                "7897869128" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4251956571#Person/damjan_kukovec> ;
+        <http://schema.org/description>
+                "This Article has several aims. First, the aim is to show the continuing importance and relevance of antitrust and international trade lawyers in countering the concentration of power in the hands of the few or in some geographic areas of the world, if some of the assumptions of antitrust and trade are adjusted. Second, the goal is to articulate a particular analysis from the perspective of the (European) periphery. As the recent Euro crises and the near exit of Greece from the Union show, the European prospect of development for all has not arrived. This Article will articulate the privilege of the corporations in a structurally privileged position of the European center to harm the industry of the periphery and offer one analysis and explanation for the reproduction of hierarchies and concentration of wealth in the center of the European Union. The doctrine developed on this basis is called “dumping practices of the center.” Third, the aim is to challenge the sensibility that economic thinking is the main culprit in the concentration of power and economic impoverishment of some parts or sections of the world. Rather, what needs to be challenged is the existing social understanding of injury, in economic thinking just as much as in thinking about equity or fairness. In arguing for a reversal of social understanding of harm, economic analysis can be used as an important tool for social transformation." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4251956571> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1052-2867#38_1> ;
+        <http://schema.org/name>       "Economic Law, Inequality, and Hidden Hierarchies on the EU Internal Market" ;
+        <http://schema.org/productID>  "7897869128" ;
+        <http://schema.org/url>        <http://paperity.org/p/84597973> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897869128> .
+
+<http://www.worldcat.org/oclc/7310649654>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             38 ;
+        <http://purl.org/library/oclcnum>
+                "7310649654" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4755807528#Person/ellin_e_rosenthal> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755807528> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0008-7254#16_2> ;
+        <http://schema.org/name>       "Book Review" ;
+        <http://schema.org/productID>  "7310649654" ;
+        <http://schema.org/url>        <http://paperity.org/p/82385899> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310649654> .
+
+<http://www.worldcat.org/title/-/oclc/7310649654>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310649654> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://experiment.worldcat.org/entity/work/data/4694517433#Agent/bond_university>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Bond University" .
+
+<http://worldcat.org/issn/0740-4824#26_4>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#26> ;
+        <http://schema.org/issueNumber>
+                "4" .
+
+<http://paperity.org/p/82822763>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4755194147#Agent/university_of_baltimore_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Baltimore Law" .
+
+<http://worldcat.org/issn/0740-4824#22>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "22" .
+
+<http://www.worldcat.org/oclc/7897606289>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             13 ;
+        <http://purl.org/library/oclcnum>
+                "7897606289" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4107436651#Person/gabriel_m_wilner> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4107436651> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#20_2> ;
+        <http://schema.org/name>       "Panel I--The Process of and Obstacles to United States Ratification of International Human Rights Instruments" ;
+        <http://schema.org/productID>  "7897606289" ;
+        <http://schema.org/url>        <http://paperity.org/p/81831998> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897606289> .
+
+<http://www.worldcat.org/title/-/oclc/7897606289>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897606289> ;
+        <http://schema.org/dateModified>
+                "2018-12-01" .
+
+<http://worldcat.org/issn/0740-4824#30_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#30> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://www.worldcat.org/title/-/oclc/7310178669>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310178669> ;
+        <http://schema.org/dateModified>
+                "2018-05-24" .
+
+<http://experiment.worldcat.org/entity/work/data/4691664462#Agent/bond_university>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Bond University" .
+
+<http://worldcat.org/issn/0889-7743#34>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "34" .
+
+<http://experiment.worldcat.org/entity/work/data/250989837#Agent/university_of_baltimore_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Baltimore Law" .
+
+<http://experiment.worldcat.org/entity/work/data/1058430861#Person/nicole_m_skalla>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Nicole M. Skalla" .
+
+<http://worldcat.org/issn/0046-578X#43>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "43" .
+
+<http://www.worldcat.org/title/-/oclc/7897744540>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897744540> ;
+        <http://schema.org/dateModified>
+                "2018-11-28" .
+
+<http://experiment.worldcat.org/entity/work/data/4755865097#Agent/osgoode_hall_law_school_of_york_university>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Osgoode Hall Law School of York University" .
+
+<http://experiment.worldcat.org/entity/work/data/234705823#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://experiment.worldcat.org/entity/work/data/5520887036#Person/phillip_c_jessup>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Phillip C Jessup" .
+
+<http://worldcat.org/issn/0889-7743#24_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#24> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/1033-4505>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Bond Law Review" ;
+        <http://schema.org/issn>       "1033-4505" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/4691664462#Agent/bond_university> , <http://experiment.worldcat.org/entity/work/data/4694517433#Agent/bond_university> .
+
+<http://experiment.worldcat.org/entity/work/data/4251956571#Agent/university_of_michigan_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Michigan Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/1927987039#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://www.worldcat.org/oclc/7897679984>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             39 ;
+        <http://purl.org/library/oclcnum>
+                "7897679984" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5520942508#Person/sharon_d_fitch> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5520942508> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0886-3210#22_2> ;
+        <http://schema.org/name>       "Dispute Settlement Under the North American Free Trade Agreement: Will the Political, Cultural and Legal Differences Between the United States and Mexico Inhibit the Establishment of Fair Dispute Settlement Procedures?" ;
+        <http://schema.org/productID>  "7897679984" ;
+        <http://schema.org/url>        <http://paperity.org/p/82462768> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897679984> .
+
+<http://paperity.org/p/84738756>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/title/-/oclc/7897679984>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897679984> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://worldcat.org/issn/0046-578X#25>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "25" .
+
+<http://www.worldcat.org/oclc/7897710875>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             33 ;
+        <http://purl.org/library/oclcnum>
+                "7897710875" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/245449183#Person/david_f_klein> ;
+        <http://schema.org/description>
+                "The emergence of an international law of human rights has substantially complicated the application of international law by U.S. courts. In the past, when international rules were thought only to affect relations between sovereigns, domestic courts could limit their application to situations involving one nation's infringement of another's rights. Such sovereign rights were well-established by practice, conventions, treaties, and scholarly writings. The recognition, following the genocides of this century, of human rights as a subject of international law has made the protection of international law available to numerous non-sovereign parties that did not enjoy it before. At the same time, however, it has complicated the task of discovering and applying international law in domestic settings. The utopian promise of a global law protecting all peoples has been brought within reach, but a cohesive theoretical framework for its application by domestic courts is still lacking. This Comment attempts to provide the outlines of such a framework." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/245449183> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#13_2> ;
+        <http://schema.org/name>       "A Theory for the Application of the Customary International Law of Human Rights by Domestic Courts" ;
+        <http://schema.org/productID>  "7897710875" ;
+        <http://schema.org/url>        <http://paperity.org/p/83233849> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897710875> .
+
+<http://www.worldcat.org/title/-/oclc/7897710875>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897710875> ;
+        <http://schema.org/dateModified>
+                "2018-11-24" .
+
+<http://experiment.worldcat.org/entity/work/data/77213615#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://www.worldcat.org/oclc/7897710664>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             3 ;
+        <http://purl.org/library/oclcnum>
+                "7897710664" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/77213615#Person/ruth_wedgwood> ;
+        <http://schema.org/description>
+                "The legal structure of warfare is a dramatic example of a changing regime, even while its fundamental principles remain constant. Conflict management asks that international actors devise and follow rules to prevent the reckless escalation and widening of conflicts-often requiring deterrence as well as defense-and to promote the termination of violence and the rebuilding of post-war confidence. Principles of humanity ask that conflicts be conducted in a way that minimizes the needless suffering of soldiers and protects noncombatant civilians. The application of these principles may not look the same in each era, with changes in technology, the character of conflicts, and the personality of the actors." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/77213615> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#24_2> ;
+        <http://schema.org/name>       "Responding to Terrorism: The Strikes Against bin Laden" ;
+        <http://schema.org/productID>  "7897710664" ;
+        <http://schema.org/url>        <http://paperity.org/p/83147323> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897710664> .
+
+<http://worldcat.org/issn/0046-578X#20_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#20> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://www.worldcat.org/title/-/oclc/7897710664>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897710664> ;
+        <http://schema.org/dateModified>
+                "2018-11-26" .
+
+<http://paperity.org/p/82285503>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/83551644>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/5429155039#Person/russell_l_weaver>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Russell L. Weaver" .
+
+<http://paperity.org/p/83397778>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0009-3599#80>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0009-3599> ;
+        <http://schema.org/volumeNumber>
+                "80" .
+
+<http://paperity.org/p/83150690>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0026-6604>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Missouri Law Review" ;
+        <http://schema.org/issn>       "0026-6604" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/5429155039#Agent/university_of_missouri_school_of_law> .
+
+<http://experiment.worldcat.org/entity/work/data/4755336043#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://worldcat.org/issn/0008-7254#42>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254> ;
+        <http://schema.org/volumeNumber>
+                "42" .
+
+<http://experiment.worldcat.org/entity/work/data/77213615#Person/ruth_wedgwood>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Ruth Wedgwood" .
+
+<http://worldcat.org/issn/0030-6185#43>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0030-6185> ;
+        <http://schema.org/volumeNumber>
+                "43" .
+
+<http://experiment.worldcat.org/entity/work/data/1058430908#Person/monique_marie_gallien>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Monique Marie Gallien" .
+
+<http://www.worldcat.org/title/-/oclc/7310684535>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310684535> ;
+        <http://schema.org/dateModified>
+                "2018-11-26" .
+
+<http://experiment.worldcat.org/entity/work/data/1058325962#Person/brian_s_tatum>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Brian S Tatum" .
+
+<http://worldcat.org/issn/0889-7743#33_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#33> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://www.worldcat.org/title/-/oclc/7310055690>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310055690> ;
+        <http://schema.org/dateModified>
+                "2018-06-08" .
+
+<http://www.worldcat.org/oclc/7897621112>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> ;
+        gr:displayPosition             18 ;
+        <http://purl.org/library/oclcnum>
+                "7897621112" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5520887036#Person/phillip_c_jessup> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5520887036> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#3_1> ;
+        <http://schema.org/name>       "Silence Gives Consent" ;
+        <http://schema.org/productID>  "7897621112" ;
+        <http://schema.org/url>        <http://paperity.org/p/82089378> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897621112> .
+
+<http://www.worldcat.org/title/-/oclc/7897895360>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897895360> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://worldcat.org/issn/1086-7872#30_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872#30> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/0886-3210#22_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0886-3210#22> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/4755807528#Person/ellin_e_rosenthal>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Ellin E. Rosenthal" .
+
+<http://worldcat.org/issn/0046-578X#20>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "20" .
+
+<http://worldcat.org/issn/0026-6604#42_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0026-6604#42> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://worldcat.org/issn/0008-7254#20_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254#20> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://worldcat.org/issn/1535-1785#4_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1535-1785#4> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/84851684>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4390529452#Agent/university_of_michigan_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Michigan Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/2569874621#Person/max_l_rettig>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Max L. Rettig" .
+
+<http://paperity.org/p/85389426>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/84852329>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4106047656#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://paperity.org/p/81937658>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4107436651#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://worldcat.org/issn/0030-6185#43_3>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0030-6185#43> ;
+        <http://schema.org/issueNumber>
+                "3" .
+
+<http://www.worldcat.org/title/-/oclc/7310707123>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310707123> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://experiment.worldcat.org/entity/work/data/121858262#Agent/university_of_pennsylvania_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Pennsylvania Law School" .
+
+<http://www.worldcat.org/title/-/oclc/7310024673>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310024673> ;
+        <http://schema.org/dateModified>
+                "2018-06-09" .
+
+<http://paperity.org/p/83745061>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7897696585>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             32 ;
+        <http://purl.org/library/oclcnum>
+                "7897696585" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/2569874621#Person/max_l_rettig> ;
+        <http://schema.org/description>
+                "More than a decade after the landmark trial of two Rwandan nuns for their role in the 1994 genocide, important lessons from the proceedings have yet to be fully explored. While scholars have vigorously debated the merits of international tribunals, hybrid courts, and local justice, comparatively little attention has focused on transnational trials—when national courts, typically in Europe and North America, exercise jurisdiction over foreign persons for crimes allegedly committed in foreign countries. Drawing on evidence collected in Belgium and Rwanda, including interviews, trial transcripts, and public opinion data, this Article uses the trial of the two Rwandan nuns to evaluate the strengths and weaknesses of transnational trials. The story of Srs. Gertrude and Kizito provides an example of how Belgium’s exercise of jurisdiction prevented two accused génocidaires from escaping the law’s reach. But their story also reveals the challenges associated with conducting a highly sensitive trial in a culturally and geographically distant land. Defense attorneys for the nuns argue that Belgian jurors were ill-equipped to sort truth from fiction because of their lack of familiarity with Rwandan culture. The Belgian government’s reluctance to grant a key witness a visa to testify at trial deprived the jury of the opportunity to hear and assess his testimony. Furthermore, public opinion data reveals that the trial failed to capture the attention of the Rwandan people, perhaps detracting from the trial’s capacity to promote norm penetration and reconciliation. The trial also implicitly privileged Belgian legal values, like due process and relatively light sentences, over Rwanda’s preference for harsher punishments. Before fully embracing universal jurisdiction and transnational trials, policymakers must carefully consider the goals they aim to achieve by prosecuting foreign citizens for crimes committed abroad." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/2569874621> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1546-6981#11_2> ;
+        <http://schema.org/name>       "Transnational Trials as Transitional Justice: Lessons from the Trial of Two Rwandan Nuns in Belgium" ;
+        <http://schema.org/productID>  "7897696585" ;
+        <http://schema.org/url>        <http://paperity.org/p/82887232> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897696585> .
+
+<http://worldcat.org/issn/0889-7743#26_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#26> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://worldcat.org/issn/0889-7743#40_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743#40> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://www.worldcat.org/title/-/oclc/7310041673>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310041673> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://experiment.worldcat.org/entity/work/data/1058500408#Person/fred_l_morrison>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Fred L. Morrison" .
+
+<http://worldcat.org/issn/0046-578X>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Georgia Journal of International & Comparative Law" ;
+        <http://schema.org/issn>       "0046-578X" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/5520935259#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/234705823#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/1058325962#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/4107436651#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/5521164284#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/4106047656#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/1356568202#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/1927987039#Agent/university_of_georgia_school_of_law> , <http://experiment.worldcat.org/entity/work/data/5520887036#Agent/university_of_georgia_school_of_law> .
+
+<http://experiment.worldcat.org/entity/work/data/125331064#Person/antonio_cassese>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Antonio Cassese" .
+
+<http://experiment.worldcat.org/entity/work/data/5544033408#Person/maria_aurora_fe_candelaria>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Maria Aurora Fe Candelaria" .
+
+<http://paperity.org/p/85581900>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/84691729>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/83365658>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7310094157>
+        a                              <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             26 ;
+        <http://purl.org/library/oclcnum>
+                "7310094157" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4755245031#Person/martha_salper> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755245031> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#2_2> ;
+        <http://schema.org/name>       "CASE COMMENT: United States v. Alaska" ;
+        <http://schema.org/productID>  "7310094157" ;
+        <http://schema.org/url>        <http://paperity.org/p/83574197> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310094157> .
+
+<http://www.worldcat.org/title/-/oclc/7310094157>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310094157> ;
+        <http://schema.org/dateModified>
+                "2018-11-26" .
+
+<http://paperity.org/p/83574197>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0046-578X#26>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "26" .
+
+<http://www.worldcat.org/oclc/7310178669>
+        a                              <http://schema.org/Article> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             6 ;
+        <http://purl.org/library/oclcnum>
+                "7310178669" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755336043> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#40_1> ;
+        <http://schema.org/name>       "Recent Developments" ;
+        <http://schema.org/productID>  "7310178669" ;
+        <http://schema.org/url>        <http://paperity.org/p/83113119> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310178669> .
+
+<http://worldcat.org/issn/1546-6981>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Washington University Global Studies Law Review" ;
+        <http://schema.org/issn>       "1546-6981" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/2569874621#Agent/washington_university_in_st_louis> .
+
+<http://experiment.worldcat.org/entity/work/data/1058322173#Person/david_sho_chao_hung>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "David Sho-Chao Hung" .
+
+<http://experiment.worldcat.org/entity/work/data/125331064#Agent/university_of_michigan_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Michigan Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/122168107#Agent/university_of_pennsylvania_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Pennsylvania Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/1356568202#Agent/university_of_georgia_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Georgia School of Law" .
+
+<http://worldcat.org/issn/0009-3599#81>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0009-3599> ;
+        <http://schema.org/volumeNumber>
+                "81" .
+
+<http://experiment.worldcat.org/entity/work/data/1058430861#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://www.worldcat.org/oclc/7897744540>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             23 ;
+        <http://purl.org/library/oclcnum>
+                "7897744540" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5429155039#Person/russell_l_weaver> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5429155039> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0026-6604#42_3> ;
+        <http://schema.org/name>       "Civil Procedure-Jurisdiction-Quasi in Rem Jurisdiction and the International Shoe Minimum Contacts Doctrine" ;
+        <http://schema.org/productID>  "7897744540" ;
+        <http://schema.org/url>        <http://paperity.org/p/83745061> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897744540> .
+
+<http://paperity.org/p/82333844>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7310088733>
+        a                              <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             17 ;
+        <http://purl.org/library/oclcnum>
+                "7310088733" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1058430908#Person/monique_marie_gallien> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1058430908> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#30_2> ;
+        <http://schema.org/name>       "\"\"\"No Existira la Pena de Muerte\"\": Does the United States Violate Regional Customary Law by Imposing the Death Penalty on Citizens of Puerto Rico\"" ;
+        <http://schema.org/productID>  "7310088733" ;
+        <http://schema.org/url>        <http://paperity.org/p/83365658> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310088733> .
+
+<http://worldcat.org/issn/0046-578X#41_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#41> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://www.worldcat.org/title/-/oclc/7310088733>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310088733> ;
+        <http://schema.org/dateModified>
+                "2018-05-14" .
+
+<http://worldcat.org/issn/1086-7872#30>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872> ;
+        <http://schema.org/volumeNumber>
+                "30" .
+
+<http://experiment.worldcat.org/entity/work/data/1058500408#Agent/chicago_kent_college_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Chicago-Kent College of Law" .
+
+<http://paperity.org/p/82011999>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0740-4824#30>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "30" .
+
+<http://experiment.worldcat.org/entity/work/data/189802450#Person/molly_beutz_land>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Molly Beutz Land" .
+
+<http://paperity.org/p/82606207>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/402889332#Agent/case_western_reserve_university_school_of_law>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Case Western Reserve University School of Law" .
+
+<http://experiment.worldcat.org/entity/work/data/131996336#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://www.worldcat.org/title/-/oclc/7897901205>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897901205> ;
+        <http://schema.org/dateModified>
+                "2018-11-28" .
+
+<http://worldcat.org/issn/0030-6185>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Osgoode Hall Law Journal" ;
+        <http://schema.org/issn>       "0030-6185" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/4755865097#Agent/osgoode_hall_law_school_of_york_university> , <http://experiment.worldcat.org/entity/work/data/5520880680#Agent/osgoode_hall_law_school_of_york_university> .
+
+<http://experiment.worldcat.org/entity/work/data/1058402570#Person/sophie_smyth>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Sophie Smyth" .
+
+<http://worldcat.org/issn/0009-3599#81_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0009-3599#81> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/82786319>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/81821630>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/1033-4505#20>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1033-4505> ;
+        <http://schema.org/volumeNumber>
+                "20" .
+
+<http://www.worldcat.org/oclc/7897998230>
+        a                              <http://schema.org/Article> , <http://schema.org/MediaObject> , <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             29 ;
+        <http://purl.org/library/oclcnum>
+                "7897998230" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/224940080#Person/blanche_sousi> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/224940080> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0740-4824#19_1> ;
+        <http://schema.org/name>       "French Banking Regulations: Can You Resist the Universal Banking Temptation?" ;
+        <http://schema.org/productID>  "7897998230" ;
+        <http://schema.org/url>        <http://paperity.org/p/85581900> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897998230> .
+
+<http://worldcat.org/issn/1052-2867#14>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1052-2867> ;
+        <http://schema.org/volumeNumber>
+                "14" .
+
+<http://www.worldcat.org/title/-/oclc/7897998230>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897998230> ;
+        <http://schema.org/dateModified>
+                "2018-12-01" .
+
+<http://paperity.org/p/82462768>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0740-4824#2>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/1058402570#Agent/university_of_pennsylvania_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Pennsylvania Law School" .
+
+<http://worldcat.org/issn/0046-578X#26_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#26> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/245449183#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/5521164284#Person/william_r_clontz>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "William R Clontz" .
+
+<http://experiment.worldcat.org/entity/work/data/78112198#Person/george_e_edwards>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "George E. Edwards" .
+
+<http://paperity.org/p/84770876>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/title/-/oclc/7897622152>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897622152> ;
+        <http://schema.org/dateModified>
+                "2018-12-04" .
+
+<http://www.worldcat.org/oclc/7310090130>
+        a                              <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             22 ;
+        <http://purl.org/library/oclcnum>
+                "7310090130" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/189802450#Person/molly_beutz_land> ;
+        <http://schema.org/description>
+                "\"The access to knowledge or \"\"A2K\"\" movement, a set of alliances demanding more equitable distribution of and greater access to knowledge for the world's populace, has gained enormous traction in recent years. Collaboration between A2K advocates and the human rights movement, another global movement concerned with distribution of and access to materials necessary to protect human health and welfare, has had a significant impact in areas such as the fight for access to medicines. Despite their shared goals, however, the A2K and human rights movements have historically focused on different issues with respect to online content. Human rights advocates have focused on abuses of state authority such as censorship, while those in the A2K movement have emphasized the risks of limits on state authority as a result of strengthened intellectual property protection worldwide.\"" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/189802450> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0889-7743#34_1> ;
+        <http://schema.org/name>       "Protecting Rights Online" ;
+        <http://schema.org/productID>  "7310090130" ;
+        <http://schema.org/url>        <http://paperity.org/p/83118303> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310090130> .
+
+<http://paperity.org/p/81831998>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/title/-/oclc/7310090130>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310090130> ;
+        <http://schema.org/dateModified>
+                "2018-11-24" .
+
+<http://worldcat.org/issn/0889-7743#24>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0889-7743> ;
+        <http://schema.org/volumeNumber>
+                "24" .
+
+<http://worldcat.org/issn/0740-4824#19_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#19> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/83562279>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7310684535>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             12 ;
+        <http://purl.org/library/oclcnum>
+                "7310684535" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/308982187#Person/rushmi_ramakrishna> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/308982187> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1086-7872#30_4> ;
+        <http://schema.org/name>       "Universal Rights, Non-Universal Process: Confronting Culturally Grounded Human Rights Abuses" ;
+        <http://schema.org/productID>  "7310684535" ;
+        <http://schema.org/url>        <http://paperity.org/p/84802729> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310684535> .
+
+<http://www.worldcat.org/oclc/7310055690>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> ;
+        gr:displayPosition             47 ;
+        <http://purl.org/library/oclcnum>
+                "7310055690" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4694517433#Person/alexandra_merrett> ;
+        <http://schema.org/description>
+                "This paper analyses the intersection between international trade and competition policy, using the proposed free trade agreement between Australia and the United States as a basis for examining key issues. The paper discusses rules of the international trading system relating to competition policy and market distortion, before considering the limitations of the multilateral system. The paper then considers free trade agreements as a means to overcome some of these limitations, before turning to the proposed Australian-American free trade agreement specifically, whereupon selected issues relating to competition policy and market distortion are closely examined." ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4694517433> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/1033-4505#15_2> ;
+        <http://schema.org/name>       "The Intersection Between International Trade and Competition Policy: As Illustrated by an Australian / American Free Trade Agreement" ;
+        <http://schema.org/productID>  "7310055690" ;
+        <http://schema.org/url>        <http://paperity.org/p/82285503> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310055690> .
+
+<http://www.worldcat.org/title/-/oclc/7310671188>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7310671188> ;
+        <http://schema.org/dateModified>
+                "2018-11-19" .
+
+<http://www.worldcat.org/oclc/7897895360>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             19 ;
+        <http://purl.org/library/oclcnum>
+                "7897895360" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/5521164284#Person/william_r_clontz> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/5521164284> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#26_1> ;
+        <http://schema.org/name>       "Panel I: United States Attitudes on the Role of the United Nations Regarding the Maintenance and the Restoration of Peace" ;
+        <http://schema.org/productID>  "7897895360" ;
+        <http://schema.org/url>        <http://paperity.org/p/81806345> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897895360> .
+
+<http://experiment.worldcat.org/entity/work/data/4755194147#Person/frank_a_decosta>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Frank A. DeCosta" .
+
+<http://paperity.org/p/82089378>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/1052-2867#38>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1052-2867> ;
+        <http://schema.org/volumeNumber>
+                "38" .
+
+<http://paperity.org/p/83147323>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4755245031#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://www.worldcat.org/title/-/oclc/7897669985>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897669985> ;
+        <http://schema.org/dateModified>
+                "2019-01-14" .
+
+<http://www.worldcat.org/oclc/7897606865>
+        a                              <http://schema.org/CreativeWork> , <http://schema.org/MediaObject> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> ;
+        gr:displayPosition             48 ;
+        <http://purl.org/library/oclcnum>
+                "7897606865" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4106047656#Person/elizabeth_verner> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4106047656> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#43_3> ;
+        <http://schema.org/name>       "Child Marriage in Yemen: A Violation of International Law" ;
+        <http://schema.org/productID>  "7897606865" ;
+        <http://schema.org/url>        <http://paperity.org/p/82011999> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7897606865> .
+
+<http://experiment.worldcat.org/entity/work/data/1927987039#Person/tina_cheng>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Tina Cheng" .
+
+<http://www.worldcat.org/title/-/oclc/7897606865>
+        a                          <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> , <http://www.w3.org/2006/gen/ont#InformationResource> ;
+        <http://rdfs.org/ns/void#inDataset>
+                <http://purl.oclc.org/dataset/paperity> ;
+        <http://schema.org/about>  <http://www.worldcat.org/oclc/7897606865> ;
+        <http://schema.org/dateModified>
+                "2018-11-27" .
+
+<http://worldcat.org/issn/0740-4824#31_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#31> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://paperity.org/p/82323958>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0091-5440#26>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0091-5440> ;
+        <http://schema.org/volumeNumber>
+                "26" .
+
+<http://paperity.org/p/81917990>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/81610442>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4755238440#Person/harold_hongju_koh>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Harold Hongju Koh" .
+
+<http://worldcat.org/issn/0008-7254#20>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0008-7254> ;
+        <http://schema.org/volumeNumber>
+                "20" .
+
+<http://worldcat.org/issn/0091-5440>
+        a                              <http://schema.org/Periodical> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "University of Baltimore Law Review" ;
+        <http://schema.org/issn>       "0091-5440" ;
+        <http://schema.org/publisher>  <http://experiment.worldcat.org/entity/work/data/250989837#Agent/university_of_baltimore_law> , <http://experiment.worldcat.org/entity/work/data/4755194147#Agent/university_of_baltimore_law> .
+
+<http://experiment.worldcat.org/entity/work/data/1058430908#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/308982187#Agent/university_of_pennsylvania_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "University of Pennsylvania Law School" .
+
+<http://experiment.worldcat.org/entity/work/data/1058544043#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://paperity.org/p/84597973>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://experiment.worldcat.org/entity/work/data/4691664462#Person/lilian_miles>
+        a                         <http://schema.org/Person> ;
+        <http://schema.org/name>  "Lilian Miles" .
+
+<http://www.worldcat.org/oclc/7310707123>
+        a                              <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/Article> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             10 ;
+        <http://purl.org/library/oclcnum>
+                "7310707123" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4755865097#Person/colleen_hanycz> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755865097> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0030-6185#43_3> ;
+        <http://schema.org/name>       "Book Review: International Dispute Resolution in Aboriginal Contexts, by Catherine Bell and David Kahane (eds)" ;
+        <http://schema.org/productID>  "7310707123" ;
+        <http://schema.org/url>        <http://paperity.org/p/84852329> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310707123> .
+
+<http://www.worldcat.org/oclc/7310024673>
+        a                              <http://schema.org/MediaObject> , <http://schema.org/Article> , <http://www.productontology.org/id/Web_document> , <http://schema.org/CreativeWork> ;
+        gr:displayPosition             46 ;
+        <http://purl.org/library/oclcnum>
+                "7310024673" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/1356568202#Person/caroline_gray_mcglamry> ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/1356568202> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0046-578X#40_3> ;
+        <http://schema.org/name>       "Kidnappers Without Borders: An Epidemic in Need of Global Solutions" ;
+        <http://schema.org/productID>  "7310024673" ;
+        <http://schema.org/url>        <http://paperity.org/p/81952943> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310024673> .
+
+<http://paperity.org/p/84802729>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://paperity.org/p/84612509>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://www.worldcat.org/oclc/7310041673>
+        a                              <http://schema.org/Article> , <http://schema.org/CreativeWork> , <http://www.productontology.org/id/Web_document> , <http://schema.org/MediaObject> ;
+        gr:displayPosition             34 ;
+        <http://purl.org/library/oclcnum>
+                "7310041673" ;
+        <http://schema.org/creator>    <http://experiment.worldcat.org/entity/work/data/4755194147#Person/frank_a_decosta> ;
+        <http://schema.org/description>
+                "\"In an effort to help the balance-of-payments deficit, the Revenue Act of 1971 included provisions authorizing creation of Domestic International Sales Corporations. Designed to discourage the continued use of foreign incorporated sales subsidiaries by domestic companies, election of DISC status permits an exporter to take maximum advantage of certain tax deferral provisions. However, the decision to \"\"bring home\"" ;
+        <http://schema.org/exampleOfWork>
+                <http://worldcat.org/entity/work/id/4755194147> ;
+        <http://schema.org/isPartOf>   <http://worldcat.org/issn/0091-5440#3_1> ;
+        <http://schema.org/name>       "Utilizing the Disc in Some Corporate Repatriations under Section 367" ;
+        <http://schema.org/productID>  "7310041673" ;
+        <http://schema.org/url>        <http://paperity.org/p/81610442> ;
+        <http://www.w3.org/2007/05/powder-s#describedby>
+                <http://www.worldcat.org/title/-/oclc/7310041673> .
+
+<http://worldcat.org/issn/1033-4505#20_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1033-4505#20> ;
+        <http://schema.org/issueNumber>
+                "2" .
+
+<http://experiment.worldcat.org/entity/work/data/5520880680#Agent/osgoode_hall_law_school_of_york_university>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Osgoode Hall Law School of York University" .
+
+<http://experiment.worldcat.org/entity/work/data/4755238440#Agent/yale_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Yale Law School" .
+
+<http://worldcat.org/issn/1086-7872#31>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/1086-7872> ;
+        <http://schema.org/volumeNumber>
+                "31" .
+
+<http://worldcat.org/issn/0046-578X#40>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X> ;
+        <http://schema.org/volumeNumber>
+                "40" .
+
+<http://worldcat.org/issn/0740-4824#31>
+        a                             <http://schema.org/PublicationVolume> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824> ;
+        <http://schema.org/volumeNumber>
+                "31" .
+
+<http://worldcat.org/issn/0046-578X#3_1>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0046-578X#3> ;
+        <http://schema.org/issueNumber>
+                "1" .
+
+<http://experiment.worldcat.org/entity/work/data/224940080#Agent/brooklyn_law_school>
+        a                         <http://bibliograph.net/Agent> ;
+        <http://schema.org/name>  "Brooklyn Law School" .
+
+<http://paperity.org/p/84902456>
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Paperity" .
+
+<http://worldcat.org/issn/0740-4824#2_2>
+        a                             <http://schema.org/PublicationIssue> ;
+        <http://schema.org/isPartOf>  <http://worldcat.org/issn/0740-4824#2> ;
+        <http://schema.org/issueNumber>
+                "2" .
