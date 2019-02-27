@@ -2,3 +2,5 @@
 
 Simple setup for connecting to OCLC's WorldCat Discovery API.
 
+Uses json editor
+

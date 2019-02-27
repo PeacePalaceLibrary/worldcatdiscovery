@@ -7,7 +7,7 @@ require_once './OCLC/User.php';
 */
 class DiscoveryQuery {
 
-  private $error_log = __DIR__.'/../pulllist_error';
+  private $error_log = __DIR__.'/../search_error';
   private $logging = 'all'; //'none','errors','all' (not yet implemented
 
   //must be provided as parameters in $pulllist = new Pulllist($wskey,$secret,$ppid), see __construct
@@ -25,18 +25,12 @@ class DiscoveryQuery {
   private $token_headers = ["Accept: application/json"];
   
   private $search_url = "https://beta.worldcat.org/discovery/bib/search";
-  public $search_params = ['q' => 'International law',
-                 'dbIds' => '638',
-                 //'heldBy' => 'NLVRD',
-                 'sortBy' => 'date',
-                 'itemsPerPage' => 50,
-                 'itemSubType' => 'digital',
-                 ];
+  public $search_params = [];
   private $search_method = 'GET';
-  private $search_headers = ["Accept: application/json"];
+  private $search_headers = [];
   private $is_json = TRUE;
   public $search_result = [];
-
+  public $list = null;
 
   public function __construct($wskey,$secret) {
     //oclc business
@@ -154,13 +148,64 @@ class DiscoveryQuery {
     return $token_authorization;
   }
 
-  public function wcds_search_request() {
+  public function wcds_search_request($headers,$params) {
+
+    $token_authorization = $this->get_access_token_authorization();
+    array_push($this->search_headers,$token_authorization);
+    foreach ($headers as $header) array_push($this->search_headers,$header);
+    
+    
+    foreach ($params as $k => $v) $this->search_params[$k] = $v;
+    
+    $urlparts = array();
+    foreach ($this->search_params as $k => $v) {
+      if (is_array($v)) {
+        foreach ($v as $w) $urlparts[] = $k.'='.urlencode($w);
+      }
+      else {
+        $urlparts[] = $k.'='.urlencode($v);
+      }
+    }
+    
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $this->search_url.'?'.implode('&',$urlparts));
+    
+    echo '<pre>'.$this->search_url.'?'.implode('&',$urlparts).'</pre>';
+    
+    curl_setopt($curl, CURLOPT_HTTPHEADER, $this->search_headers);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+
+    /*
+    curl_setopt($curl, CURLOPT_VERBOSE, true);
+    $verbose = fopen('stderr.txt', 'w+');
+    */
+    //curl_setopt($curl, CURLOPT_, );
+    //curl_setopt($curl, CURLOPT_, );
+
+    $result = curl_exec($curl);
+    //echo 'Result: '.$result;
+    $error_number = curl_errno($curl);
+
+    if ($error_number) {
+      $result = "Error: ".$error_number.": ".curl_error($curl)."\n".$result;
+      echo "Error: $result";
+    }
+    curl_close($curl);
+    //file_put_contents("result.json",$result);
+    if ($this->is_json) $result = json_decode($result,TRUE);
+    $this->search_result = $result;
+    
+    //debug:
+    
+  }
+
+  public function wcds_db_list() {
 
     $token_authorization = $this->get_access_token_authorization();
     array_push($this->search_headers,$token_authorization);
 
     $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $this->search_url.'?'.http_build_query($this->search_params));
+    curl_setopt($curl, CURLOPT_URL, 'https://beta.worldcat.org/discovery/database/list');
     curl_setopt($curl, CURLOPT_HTTPHEADER, $this->search_headers);
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 
@@ -182,7 +227,7 @@ class DiscoveryQuery {
     curl_close($curl);
     file_put_contents("result.json",$result);
     if ($this->is_json) $result = json_decode($result,TRUE);
-    $this->search_result = $result;
+    $this->list = $result;
     
     //debug:
     

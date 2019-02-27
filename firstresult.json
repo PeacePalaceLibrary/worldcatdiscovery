@@ -1,0 +1,155 @@
+{
+    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1029781118",
+    "@type": [
+        "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+        "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+    ],
+    "void:inDataset": {
+        "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+    },
+    "schema:about": {
+        "@id": "http:\/\/www.worldcat.org\/oclc\/1029781118",
+        "@type": [
+            "schema:Book",
+            "schema:CreativeWork"
+        ],
+        "gr:displayPosition": {
+            "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+            "@value": "1"
+        },
+        "library:oclcnum": "1029781118",
+        "library:placeOfPublication": {
+            "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/nyu",
+            "@type": "schema:Place",
+            "dcterms:identifier": "nyu"
+        },
+        "schema:about": [
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/drug_control_international_cooperation",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Drug control--International cooperation"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/drugs_of_abuse_law_and_legislation",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Drugs of abuse--Law and legislation"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/regulierung",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Regulierung"
+                }
+            },
+            {
+                "@id": "http:\/\/dewey.info\/class\/344.0545\/e23\/",
+                "@type": "schema:Intangible"
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/volkerrecht",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "V\u00f6lkerrecht"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/arzneimittel",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Arzneimittel"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/betaubungsmittel",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Bet\u00e4ubungsmittel"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/drogenmissbrauch",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Drogenmissbrauch"
+                }
+            },
+            {
+                "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Topic\/public_health_laws_international",
+                "@type": "schema:Intangible",
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Public health laws, International"
+                }
+            },
+            {
+                "@id": "http:\/\/id.loc.gov\/authorities\/classification\/K5282",
+                "@type": "schema:Intangible"
+            }
+        ],
+        "schema:author": {
+            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Person\/wisehart_daniel",
+            "@type": "schema:Person",
+            "schema:familyName": "Wisehart",
+            "schema:givenName": "Daniel",
+            "schema:name": "Daniel Wisehart"
+        },
+        "schema:bookFormat": {
+            "@id": "http:\/\/bibliograph.net\/PrintBook"
+        },
+        "schema:copyrightYear": "2019",
+        "schema:datePublished": "2019",
+        "schema:description": [
+            {
+                "@language": "en",
+                "@value": "\"This book provides for a...legal analysis of the international drug control system in light of the growing challenges and criticism that this system faces. In the current debate on global drug policy, the central pillars of the international drug control system \u2013 the UN drug conventions as well as its institutions \u2013 are portrayed as outdated, suppressive and seen as an obstacle to necessary changes. The book\u2019s objective is to provide...insight into drug control\u2019s present legal framework and thus provide for a better understanding of the normative assumptions upon which drug control is currently based. This is attained by clarifying the objectives of the international drug control system and the premises by which these objectives are to be achieved. The objective of the current global framework of international drug control is the limitation of drugs to medical and scientific purposes. The meaning of this objective and its concrete implications for states\u2019 parties as well as its problems from the perspective of other regimes of international law, most notably international human rights law, are extensively analysed. Additionally, the book focuses on how the international drug control system attempts to reach the objective of confining drugs to medical and scientific purposes, i.e. by setting up a universal system that exercises a rigid control on drug supply. The consequences of this heavy focus on the reduction of drug supply are outlined, and the book concludes by making suggestions on how the international drug control system could be reformed in the near future in order to better meet the existing challenges. The analysis occurs from a general international law perspective. It aims to map the international drug control system within a wider context of international law and to understand whether the problems that the international drug control system faces are exemplary for the difficulties that institutionalized systems of global scope face in the twenty-first century.\"--"
+            },
+            {
+                "@language": "en",
+                "@value": "Introduction -- The sources and actors of the international drug control system -- The emergence of the international drug control system -- The objective of the international drug control system : limitation of drugs to medical and scientific purposes -- The material scope of the international drug control system -- Challenges to the implementation of the international drug control system -- Concluding remarks and outlook."
+            }
+        ],
+        "schema:exampleOfWork": {
+            "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5478470037"
+        },
+        "schema:inLanguage": "en",
+        "schema:isPartOf": {
+            "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5478470037#Series\/routledge_research_in_international_law",
+            "@type": "http:\/\/bibliograph.net\/PublicationSeries",
+            "schema:hasPart": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1029781118"
+            },
+            "schema:name": [
+                "Routledge research in international law",
+                "Routledge research in international law."
+            ]
+        },
+        "schema:name": {
+            "@language": "en",
+            "@value": "Drug control and international law"
+        },
+        "schema:productID": "1029781118",
+        "schema:workExample": {
+            "@id": "http:\/\/worldcat.org\/isbn\/9781138486041",
+            "@type": "schema:ProductModel",
+            "schema:isbn": [
+                "9781138486041",
+                "1138486043"
+            ]
+        },
+        "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1029781118"
+        }
+    },
+    "schema:dateModified": "2019-02-18"
+}

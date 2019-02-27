@@ -1,0 +1,901 @@
+{
+    "@id": "https:\/\/beta.worldcat.org\/discovery\/bib\/search?datePublished=2019&dbIds=638&heldBy=NLVRD&itemsPerPage=10&q=private international law&sortBy=relevance&startIndex=0",
+    "@type": "discovery:SearchResults",
+    "discovery:hasPart": [
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1080520392",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1080520392",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:MediaObject",
+                    "schema:Book"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "1"
+                },
+                "library:oclcnum": "1080520392",
+                "library:placeOfPublication": {
+                    "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/sz",
+                    "@type": "schema:Place",
+                    "dcterms:identifier": "sz"
+                },
+                "schema:about": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508722240#Topic\/conflict_of_laws_bankruptcy",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Conflict of laws--Bankruptcy"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/id.loc.gov\/authorities\/classification\/K7510",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508722240#Topic\/law_administrative_law_&_regulatory_practice",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "LAW \/ Administrative Law & Regulatory Practice"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508722240#Topic\/conflict_of_laws_debtor_and_creditor",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Conflict of laws--Debtor and creditor"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/dewey.info\/class\/346.078\/e23\/",
+                        "@type": "schema:Intangible"
+                    }
+                ],
+                "schema:author": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508722240#Person\/moustaira_elina_n",
+                    "@type": "schema:Person",
+                    "schema:familyName": "Moustaira",
+                    "schema:givenName": "Elina N.",
+                    "schema:name": "Elina N. Moustaira"
+                },
+                "schema:bookFormat": {
+                    "@id": "schema:EBook"
+                },
+                "schema:datePublished": "2019",
+                "schema:description": [
+                    {
+                        "@language": "en",
+                        "@value": "Intro; Dedication; Preface; Contents; Chapter 1: Introduction; 1.1 General Comments; 1.2 History ofBankruptcy Law: Bankruptcy Stigma; 1.2.1 UK; 1.2.2 USA; 1.2.3 Australia; 1.3 Human Rights andInsolvency Law; 1.4 Concluding Comments; References; Chapter 2: Insolvency: International Insolvency; 2.1 Juridical Nature andAim ofInsolvency Proceedings; 2.2 Private International Law Meets Insolvency Law; 2.3 Universalism: Territorialism; 2.4 Secondary Proceedings: Local Priorities?; 2.5 Modified Universalism; 2.6 Is Modified Universalism Becoming Customary International Law?"
+                    },
+                    {
+                        "@language": "en",
+                        "@value": "This book presents problems that often arise in the context of international\/cross-border insolvencies; analyzes and compares national legislations and jurisprudence; elucidates the solutions offered by international\/regional instruments; and explores the differences in the implementation of these instruments by various countries and the consequences of these differences. It examines in detail a number of famous and less famous cases tried by national courts, in which it became readily apparent that insolvency law remains one of the bastions of national law. In addition, the book discusses the notion of transplanting foreign [international] insolvency rules and especially the influence that US insolvency law has exerted on other countries\u2019 insolvency [and international insolvency] law. Far from adopting an unrealistically optimistic stance, it soberly examines the complications of cross-border insolvencies, while also presenting potential solutions."
+                    }
+                ],
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5508722240"
+                },
+                "schema:genre": {
+                    "@language": "en",
+                    "@value": "Electronic books"
+                },
+                "schema:inLanguage": "en",
+                "schema:isSimilarTo": {
+                    "@id": "http:\/\/www.worldcat.org\/oclc\/1057651033",
+                    "@type": "schema:CreativeWork",
+                    "schema:isSimilarTo": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/1080520392"
+                    }
+                },
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "International insolvency law : national laws and international texts"
+                },
+                "schema:productID": "1080520392",
+                "schema:url": [
+                    {
+                        "@id": "http:\/\/ezproxy.eui.eu\/login?url=https:\/\/doi.org\/10.1007\/978-3-030-04450-3",
+                        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Full-text"
+                    },
+                    {
+                        "@id": "http:\/\/public.eblib.com\/choice\/PublicFullRecord.aspx?p=5627083",
+                        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Click here to view book"
+                    },
+                    {
+                        "@id": "https:\/\/ezproxy.aub.edu.lb\/login?url=https:\/\/doi.org\/10.1007\/978-3-030-04450-3",
+                        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "Click for access to e-book"
+                    },
+                    {
+                        "@id": "http:\/\/search.ebscohost.com\/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1992020"
+                    }
+                ],
+                "schema:workExample": {
+                    "@id": "http:\/\/worldcat.org\/isbn\/9783030044503",
+                    "@type": "schema:ProductModel",
+                    "schema:isbn": [
+                        "9783030044503",
+                        "3030044505"
+                    ]
+                },
+                "umbel:isLike": {
+                    "@id": "http:\/\/bnb.data.bl.uk\/id\/resource\/GBB918201"
+                },
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1080520392"
+                }
+            },
+            "schema:dateModified": "2019-02-26"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1082522877",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1082522877",
+                "@type": [
+                    "schema:MediaObject",
+                    "schema:Book",
+                    "schema:CreativeWork"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "2"
+                },
+                "library:oclcnum": "1082522877",
+                "library:placeOfPublication": {
+                    "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/ne",
+                    "@type": "schema:Place",
+                    "dcterms:identifier": "ne"
+                },
+                "schema:about": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Topic\/antitrust_law_europe",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Antitrust law--Europe"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Topic\/intellectual_property",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Intellectual property"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/id.loc.gov\/authorities\/classification\/K1401",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Topic\/antitrust_law",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Antitrust law"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Topic\/intellectual_property_europe",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Intellectual property--Europe"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Place\/europe",
+                        "@type": "schema:Place",
+                        "schema:name": "Europe."
+                    }
+                ],
+                "schema:bookFormat": {
+                    "@id": "schema:EBook"
+                },
+                "schema:datePublished": "2019",
+                "schema:description": {
+                    "@language": "en",
+                    "@value": "Collaborative standardisation and SEP Licensing:  a EU policy perspective \/ G. Bruzzone & S. Capozzi -- Economic considerations on mergers, IPR licensing and litigation : A EU perspective \/ C. Caffarra & P. R\u00e9gibeau -- Alternative dispute resolution in FRAND licensing : economic considerations for an effective framework \/ A. Chowdhury -- The \"New Madison\" v. the \"Old Europe\" doctrine : on re-balancing competition policy towards SEPs \/ A. Nicita & G. Corda -- Proprietary systems, innovation and competition : is there any scope for aftermarkets? \/ A. Pezzoli & C. D'Amore -- Rethinking monopolies \/ C. Birss -- Intellectual property and constitution with particular reference to the Italian system \/ B. Caravita -- Recent shots on a familiar battlefield : standard essential patents \/ I. Forrester & M. Domecq -- Antitrust and intellectual property in the United States and The European Union \/ D.H. Ginsburg, D. Geradin & K. Klovers -- SEPs licensing : a pro-competitive determination of FRAND royalties \/ G. Ghidini & G. Trabucco -- Unified Patent Court & antitrust \/ G. Muscolo -- Online platforms and antitrust : where do we go from here? \/ R. Nazzini -- Reflections on the legal assessment of excessive prices in EU competition law \/ C. Osti -- Automatic injunction in patent cases and European (competition) law \/ W. Hoyng & A.-C. Hoyng -- SEP, NPE, PAE, trolls and Huawei v. ZTE \/ M. Franzosi -- The Electricit\u00e9 De France 'Blue Ciel' trademark case between competition and intellectual property : old or new rorm of abuse of dominance? \/ M. Siragusa & F.M. Salerno -- Current issues on antitrust enforcement in the UK pharmaceutical sector \/ A. Coscelli, A. Groves & L. Ventura -- Competition law and IP rights in the pharmaceutical sector between technological development, consumer protection and health care costs : the Italian experience \/ E.A. Raffaelli -- Online markets, geo-blocking and competition \/ M. Tavassi & G. Bellomo -- Patent pools in the ERA of the 'Internet of Things' : a fine line between collusion, market power and efficiencies \/ M. Lo Bue -- The interaction of competition, regulation and IP rights in agriculture : towards a dynamic equilibrium? \/ I. Lianos -- Does the application of the exhaustion of rights doctrine in French law ensure a balanced and effective compromise between the free movement of goods and the protection of intellectual property rights? \/ M. Karsenty-Ricard -- Enforcement of FRAND commitments and competition law litigation of Standard-Essential Patents in Germany post-Huawei \/ H. Tsilikas -- Italian competition authority's news review service case : essential facilities and FRAND determination at the intersection between competition and IPR \/ A. Minuto Rizzo & C. Noto -- Reconciling competition and IP law : the case of patented pharmaceuticals and dominance abuse \/ C. Fonteijn, I. Akker & W. Sauter -- Public enforcement and private litigation in the UK : Pfizer and Flynn Pharma \/ G. Barling & R. Reumerman -- The interplay between competition law and intellectual property : the Brazilian experience \/ A. Martinez -- The interplay between competition law and intellectual property : a perspective from Canada \/ A. Gunderson -- The interplay between competition law and intellectual property : updates from India \/ N.S. Chopra & A.S. Sethi -- Russia and global challenges for competition law and policy in the new economy : Yandex v. Google, Kaspersky v. Microsoft, the Bayer-Monsanto merger and beyond \/ A. Ivanov -- Intersection between intellectual property law and competition law in South Africa \/ U.S. intellectual property and competition law \/ M.A. Carrier -- Epilogue \/ Richard Whish."
+                },
+                "schema:editor": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Person\/muscolo_gabriella",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Muscolo",
+                        "schema:givenName": "Gabriella",
+                        "schema:name": "Gabriella Muscolo"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Person\/sutton_alastair",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Sutton",
+                        "schema:givenName": "Alastair",
+                        "schema:name": "Alastair Sutton"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Person\/tavassi_marina",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Tavassi",
+                        "schema:givenName": "Marina",
+                        "schema:name": "Marina Tavassi"
+                    }
+                ],
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8863449056"
+                },
+                "schema:inLanguage": "en",
+                "schema:isPartOf": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8863449056#Series\/international_competition_law_series",
+                    "@type": "http:\/\/bibliograph.net\/PublicationSeries",
+                    "schema:hasPart": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/1082522877"
+                    },
+                    "schema:name": [
+                        "[International competition law series]",
+                        "International competition law series."
+                    ]
+                },
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "The interplay between competition law and intellectual property : an international perspective"
+                },
+                "schema:productID": "1082522877",
+                "schema:url": {
+                    "@id": "http:\/\/kluweriplaw.com\/book-toc?title=The%20Interplay%20Between%20Competition%20Law%20and%20Intellectual%20Property%3A%20An%20International%20Perspective"
+                },
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1082522877"
+                }
+            },
+            "schema:dateModified": "2019-02-14"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1083153707",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1083153707",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Book",
+                    "schema:MediaObject"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "3"
+                },
+                "library:oclcnum": "1083153707",
+                "library:placeOfPublication": {
+                    "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/enk"
+                },
+                "schema:about": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Topic\/law_commercial_general",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "LAW \/ Commercial \/ General"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/id.loc.gov\/authorities\/classification\/K7340",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Topic\/conflict_of_laws_commercial_law_englist_speaking_countries",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Conflict of laws--Commercial law--Englist-speaking countries"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/dewey.info\/class\/340.9\/e23\/",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Topic\/law_international",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "LAW \/ International"
+                        }
+                    }
+                ],
+                "schema:bookFormat": {
+                    "@id": "schema:EBook"
+                },
+                "schema:contributor": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Organization\/sydney_law_school",
+                    "@type": "schema:Organization",
+                    "schema:name": "Sydney Law School,"
+                },
+                "schema:creator": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Meeting\/commercial_issues_in_private_international_law_conference_2018_sydney_law_school",
+                    "@type": [
+                        "schema:Event",
+                        "http:\/\/bibliograph.net\/Meeting"
+                    ],
+                    "schema:location": {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Place\/sydney_law_school",
+                        "@type": "schema:Place",
+                        "schema:name": "Sydney Law School)"
+                    },
+                    "schema:name": "Commercial Issues in Private International Law (Conference) (2018 : Sydney Law School)"
+                },
+                "schema:datePublished": "2019",
+                "schema:description": [
+                    {
+                        "@language": "en",
+                        "@value": "Foreword \/ The Hon William Gummow AC -- Commercial issues in private international law \/ Steven Rares -- In absentia : the evolution and reform of Aaustralian rules of adjudicatory jurisdiction \/ Andrew Dickinson -- The exercise of jurisdiction and the role of enforcement \/ Vivienne Bath -- The case management stay in private international law \/ Reid Mortensen -- The 2005 Hague convention : a panacea for non-exclusive and asymmetric jurisdiction agreements too? \/ Brooke Marshall -- Reciprocal recognition and enforcement of foreign judgments in china : the proposal of a registration system \/ Jie (Jeanne) Huang -- Paying attention to choice of law in international commercial arbitration, or, why the conflict of laws always matters \/ Benjamin Hayward -- The conflict of laws as a shared language for the cross-border application of statutes \/ Maria Hook -- Choice of law in the age of statutes : a defence of statutory interpretation after valve \/ Michael Douglas -- New and alternative approaches to proof of foreign law : a practitioners' perspective \/ Justin Hogan-Doran and Dominique Hogan-Doran -- The rise of party autonomy in commercial conflict of laws \/ TM Yeo -- Developing Australian private international law : the Hague choice of court convention & the Hague principles of choice of law in international commercial contracts \/ Mary Keyes -- Concluding remarks \/ The Hon Justice Paul Le Gay Brereton AM RFD."
+                    },
+                    {
+                        "@language": "en",
+                        "@value": "\"As people, business, and information cross borders, so too do legal disputes. Globalisation means that courts need to apply principles of private international law with increasing frequency. Thus, as the Law Society of New South Wales recognised in its 2017 report TheFuture of Law and Innovation in the Profession, knowledge of private international law is increasingly important to the legal practice. In particular, it is essential to the modern practice of commercial law. This book considers key issues at the intersection of commercial law and private international law. The authors include lawyers, barristers, judges and academics from Australia, New Zealand, Singapore and the United Kingdom. They bring a common law perspective to contemporary problems concerning the key issues in private international law: jurisdiction, choice of law, and recognition and enforcement of foreign judgments. The book also addresses issues of evidence and procedure in cross-border litigation, and the impact of recent developments at the Hague Conference on Private International Law, including the Convention on Choice of Court Agreements, on common law principles of private international law. This book is for anyone interested in private international law. In particular, it may assist practitioners and students seeking to understand emerging and complex issues that arise in cross-border litigation\"--"
+                    }
+                ],
+                "schema:editor": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Person\/dickinson_andrew",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Dickinson",
+                        "schema:givenName": "Andrew",
+                        "schema:name": "Andrew Dickinson"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Person\/keyes_mary",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Keyes",
+                        "schema:givenName": "Mary",
+                        "schema:name": "Mary Keyes"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Person\/bath_vivienne",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Bath",
+                        "schema:givenName": "Vivienne",
+                        "schema:name": "Vivienne Bath"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Person\/douglas_michael_c",
+                        "@type": "schema:Person",
+                        "schema:familyName": "Douglas",
+                        "schema:givenName": "Michael C.",
+                        "schema:name": "Michael C. Douglas"
+                    }
+                ],
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5508708911"
+                },
+                "schema:genre": {
+                    "@language": "en",
+                    "@value": "Conference publication"
+                },
+                "schema:inLanguage": "en",
+                "schema:isPartOf": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5508708911#Series\/studies_in_private_international_law",
+                    "@type": "http:\/\/bibliograph.net\/PublicationSeries",
+                    "schema:hasPart": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/1083153707"
+                    },
+                    "schema:name": "Studies in private international law ;"
+                },
+                "schema:isSimilarTo": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/data\/5508708911#CreativeWork\/commercial_issues_in_private_international_law",
+                    "@type": "schema:CreativeWork",
+                    "schema:description": "Print version:",
+                    "schema:isSimilarTo": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/1083153707"
+                    },
+                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Commercial issues in private international law"
+                },
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Commercial issues in private international law : a common law perspective"
+                },
+                "schema:productID": "1083153707",
+                "schema:workExample": {
+                    "@id": "http:\/\/worldcat.org\/isbn\/9781509922888",
+                    "@type": "schema:ProductModel",
+                    "schema:isbn": [
+                        "9781509922888",
+                        "1509922881"
+                    ]
+                },
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1083153707"
+                }
+            },
+            "schema:dateModified": "2019-02-14"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1035301452",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1035301452",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Book"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "4"
+                },
+                "library:oclcnum": "1035301452",
+                "library:placeOfPublication": {
+                    "@id": "http:\/\/id.loc.gov\/vocabulary\/countries\/enk",
+                    "@type": "schema:Place",
+                    "dcterms:identifier": "enk"
+                },
+                "schema:about": [
+                    {
+                        "@id": "http:\/\/dewey.info\/class\/344.046\/e23\/",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Place\/europe_european_union_countries",
+                        "@type": "schema:Place",
+                        "schema:name": "Europe--European Union countries."
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Topic\/international_and_municipal_law_european_union_countries",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "International and municipal law--European Union countries"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Topic\/international_and_municipal_law",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "International and municipal law"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/id.loc.gov\/authorities\/classification\/K3585",
+                        "@type": "schema:Intangible"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Topic\/environmental_law_international",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Environmental law, International"
+                        }
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Topic\/environmental_policy_international_cooperation",
+                        "@type": "schema:Intangible",
+                        "schema:name": {
+                            "@language": "en",
+                            "@value": "Environmental policy--International cooperation"
+                        }
+                    }
+                ],
+                "schema:author": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/5523756383#Person\/heyvaert_veerle",
+                    "@type": "schema:Person",
+                    "schema:familyName": "Heyvaert",
+                    "schema:givenName": "Veerle",
+                    "schema:name": "Veerle Heyvaert"
+                },
+                "schema:bookFormat": {
+                    "@id": "http:\/\/bibliograph.net\/PrintBook"
+                },
+                "schema:copyrightYear": "2019",
+                "schema:datePublished": "2019",
+                "schema:description": [
+                    {
+                        "@language": "en",
+                        "@value": "1. The transformation of environmental regulation; 2. The concept of transnational environmental regulation; 3. Why regulate beyond the state?; 4. Strategies for environmental regulation: the recursive activities of regulation; 5. The activity-based model for TER strategies illustrated in five easy pieces; 6. The transformation of environmental regulatory strategies; 7. Transnational environmental regulation and the challenge to law; 8. Legal principles for transnational environmental regulation; 9. Environmental regulation transformed."
+                    },
+                    {
+                        "@language": "en",
+                        "@value": "\"A large and growing proportion of contemporary environmental regulation is transnational, which means that it is impossible to understand environmental governance without a firm grasp of the nature of transnational environmental regulation (TER). In this illuminating work, Veerle Heyvaert offers readers a comprehensive discussion of TER, including analysis of international environmental agreements, regional and EU regulation, private environmental regulation, and governance networks, arguing that TER is highly diverse but sufficiently cohesive to allow the identification of shared characteristics that establish TER as a model of regulation. The book uncovers the key features of TER, and analysesthe various intentions of TER regulators, TER's governance principlesand compliance strategies, using a newly developed activity-based methodology for regulatory analysis. This book should be read by anyone seeking to understand the strengths and weaknesses of transnational environmental governance and its contribution to sustainability\"--"
+                    }
+                ],
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/5523756383"
+                },
+                "schema:inLanguage": "en",
+                "schema:isSimilarTo": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/data\/5523756383#CreativeWork\/",
+                    "@type": "schema:CreativeWork",
+                    "schema:description": "ebook version :",
+                    "schema:isSimilarTo": {
+                        "@id": "http:\/\/www.worldcat.org\/oclc\/1035301452"
+                    }
+                },
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "Transnational environmental regulation and governance : purpose, strategies, and principles"
+                },
+                "schema:productID": "1035301452",
+                "schema:workExample": {
+                    "@id": "http:\/\/worldcat.org\/isbn\/9781108415743",
+                    "@type": "schema:ProductModel",
+                    "schema:isbn": [
+                        "9781108415743",
+                        "1108415741"
+                    ]
+                },
+                "umbel:isLike": {
+                    "@id": "http:\/\/bnb.data.bl.uk\/id\/resource\/GBB8J6366"
+                },
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1035301452"
+                }
+            },
+            "schema:dateModified": "2019-02-23"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1084245895",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/WorldCat"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/1084245895",
+                "@type": [
+                    "schema:Article",
+                    "schema:CreativeWork",
+                    "schema:MediaObject"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "5"
+                },
+                "library:oclcnum": "1084245895",
+                "schema:author": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8896452637#Person\/arato_julian",
+                    "@type": "schema:Person",
+                    "schema:familyName": "Arato",
+                    "schema:givenName": "Julian",
+                    "schema:name": "Julian Arato"
+                },
+                "schema:datePublished": "2019",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8896452637"
+                },
+                "schema:inLanguage": "en",
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0002-9300",
+                    "@type": "schema:Periodical",
+                    "schema:issn": "0002-9300",
+                    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "American journal of international law"
+                },
+                "schema:name": {
+                    "@language": "en",
+                    "@value": "The Private Law Critique of International Investment Law."
+                },
+                "schema:pagination": "Vol. 113, No. 1, p. 1-53,",
+                "schema:productID": "1084245895",
+                "schema:publication": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1084245895#PublicationEvent\/2019",
+                    "@type": "schema:PublicationEvent",
+                    "schema:startDate": "2019"
+                },
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/1084245895"
+                }
+            },
+            "schema:dateModified": "2019-02-10"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7985969859",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/CrossRef"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/7985969859",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Article"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "6"
+                },
+                "library:oclcnum": "7985969859",
+                "schema:creator": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8887410365#Person\/ni_shuilleabhain_maire",
+                    "@type": "schema:Person",
+                    "schema:name": "M\u00e1ire N\u00ed Sh\u00failleabh\u00e1in"
+                },
+                "schema:datePublished": "2019-01",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8887410365"
+                },
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0020-5893#68_1",
+                    "@type": "schema:PublicationIssue",
+                    "schema:datePublished": [
+                        "2019-01",
+                        "2019-01-01"
+                    ],
+                    "schema:isPartOf": {
+                        "@id": "http:\/\/worldcat.org\/issn\/0020-5893#68",
+                        "@type": "schema:PublicationVolume",
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0020-5893",
+                            "@type": "schema:Periodical",
+                            "schema:issn": "0020-5893",
+                            "schema:publisher": [
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8887410365#Agent\/cambridge_university_press_cup",
+                                    "@type": "http:\/\/bibliograph.net\/Agent",
+                                    "schema:name": "Cambridge University Press (CUP)"
+                                },
+                                {
+                                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Agent\/cambridge_university_press",
+                                    "@type": "http:\/\/bibliograph.net\/Agent",
+                                    "schema:name": "Cambridge University Press"
+                                }
+                            ],
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "International and Comparative Law Quarterly"
+                        },
+                        "schema:volumeNumber": "68"
+                    },
+                    "schema:issueNumber": "1"
+                },
+                "schema:name": "PRIVATE INTERNATIONAL LAW IMPLICATIONS OF \u2018EQUAL CIVIL PARTNERSHIPS\u2019",
+                "schema:pageEnd": "173",
+                "schema:pageStart": "161",
+                "schema:productID": "7985969859",
+                "schema:sameAs": {
+                    "@id": "http:\/\/dx.doi.org\/10.1017\/S0020589318000453"
+                },
+                "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "949 $l journal_article",
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7985969859"
+                }
+            },
+            "schema:dateModified": "2019-02-25"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7998062107",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/capcastoc"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/7998062107",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Article"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "7"
+                },
+                "library:oclcnum": "7998062107",
+                "schema:about": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Thing\/private_international_law",
+                        "@type": "schema:Thing",
+                        "schema:name": "private international law"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Thing\/civil_partnership",
+                        "@type": "schema:Thing",
+                        "schema:name": "civil partnership"
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Thing\/human_rights",
+                        "@type": "schema:Thing",
+                        "schema:name": "human rights"
+                    }
+                ],
+                "schema:creator": [
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Person\/",
+                        "@type": "schema:Person",
+                        "schema:name": ""
+                    },
+                    {
+                        "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8926252981#Person\/ni_shuilleabhain_m",
+                        "@type": "schema:Person",
+                        "schema:name": "Ni Shuilleabhain M."
+                    }
+                ],
+                "schema:datePublished": "2019-01-01",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8926252981"
+                },
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0020-5893#68_1"
+                },
+                "schema:name": "PRIVATE INTERNATIONAL LAW IMPLICATIONS OF 'EQUAL CIVIL PARTNERSHIPS'",
+                "schema:pageStart": "161",
+                "schema:productID": "7998062107",
+                "schema:sameAs": {
+                    "@id": "http:\/\/dx.doi.org\/10.1017\/S0020589318000453"
+                },
+                "http:\/\/www.w3.org\/2000\/01\/rdf-schema#comment": "949 $l Journal",
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7998062107"
+                }
+            },
+            "schema:dateModified": "2019-02-16"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997140031",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/blis"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/7997140031",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Article"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "8"
+                },
+                "library:oclcnum": "7997140031",
+                "schema:datePublished": "2019",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8924783455"
+                },
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0033-7250#83_1"
+                },
+                "schema:name": "Summary: The Role of Human Rights in Private International Law",
+                "schema:pageStart": "153",
+                "schema:productID": "7997140031",
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997140031"
+                }
+            },
+            "schema:dateModified": "2019-02-27"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997141186",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/blis"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/7997141186",
+                "@type": [
+                    "schema:Article",
+                    "schema:CreativeWork"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "9"
+                },
+                "library:oclcnum": "7997141186",
+                "schema:datePublished": "2019",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8924787860"
+                },
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0033-7250#83_1"
+                },
+                "schema:name": "Summary: Climate Change and Private International Law \u2014 Jurisdiction and Applicable Law in Transnational Litigation Concerning Individual Losses Caused by Global Warming",
+                "schema:pageStart": "109",
+                "schema:productID": "7997141186",
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997141186"
+                }
+            },
+            "schema:dateModified": "2019-02-19"
+        },
+        {
+            "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997141735",
+            "@type": [
+                "http:\/\/www.w3.org\/2006\/gen\/ont#ContentTypeGenericResource",
+                "http:\/\/www.w3.org\/2006\/gen\/ont#InformationResource"
+            ],
+            "void:inDataset": {
+                "@id": "http:\/\/purl.oclc.org\/dataset\/blis"
+            },
+            "schema:about": {
+                "@id": "http:\/\/www.worldcat.org\/oclc\/7997141735",
+                "@type": [
+                    "schema:CreativeWork",
+                    "schema:Article"
+                ],
+                "gr:displayPosition": {
+                    "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+                    "@value": "10"
+                },
+                "library:oclcnum": "7997141735",
+                "schema:creator": {
+                    "@id": "http:\/\/experiment.worldcat.org\/entity\/work\/data\/8924790259#Person\/jayme_erik",
+                    "@type": "schema:Person",
+                    "schema:name": "Erik Jayme"
+                },
+                "schema:datePublished": "2019",
+                "schema:exampleOfWork": {
+                    "@id": "http:\/\/worldcat.org\/entity\/work\/id\/8924790259"
+                },
+                "schema:isPartOf": {
+                    "@id": "http:\/\/worldcat.org\/issn\/0033-7250#83_1",
+                    "@type": "schema:PublicationIssue",
+                    "schema:datePublished": "2019",
+                    "schema:isPartOf": {
+                        "@id": "http:\/\/worldcat.org\/issn\/0033-7250#83",
+                        "@type": "schema:PublicationVolume",
+                        "schema:isPartOf": {
+                            "@id": "http:\/\/worldcat.org\/issn\/0033-7250",
+                            "@type": "schema:Periodical",
+                            "schema:issn": "0033-7250",
+                            "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": "Rabels Zeitschrift f\u00fcr ausl\u00e4ndisches und internationales Privatrecht"
+                        },
+                        "schema:volumeNumber": "83"
+                    },
+                    "schema:issueNumber": "1"
+                },
+                "schema:name": "Encyclopedia of Private International Law. Ed. by J\u00fcrgen Basedow, Giesela R\u00fchl, Franco Ferrari, Pedro de Miguel Asensio. 4 Volumes. Cheltenham, UK, Northampton, MA, USA 2017",
+                "schema:pageStart": "188",
+                "schema:productID": "7997141735",
+                "http:\/\/www.w3.org\/2007\/05\/powder-s#describedby": {
+                    "@id": "http:\/\/www.worldcat.org\/title\/-\/oclc\/7997141735"
+                }
+            },
+            "schema:dateModified": "2019-02-19"
+        }
+    ],
+    "discovery:itemsPerPage": {
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+        "@value": "10"
+    },
+    "discovery:startIndex": {
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+        "@value": "0"
+    },
+    "discovery:totalResults": {
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#integer",
+        "@value": "48"
+    }
+}
